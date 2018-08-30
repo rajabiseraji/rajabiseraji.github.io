@@ -10,7 +10,8 @@ import {
   VIcon,
   VGrid,
   VToolbar,
-  VAvatar
+  VAvatar,
+  VBottomNav
 } from 'vuetify'
 
 Vue.use(Vuetify, {
@@ -24,6 +25,7 @@ Vue.use(Vuetify, {
     VIcon,
     VGrid,
     VToolbar,
-    VAvatar
+    VAvatar,
+    VBottomNav
   }
 })

@@ -34,8 +34,20 @@
         <nuxt />
       </v-container>
     </v-content>
-    <v-footer :fixed="true" app>
-      <span>&copy; 2017</span>
+    <v-footer :fixed="true" height="48" app>
+      <v-container fill-height>
+        <v-layout row align-center fill-height>
+          <v-flex xs12 sm10>
+            <span>Coded with &#9825; by rajabiseraji - Using Nuxt and Vuetify</span>
+          </v-flex>
+          <v-flex>
+          <v-spacer></v-spacer>
+          </v-flex>
+          <v-flex class="text-xs-right" xs12 sm2>
+            <span>&copy; 2018</span>
+          </v-flex>
+        </v-layout>
+      </v-container>
     </v-footer>
   </v-app>
 </template>
@@ -44,6 +56,7 @@
   export default {
     data () {
       return {
+        bottomNav: 'recent',
         drawer: false,
         items: [
           { icon: 'apps', title: 'Overview', to: '/' },
