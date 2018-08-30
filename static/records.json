@@ -1,0 +1,857 @@
+{
+    "Name": "Mohammad Rajabi Seraji",
+    "Overview": "I am a passionate UI/UX developer and love designing seamless user experiences. I'm also a mathematics enthusiast and love learning about new ideas in the field.",
+    "Teaching": [
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
+            "timespan": "Sep 2017 - Jan 2018",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Computer Programming Lab",
+            "prof": "",
+            "description": "Teaching as computer programming lab lecturer, officially at AUT",
+            "end": "2018"
+        },
+        {
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Sep 2017- Jan 2018",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Internet Engineering",
+            "prof": "Dr. Bahador Bakhshi - Assistant Professor",
+            "description": "",
+            "end": "2018"
+        },
+		{
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Jan 2018- Jul 2018",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Internet Engineering",
+            "prof": "Dr. Bahador Bakhshi - Assistant Professor",
+            "description": "",
+            "end": "2018"
+        },
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
+            "timespan": "Jun 2015- Currently",
+            "location": "AUT SSC",
+            "course": "Basics of Web Design.............",
+            "prof": "",
+            "description": "Working as a lecturer in SSC courses, including Basics of Web Design, Project Management in DevOps, Advanced Web Design, Advanced Javascripting, Vue and React and also  Design of a functional back-end in Laravel, Hapi and Node.js",
+            "end": "-"
+        },
+        {
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Jan 2017 – Jul 2017",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "VLSI Systems Design",
+            "prof": "Dr. Mahmoud Momtazpour - Assistant Professor",
+            "description": "",
+            "end": "2017"
+        },
+		{
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Sep 2016 – Jan 2017",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Digital Design Automation Using FPGA",
+            "prof": "Dr. Morteza Saheb Zamani - Professor",
+            "description": "",
+            "end": "2017"
+        },
+		{
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Jan 2016 – Jun 2016",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Computer Architecture",
+            "prof": "Dr. Hamid R. Zarandi - Associate Professor",
+            "description": "",
+            "end": "2016"
+        },
+		{
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Sep 2015 – Jan 2016",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Logic Design",
+            "prof": "Dr. Mehdi Sedighi - Associate Professor",
+            "description": "",
+            "end": "2016"
+        },
+		{
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Sep 2015 – Jan 2016",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Advanced Programming",
+            "prof": "Dr. Bahman Poorvatan - Lecturer",
+            "description": "",
+            "end": "2016"
+        },
+		{
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Sep 2015 – Jan 2016",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Technical English",
+            "prof": "Dr. Majid Noorhosseini - Assistant Professor",
+            "description": "",
+            "end": "2016"
+        }
+    ],
+    "Working": [
+        {
+          "title": "Snappfood co.",
+          "titleDescription": "Senior Front-end Developer",
+          "timespan": "Sep 2017 - Currently",
+          "location": "Snappfood Co.",
+          "firstJob": "Senior Front-end Developer",
+          "firstJobDesc": "I’m the lead UI designer and manager of the new snappfood PWA project.",
+          "end": "2018"
+        },
+		{
+          "title": "Fandogh co.",
+          "titleDescription": "Senior Web Developer",
+          "timespan": "Oct 2016 - Sep 2017",
+          "location": "Fandogh Co.",
+          "firstJob": "Senior Web Developer",
+          "firstJobDesc": "My responsibilities include leading a team of junior developers in different projects",
+          "end": "2017"
+        },
+		{
+          "title": "AUT",
+          "titleDescription": "Senior Web Developer",
+          "timespan": "Apr 2016 - Dec 2016",
+          "location": "Department of International Affairs of AUT",
+          "firstJob": "Full-stack Web Developer",
+          "firstJobDesc": "Leading the university Fund Search Engine project and managing the back-end technologies used in it.",
+          "end": "2016"
+        },
+		{
+          "title": "AUT",
+          "titleDescription": "Senior Web Developer",
+          "timespan": "Apr 2016 - Dec 2016",
+          "location": "Department of International Affairs of AUT",
+          "firstJob": "Full-stack Web Developer",
+          "firstJobDesc": "Leading the university Fund Search Engine project and managing the back-end technologies used in it.",
+          "end": "2016"
+        },
+		{
+          "title": "AUT",
+          "titleDescription": "Head of Technology and Innovation Department of SSC",
+          "timespan": "Dec 2014 - Dec 2016",
+          "location": "AUT SSC",
+          "firstJob": "Head of Technology and Innovation Department of SSC",
+          "firstJobDesc": "Working as the chief of technology in S.S.C in CEIT. Our Projects at CEIT contains: icpc.aut.ac.ir (16th International AUT programming contest), linuxFestival",
+          "end": "2016"
+        }
+    ],
+    "Executive": [
+        {
+            "title": "Head of Technology and Innovation Department of SSC",
+            "titleDescription": "Head of Technology and Innovation Department of SSC",
+            "timespan": "Dec 2014 - Dec 2016",
+            "location": "Student Scientific Chapter of Faculty of Computer Engineering and IT of Amirkabir University of Technology",
+            "firstJob": "Responsibilities",
+            "firstJobDesc": "My responsibilities included contacting lecturers and coordinating talks and lectures. I also was responsible for development of S.S.C websites.",
+            "links": [
+                {
+                    "id": 1,
+                    "linkText": "CEIT Scientific Chapter Website",
+                    "linkURL": "https://ceit-ssc.ir/"
+                },
+                {
+                    "id": 2,
+                    "linkText": "CEIT Scientific Chapter Twitter",
+                    "linkURL": "https://twitter.com/ceit_ssc"
+                },
+                {
+                    "id": 3,
+                    "linkText": "Amirkabir University of Technology Student Associations Website",
+                    "linkDesc": "The site might fail on first load :| refresh it and you're good to go. (Thanks to the university for its efforts for maintaining the domain :/)",
+                    "linkURL": "http://sao-aut.ir/en"
+                },
+                {
+                    "id": 4,
+                    "linkText": "Amirkabir Student Associations Alumni",
+                    "linkURL": "http://sao-aut.ir/bashgah/#1448655880715-fdb9d431-d8db",
+                    "linkDesc": "You can see an awefull photo of me here and also this is only available in persian, again thanks to the university's aweful maintenance"
+                }
+            ],
+            "end": "2016"
+        },
+        {
+            "title": "KEY EXECUTIVE MEMBER",
+            "titleDescription": "Key Executive Member",
+            "timespan": "Nov 2017",
+            "location": "17<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
+            "firstJob": "Event Coordinator",
+            "firstJobDesc": "I was in charge of making arrangements with international teams, designing the contestant team placings so that the contest is diverse and fun enough for everyone.",
+            "secondJob": "Contest Staff",
+            "secondJobDesc": "During the contest I was also one of the staff that answered team questions and relayed the problems to the judges.",
+            "end": "2017",
+            "links": [
+                {
+                    "id": 1,
+                    "linkText": "AUT ICPC Website",
+                    "linkURL": "https://icpc.aut.ac.ir/"
+                },
+                {
+                    "id": 2,
+                    "linkText": "Checkout the event Tweets",
+                    "linkURL": "https://twitter.com/hashtag/AUTICPC?src=hash"
+                }
+            ]
+        },
+        {
+            "title": "KEY EXECUTIVE MEMBER",
+            "titleDescription": "Key Executive Member",
+            "timespan": "Nov 2016",
+            "location": "16<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
+            "firstJob": "Key Executive Member",
+            "firstJobDesc": "I was in charge of contacting different corporations in order to find sponsors for the event. I also managed all payments of the contest. I was also in charge of appointing the logistics team manager so that the contestants' requirements were properly satisfied.",
+            "end": "2016",
+            "links": [
+                {
+                    "id": 1,
+                    "linkText": "AUT ICPC Website - Past Contests",
+                    "linkURL": "https://icpc.aut.ac.ir/past"
+                },
+                {
+                    "id": 2,
+                    "linkText": "AUT ICPC Website - History",
+                    "linkURL": "https://icpc.aut.ac.ir/history"
+                },
+                {
+                  "id": 3,
+                  "linkText": "Checkout the event Tweets",
+                  "linkURL": "https://twitter.com/hashtag/AUTICPC?src=hash"
+                }
+            ]
+        },
+        {
+            "title": "KEY EXECUTIVE MEMBER",
+            "titleDescription": "Key Executive Member",
+            "timespan": "May 2017",
+            "location": "9<sup>th</sup> National Amirkabir Linux Festival",
+            "firstJob": "Key Executive Member",
+            "firstJobDesc": "I was in charge of contacting different corporations in order to find sponsors for the event. I also managed all payments of the contest. I was also in charge of appointing the logistics team manager so that the contestants' requirements were properly satisfied.",
+            "secondJob": "Workshop Coordinator",
+            "secondJobDesc": "I made the timetables and necessary coordinations with lecturers to assign the proper time slot for each workshop",
+            "end": "2018",
+            "links": [
+                {
+                    "id": 1,
+                    "linkText": "Amirkabir Student Association news piece on the event",
+                    "linkURL": "http://sao-aut.ir/%D9%86%D9%87%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D8%A7%D9%85%DB%8C%D8%B1%DA%A9%D8%A8%DB%8C%D8%B1/"
+                },
+                {
+                    "id": 2,
+                    "linkText": "Tweets About the Event",
+                    "linkURL": "https://twitter.com/ceit_ssc/status/729224579013591040"
+                }
+            ]
+        },
+        {
+            "title": "EXECUTIVE MEMBER",
+            "titleDescription": "Executive Member",
+            "timespan": "Nov 2015",
+            "location": "15<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
+            "firstJob": "Contest Staff",
+            "firstJobDesc": "During the contest I was also one of the staff that answered team questions and relayed the problems to the judges.",
+            "end": "2018",
+            "links": [{
+                "id": 1,
+                "linkText": "AUT ICPC Website - Past Contests",
+                "linkURL": "https://icpc.aut.ac.ir/past"
+              },
+              {
+                "id": 2,
+                "linkText": "AUT ICPC Website - History",
+                "linkURL": "https://icpc.aut.ac.ir/history"
+              }
+            ]
+        },
+        {
+          "title": "KEY EXECUTIVE MEMBER",
+          "titleDescription": "Executive Member",
+          "timespan": "May 2016",
+          "location": "8<sup>th</sup> National Amirkabir Linux Festival",
+          "firstJob": "Event Staff",
+          "firstJobDesc": "There was a bunch of different tasks I did as a staff member of the festival, including preperations of the classes, coordination with lecturers and check-in of the registrants.",
+          "end": "2018",
+          "links": [
+            {
+              "id": 1,
+              "linkText": "Linuxfest Twitter Account",
+              "linkURL": "https://twitter.com/LinuxFestival"
+            },
+            {
+              "id": 2,
+              "linkText": "CEIT Faculty news piece of the event",
+              "linkURL": "http://ceit.aut.ac.ir/autcms/news/newsDetail.htm?id=1778221294&depurl=computer-engineering&lang=fa&cid=20436092"
+            },
+            {
+              "id": 3,
+              "linkText": "Checkout the facebook posts",
+              "linkURL": "https://www.facebook.com/hashtag/linuxfestir"
+            }
+          ]
+        },
+		{
+          "title": "KEY EXECUTIVE MEMBER",
+          "titleDescription": "Executive Member",
+          "timespan": "May 2015",
+          "location": "7<sup>th</sup> National Amirkabir Linux Festival",
+          "firstJob": "Event Staff",
+          "firstJobDesc": "There was a bunch of different tasks I did as a staff member of the festival, including preperations of the classes, coordination with lecturers and check-in of the registrants.",
+          "end": "2018",
+          "links": [
+            {
+              "id": 1,
+              "linkText": "Linuxfest Twitter Account",
+              "linkURL": "https://twitter.com/LinuxFestival"
+            },
+            {
+              "id": 2,
+              "linkText": "CEIT Faculty news piece of the event",
+              "linkURL": "http://ceit.aut.ac.ir/autcms/news/newsDetail.htm?id=1778221294&depurl=computer-engineering&lang=fa&cid=20436092"
+            },
+            {
+              "id": 3,
+              "linkText": "Checkout the facebook posts",
+              "linkURL": "https://www.facebook.com/hashtag/linuxfestir"
+            }
+          ]
+        },
+		{
+            "title": "EXECUTIVE MEMBER",
+            "titleDescription": "Executive Member",
+            "timespan": "Nov 2014",
+            "location": "14<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
+            "firstJob": "Contest Staff",
+            "firstJobDesc": "During the contest I was also one of the staff that answered team questions and relayed the problems to the judges.",
+            "end": "2018",
+            "links": [{
+                "id": 1,
+                "linkText": "AUT ICPC Website - Past Contests",
+                "linkURL": "https://icpc.aut.ac.ir/past"
+              },
+              {
+                "id": 2,
+                "linkText": "AUT ICPC Website - History",
+                "linkURL": "https://icpc.aut.ac.ir/history"
+              }
+            ]
+        }
+    ],
+    "Education": [
+        {
+            "title": "BSc.",
+            "titleDescription": "Bachelor of Science",
+            "timespan": "2013 - 2018",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "major": "Major: Computer Engineering",
+            "minor": "Minor: Computer Architecture and Hardware Design",
+            "GPA": "GPA: 17.11/20 (A)",
+            "logo": "~/assets/img/aut.png",
+            "end": "2018"
+        },
+        {
+            "title": "HSDG",
+            "titleDescription": "High School Diploma Graduate",
+            "timespan": "2009 - 2013",
+            "location": "Alborz High School",
+            "major": "Major: Mathematics and Physics",
+            "GPA": "GPA: 19.9/20 (A)",
+            "end": "2013"
+        }
+    ],
+    "Projects": [
+        {
+            "id": 1,
+            "title": "Indoor Mapping and Tracking in Wi-Fi based Networks",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+            "duration": "Sep 2016 - Currently",
+            "description": "Using Wi-Fi fingerprinting, RGB-d imaging and acoustics alongside motion sensors to map an indoor location and track the user",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "title": "Snappfood Web",
+            "location": "Snappfood Co.",
+            "duration": "Nov 2017 - Currently",
+            "description": "A Progressive Web App (PWA) for the pioneer company in online food ordering, Snappfood.",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        },
+		{
+            "id": 3,
+            "title": "Amirkabir Buffet",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+            "duration": "Apr 2017 - Sep 2017",
+            "description": "Designing a website, mobile-app for the university cafeteria using Node.js, Vue and Nuxt.",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        },
+		{
+            "id": 4,
+            "title": "A.U.T Trouble Ticketing",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+            "duration": "Dec 2016 - Jun 2017",
+            "description": "",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        },
+		{
+            "id": 5,
+            "title": "A.U.T Fund Management",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+            "duration": "Jun 2016 - Sep 2016",
+            "description": "A system for managing the international funds in our university, using Laravel and PHP.",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        },
+		{
+            "id": 6,
+            "title": "Quadrotor Simulation with LQR Estimation in MATLAB",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+            "duration": "Apr 2017 - Jun 2017",
+            "description": "Linear Control Systems Course Project",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        },
+		{
+            "id": 7,
+            "title": "Design a Simple Scheduler C0-design with Spartan FPGA and Microblaze Core",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+            "duration": "Q3 2016",
+            "description": "CAD System Design with FPGA",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        },
+		{
+            "id": 8,
+            "title": "FEC Code Optimization in Wireless Sensor Networks",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+            "duration": "Q1 2016",
+            "description": "Research Method & Report Writing Course",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        },
+		{
+            "id": 9,
+            "title": "Adding networking context switch to XV6 O.S",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+            "duration": "Q2 2015",
+            "description": "Research Method & Report Writing Course",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        },
+		{
+            "id": 10,
+            "title": "Make a Simple C to Assembly Compiler",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+            "duration": "Q1 2014",
+            "description": "Introduction to Programming Course",
+            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+            "link": ""
+        }
+		
+    ],
+    "Skills": [
+        {
+            "id": 1,
+            "title": "Programming Languages",
+            "description": "Something",
+            "skills": [
+                {
+                    "id": 1, 
+                    "title": "C/C++",
+                    "logo": "cpp.png",
+                    "description": "Some C"
+                },
+                {
+                    "id": 2, 
+                    "title": "Java",
+                    "logo": "java.png",
+                    "description": "Some J"
+                },
+                {
+                    "id": 3, 
+                    "title": "Node.js",
+                    "logo": "node.png",
+                    "description": "Some JS"
+                },
+                {
+                    "id": 4, 
+                    "title": "VHDL",
+                    "description": "Some vhdl"
+                },
+                {
+                    "id": 5, 
+                    "title": "8086 Assembly",
+                    "description": "Some 8086"
+                },
+                {
+                    "id": 6, 
+                    "title": "8086 Assembly",
+                    "description": "Some 8086"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Multicore Programming",
+            "description": "Some Multi shit",
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "Nvidia CUDA",
+                    "logo": "cuda.png",
+                    "description": "Some Cuda"
+                },
+                {
+                    "id": 2,
+                    "title": "OpenMP",
+                    "logo": "openmp.png",
+                    "description": "Some open"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Graphics",
+            "description": "Some graphic",
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "G3D Innovation Engine",
+                    "logo": "https://casual-effects.com/g3d/G3D10/doc-files/G3D.jpg",
+                    "description": "Some G3d"
+                },
+                {
+                    "id": 2,
+                    "title": "Unity 3D",
+                    "logo": "",
+                    "description": "Still Learning"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "IDEs",
+            "description": "I'm quite comfortable working with these IDEs",
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "IntelliJ",
+                    "logo": "intellij.png",
+                    "description": "Some intellij"
+                },
+                {
+                    "id": 2,
+                    "title": "Eclipse",
+                    "logo": "eclipse.png",
+                    "description": "Some Eclipse"
+                },
+                {
+                    "id": 3,
+                    "title": "Android Studio",
+                    "logo": "anroidStudio.png",
+                    "description": "Some android"
+                },
+                {
+                    "id": 4,
+                    "title": "JetBrain's CLion",
+                    "logo": "clion.png",
+                    "description": "Some clion"
+                },
+                {
+                    "id": 5,
+                    "title": "Visual Studio",
+                    "logo": "visualStudio.png",
+                    "description": "Some visual"
+                },
+                {
+                    "id": 6,
+                    "title": "Visual Studio Code",
+                    "logo": "vscode.png",
+                    "description": "Some vscode"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Computer Architecture and Hardware Design",
+            "description": "some blah",
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "Xilinx ISE",
+                    "logo": "ise.png",
+                    "description": "Some ise"
+                },
+                {
+                    "id": 2,
+                    "title": "Xilinx Vivado",
+                    "logo": "vivado.png",
+                    "description": "Some vivado"
+                },
+                {
+                    "id": 3,
+                    "title": "Microprocessor Programming",
+                    "description": "Some micro"
+                },
+                {
+                    "id": 4,
+                    "title": "Atmel Studio",
+                    "logo": "https://cdn.mikroe.com/img/compilers/mikroc/avr/default/overview/atmel-logo-partners.png",
+                    "description": "Some atmel"
+                },
+                {
+                    "id": 5,
+                    "title": "Proteus",
+                    "logo": "proteus.jpg",
+                    "description": "Some proteus"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Operating Systems",
+            "description": "blah blah",
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "Microsoft Windows",
+                    "logo": "windows.png",
+                    "description": "Some windows"
+                }, 
+                {
+                    "id": 2,
+                    "title": "Ubuntu",
+                    "logo": "ubuntu.jpg",
+                    "description": "Some ubuntu"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Version Control Software",
+            "description": "blah git",
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "Git",
+                    "logo": "git.png",
+                    "description": "Some git"
+                } 
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Web Development - Front-end",
+            "description": "blah front",
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "Basics",
+                    "logo": "web.png",
+                    "description": "Some basics"
+                }, 
+                {
+                    "id": 2,
+                    "title": "Vue",
+                    "logo": "vue.png",
+                    "description": "Some vue"
+                },
+                {
+                    "id": 3,
+                    "title": "Nuxt",
+                    "logo": "nuxt.png",
+                    "description": "Some nuxt"
+                },
+                {
+                    "id": 4,
+                    "title": "Advanced JavaScript (ECMA 6)",
+                    "logo": "web.png",
+                    "description": "Some JS"
+                },
+                {
+                    "id": 5,
+                    "title": "JQuery",
+                    "logo": "jquery.gif",
+                    "description": "Some jquery"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Web Development - Back-end",
+            "description": "blah back",
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "Node.js",
+                    "logo": "node.png",
+                    "description": "Some node"
+                }, 
+                {
+                    "id": 2,
+                    "title": "Hapi",
+                    "logo": "hapi.png",
+                    "description": "Some hapi"
+                },
+                {
+                    "id": 3,
+                    "title": "MongoDB",
+                    "logo": "mongoDB.png",
+                    "description": "Some mongoDB"
+                },
+                {
+                    "id": 4,
+                    "title": "Microsoft SQL",
+                    "logo": "sql.png",
+                    "description": "Some sql"
+                }
+            ]
+        }
+    ],
+    "Awards": [
+        {
+            "id": 1,
+            "title": "<strong>Ranked 1<sup>st</sup></strong> as a member of <strong>11<sup>th</sup> Student Scientific Chapter</strong> of Computer Engineering and IT faculty of Amirkabir University of Technology ",
+            "time": "Sep 2016",
+            "location": "9<sup>th</sup> Harkat Festival"
+        },
+        {
+            "id": 2,
+            "title": "<strong>Ranked 1<sup>st</sup></strong> as a member of <strong>11<sup>th</sup> Student Scientific Chapter</strong> of Computer Engineering and IT faculty of Amirkabir University of Technology ",
+            "time": "May 2016",
+            "location": "Annual contest for outstanding Student Scientific Chapter of the University"
+
+        },
+		{
+            "id": 3,
+            "title": "<strong>Ranked 2<sup>nd</sup></strong> as a member of <strong>10<sup>th</sup> Student Scientific Chapter</strong> of Computer Engineering and IT faculty of Amirkabir University of Technology ",
+            "time": "May 2015",
+            "location": "Annual contest for outstanding Student Scientific Chapter of the University"
+
+        },
+		{
+            "id": 4,
+            "title": "<strong>Ranked 1<sup>st</sup></strong> among the students of Computer Engineering and IT faculty of Amirkabir University of Technology ",
+            "time": "Sep 2016",
+            "location": "Computer Engineering and IT faculty of Amirkabir University of Technology"
+
+        },
+        {
+            "id": 5,
+            "title": "Among <strong>top 0.4%</strong> of Iranians National University Entrance Exam",
+            "time": "Jun 2013",
+            "location": "Iranians National University Entrance Exam"
+        },
+        {
+            "id": 6,
+            "title": "Among <strong>top 10%</strong> of Iranians National Olympiad of Computer Science",
+            "time": "May 2011",
+            "location": "Iranians National Olympiad of Computer Science"
+        }
+    ],
+    "Contact": [
+        {
+            "title": "Email",
+            "type": "mail",
+            "icon": "envelope",
+            "value": "rajabiseraji@aut.ac.ir",
+            "url": "mailto:rajabiseraji%40aut.ac.ir"
+        },
+        {
+            "title": "Email",
+            "type": "mail",
+            "icon": "envelope",
+            "value": "rajabiseraji@outlook.com",
+            "url": "mailto:rajabiseraji%40outlook.com"
+        },
+        {
+            "title": "Cellphone Number",
+            "type": "phone",
+            "icon": "phone",
+            "hidden": false,
+            "value": "+98 930 495 99 68"
+        },
+        {
+            "title": "Home Number",
+            "type": "phone",
+            "icon": "phone",
+            "hidden": true,
+            "value": "+98 21 773 72 340",
+            "url": "mailto:rajabiseraji%40aut.ac.ir?subject=request%20phone&body=I%20wanted%20to%20request%20your%20home%20number"
+        },
+        {
+            "title": "Github",
+            "type": "github",
+            "icon": "github",
+            "value": "rajabiseraji",
+            "url": "https://github.com/rajabiseraji"
+        },
+        {
+            "title": "LinkedIn",
+            "type": "linkedin",
+            "icon": "linkedin",
+            "value": "Mohammad Rajabi",
+            "url": "https://www.linkedin.com/in/mohammad-rajabi-b59aa5a3/"
+        },
+        {
+            "title": "Twitter",
+            "type": "twitter",
+            "icon": "twitter",
+            "value": "@rajabiseraji",
+            "url": "https://twitter.com/rajabiseraji"
+        },
+        {
+            "title": "Instagram",
+            "type": "instagram",
+            "icon": "instagram",
+            "value": "rajabiseraji",
+            "url": "https://www.instagram.com/rajabiseraji/"
+        },
+        {
+            "title": "Faculty Homepage",
+            "type": "ceit",
+            "icon": "university",
+            "value": "Mohammad Rajabi Seraji",
+            "url": "http://ceit.aut.ac.ir/~9231039"
+        }
+    ],
+    "Story": [
+        {
+            "id": 1,
+            "text": "As a teenager, I loved reading and writing stories, studying mathematics and playing some sports. So I can summarize my teenage years in these activities and of course, being a potterhead!"
+        },
+        {
+            "id": 2,
+            "text": "My passion for math, electronics and basic things I knew about programming led me to a Computer Engineering BSc. Through these four years, I tried to extend my experiences in various zones. I gained programming skills, teaching and some research experience while studying as an undergrad student."
+        },
+        {
+            "id": 3,
+            "text": " I was chosen as a member of Student Scientific Chapter of our faculty, in which I was titled as the Head of Financial Affairs. During this year, I learned a lot about the procedure of holding different events, its requirements, managing the budget of events and the most important one, teamwork."
+        },
+        {
+            "id": 4,
+            "text": "In my third year of studies, I came across projects about computer graphics and that was the time I knew in what field I'm gonna continue my studies. I had finally found a way to game design and development which I've always loved, but couldn't totally pursue in my country. I'm currently studying about game design and game user research and definitely enjoying it ^_^"
+        },
+        {
+            "id": 5,
+            "type": "ps",
+            "text": "P.S: In case of being locked up behind problems just cast alohomora!"
+        }
+    ]
+}
+
