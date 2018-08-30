@@ -9,7 +9,7 @@
         </v-flex>
         <v-flex xs12>
           <v-layout row wrap>
-              <v-flex xs12 sm5 md3 class="mr-2 my-2" v-for="educationRecord in educationRecords" :key="educationRecord.id">
+              <v-flex xs12 sm4 md3 class="mr-2 my-2" v-for="educationRecord in educationRecords" :key="educationRecord.id">
                   <EducationItem :educationRecord="educationRecord" />
               </v-flex>
           </v-layout>
@@ -27,7 +27,8 @@ export default {
   },
   data () {
     return {
-      educationRecords: records.Education
+      educationRecords: records.Education,
+      lorem: `Lorem ipsum dolor sit amet, mel at clita quando. Te sit oratio vituperatoribus, nam ad ipsum posidonium mediocritatem, explicari dissentiunt cu mea. Repudiare disputationi vim in, mollis iriure nec cu, alienum argumentum ius ad. Pri eu justo aeque torquatos.`
     }
   }
 }

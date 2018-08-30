@@ -54,7 +54,7 @@
         <nuxt />
       </v-container>
     </v-content>
-    <v-footer :fixed="true" height="48" app>
+    <!-- <v-footer :fixed="true" height="48" app>
       <v-container fill-height>
         <v-layout row align-center fill-height>
           <v-flex xs12 sm10>
@@ -68,7 +68,7 @@
           </v-flex>
         </v-layout>
       </v-container>
-    </v-footer>
+    </v-footer> -->
   </v-app>
 </template>
 
