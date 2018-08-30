@@ -19,7 +19,7 @@
           <v-list-tile-action v-if="!item.image ? true : false">
             <v-icon v-html="item.icon"></v-icon>
           </v-list-tile-action>
-          <v-list-tile-avatar size="32" v-else tile>
+          <v-list-tile-avatar size="28" v-else tile>
             <img :src="item.image">
           </v-list-tile-avatar>
           <v-list-tile-content>
@@ -32,6 +32,22 @@
       <v-toolbar-side-icon @click="drawer = !drawer"></v-toolbar-side-icon>
       <v-toolbar-title v-text="title" class="font-weight-light"></v-toolbar-title>
       <v-spacer></v-spacer>
+
+      <v-btn href="https://github.com/rajabiseraji" target="_blank" icon>
+        <v-avatar size="20">
+          <img src="/github.svg" alt="g">
+        </v-avatar>
+      </v-btn>
+      <v-btn href="https://www.linkedin.com/in/mohammad-rajabi-b59aa5a3/" target="_blank" icon>
+        <v-avatar tile size="20">
+          <img src="/linkedin-logo.svg" alt="L">
+        </v-avatar>
+      </v-btn>
+      <v-btn href="https://www.instagram.com/rajabiseraji/" target="_blank" icon>
+        <v-avatar tile size="20">
+          <img src="/instagram.svg" alt="I">
+        </v-avatar>
+      </v-btn>
     </v-toolbar>
     <v-content>
       <v-container fill-height>
