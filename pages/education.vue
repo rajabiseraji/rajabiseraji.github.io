@@ -9,7 +9,7 @@
         </v-flex>
         <v-flex xs12>
           <v-layout row wrap>
-              <v-flex xs12 sm5 md3 class="mr-2" v-for="educationRecord in educationRecords" :key="educationRecord.id">
+              <v-flex xs12 sm5 md3 class="mr-2 my-2" v-for="educationRecord in educationRecords" :key="educationRecord.id">
                   <EducationItem :educationRecord="educationRecord" />
               </v-flex>
           </v-layout>
@@ -35,7 +35,7 @@ export default {
 
 <style>
   .my-container {
-    height: 100vh;
+    min-height: 100vh;
   }
 </style>
 
