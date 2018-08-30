@@ -31,10 +31,10 @@ module.exports = {
   build: {
     babel: {
       plugins: [
-        ["transform-imports", {
-          "vuetify": {
-            "transform": "vuetify/es5/components/${member}",
-            "preventFullImport": true
+        ['transform-imports', {
+          'vuetify': {
+            'transform': 'vuetify/es5/components/${member}',
+            'preventFullImport': true
           }
         }]
       ]
@@ -47,6 +47,12 @@ module.exports = {
     ** Run ESLint on save
     */
     extend (config, ctx) {
+      const vueLoader = config.module.rules.find((rule) => rule.loader === 'vue-loader')
+      vueLoader.options.transformToRequire = {
+        'img': 'src',
+        'image': 'xlink:href',
+        'v-img': 'src',
+      }
       if (ctx.isDev && ctx.isClient) {
         config.module.rules.push({
           enforce: 'pre',

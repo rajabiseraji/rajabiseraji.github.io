@@ -11,7 +11,9 @@ import {
   VGrid,
   VToolbar,
   VAvatar,
-  VBottomNav
+  VBottomNav,
+  transitions,
+  VDivider
 } from 'vuetify'
 
 Vue.use(Vuetify, {
@@ -26,6 +28,8 @@ Vue.use(Vuetify, {
     VGrid,
     VToolbar,
     VAvatar,
-    VBottomNav
+    VBottomNav,
+    transitions,
+    VDivider
   }
 })

@@ -358,7 +358,7 @@
             "major": "Major: Computer Engineering",
             "minor": "Minor: Computer Architecture and Hardware Design",
             "GPA": "GPA: 17.11/20 (A)",
-            "logo": "~/assets/img/aut.png",
+            "logo": "/aut.jpg",
             "end": "2018"
         },
         {
@@ -368,6 +368,7 @@
             "location": "Alborz High School",
             "major": "Major: Mathematics and Physics",
             "GPA": "GPA: 19.9/20 (A)",
+            "logo": "/alborz.jpg",
             "end": "2013"
         }
     ],
