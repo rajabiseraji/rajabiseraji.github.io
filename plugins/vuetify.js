@@ -13,7 +13,8 @@ import {
   VAvatar,
   VBottomNav,
   transitions,
-  VDivider
+  VDivider,
+  VTabs
 } from 'vuetify'
 
 Vue.use(Vuetify, {
@@ -30,6 +31,7 @@ Vue.use(Vuetify, {
     VAvatar,
     VBottomNav,
     transitions,
-    VDivider
+    VDivider,
+    VTabs
   }
 })
