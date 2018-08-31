@@ -111,7 +111,8 @@
           "location": "Snappfood Co.",
           "firstJob": "Senior Front-end Developer",
           "firstJobDesc": "I’m the lead UI designer and manager of the new snappfood PWA project.",
-          "end": "2018"
+          "end": "2018",
+          "logo": "/zoodfood.png"
         },
 		{
           "title": "Fandogh co.",
@@ -120,7 +121,8 @@
           "location": "Fandogh Co.",
           "firstJob": "Senior Web Developer",
           "firstJobDesc": "My responsibilities include leading a team of junior developers in different projects",
-          "end": "2017"
+          "end": "2017",
+          "logo": "/aut-eng.png"
         },
 		{
           "title": "AUT",
@@ -129,7 +131,8 @@
           "location": "Department of International Affairs of AUT",
           "firstJob": "Full-stack Web Developer",
           "firstJobDesc": "Leading the university Fund Search Engine project and managing the back-end technologies used in it.",
-          "end": "2016"
+          "end": "2016",
+          "logo": "/aut-eng.png"
         },
 		{
           "title": "AUT",
@@ -138,7 +141,8 @@
           "location": "Department of International Affairs of AUT",
           "firstJob": "Full-stack Web Developer",
           "firstJobDesc": "Leading the university Fund Search Engine project and managing the back-end technologies used in it.",
-          "end": "2016"
+          "end": "2016",
+          "logo": "/aut-eng.png"
         },
 		{
           "title": "AUT",
@@ -147,7 +151,8 @@
           "location": "AUT SSC",
           "firstJob": "Head of Technology and Innovation Department of SSC",
           "firstJobDesc": "Working as the chief of technology in S.S.C in CEIT. Our Projects at CEIT contains: icpc.aut.ac.ir (16th International AUT programming contest), linuxFestival",
-          "end": "2016"
+          "end": "2016",
+          "logo": "/aut-eng.png"
         }
     ],
     "Executive": [

@@ -14,7 +14,8 @@ import {
   VBottomNav,
   transitions,
   VDivider,
-  VTabs
+  VTabs,
+  VExpansionPanel
 } from 'vuetify'
 
 Vue.use(Vuetify, {
@@ -32,6 +33,7 @@ Vue.use(Vuetify, {
     VBottomNav,
     transitions,
     VDivider,
-    VTabs
+    VTabs,
+    VExpansionPanel
   }
 })
