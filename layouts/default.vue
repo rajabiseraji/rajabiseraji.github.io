@@ -83,6 +83,7 @@
           { icon: 'info', title: 'About me', to: '/about', image: '/information.svg' },
           { icon: 'school', title: 'Education', to: '/education', image: '/mortarboard.svg' },
           { icon: 'work', title: 'Experience', to: '/experience', image: '/briefcase.svg' },
+          { icon: 'work', title: 'Projects and Research', to: '/projects', image: '/analytics.svg' },
           { icon: 'color_lens', title: 'Skills', to: '/skills', image: '/skills.svg' },
           { icon: 'attach_money', title: 'Honours and Awards', to: '/awards', image: '/cup.svg' },
           { icon: 'contacts', title: 'Contact', to: '/contact', image: '/contact.svg' }
