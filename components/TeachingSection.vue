@@ -1,7 +1,6 @@
 <template>
     <v-expansion-panel
       expand
-      popout
     >
       <v-expansion-panel-content
         v-for="record in teachingRecords"

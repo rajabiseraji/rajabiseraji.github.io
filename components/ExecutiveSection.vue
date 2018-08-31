@@ -3,18 +3,18 @@
       expand
     >
       <v-expansion-panel-content
-        v-for="record in industryRecords"
+        v-for="record in executiveRecords"
         :key="record.id"
       >
         <div slot="header">
             <v-layout row wrap>
-                <v-flex xs12 sm2 justify-center>
+                <v-flex v-if="record.logo" xs12 sm2 justify-center>
                     <v-avatar tile>
                         <img :src="record.logo" :alt="record.title"/>
                     </v-avatar>
                 </v-flex>
                 <v-flex xs12 sm10>
-                    <div class="subheading">{{record.titleDescription + " | " + record.location}}</div>
+                    <div class="subheading"><span>{{record.titleDescription + " | "}}</span><span v-html="record.location"></span></div>
                     <div class="caption">{{record.timespan}} </div>
                 </v-flex>
             </v-layout>
@@ -33,7 +33,7 @@ import records from '~/static/records.json'
 export default {
   data () {
     return {
-      industryRecords: records.Working
+      executiveRecords: records.Executive
     }
   }
 }

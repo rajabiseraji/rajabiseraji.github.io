@@ -52,6 +52,11 @@
         </v-tab-item>
         <v-tab-item id="executive">
           <v-card flat>
+            <v-layout row wrap> 
+                <v-flex xs12>
+                  <ExecutiveSection />
+                </v-flex>
+            </v-layout>
           </v-card>
         </v-tab-item>
       </v-tabs>
@@ -63,10 +68,12 @@
 <script>
 import TeachingSection from '~/components/TeachingSection'
 import IndustrySection from '~/components/IndustrySection'
+import ExecutiveSection from '~/components/ExecutiveSection'
 export default {
   components: {
     TeachingSection,
-    IndustrySection
+    IndustrySection,
+    ExecutiveSection
   },
   data () {
     return {
