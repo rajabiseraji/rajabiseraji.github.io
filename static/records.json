@@ -377,99 +377,103 @@
             "end": "2013"
         }
     ],
-    "Projects": [
-        {
-            "id": 1,
-            "title": "Indoor Mapping and Tracking in Wi-Fi based Networks",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
-            "duration": "Sep 2016 - Currently",
-            "description": "Using Wi-Fi fingerprinting, RGB-d imaging and acoustics alongside motion sensors to map an indoor location and track the user",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        },
-        {
-            "id": 2,
-            "title": "Snappfood Web",
-            "location": "Snappfood Co.",
-            "duration": "Nov 2017 - Currently",
-            "description": "A Progressive Web App (PWA) for the pioneer company in online food ordering, Snappfood.",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        },
-		{
-            "id": 3,
-            "title": "Amirkabir Buffet",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
-            "duration": "Apr 2017 - Sep 2017",
-            "description": "Designing a website, mobile-app for the university cafeteria using Node.js, Vue and Nuxt.",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        },
-		{
-            "id": 4,
-            "title": "A.U.T Trouble Ticketing",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
-            "duration": "Dec 2016 - Jun 2017",
-            "description": "",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        },
-		{
-            "id": 5,
-            "title": "A.U.T Fund Management",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
-            "duration": "Jun 2016 - Sep 2016",
-            "description": "A system for managing the international funds in our university, using Laravel and PHP.",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        },
-		{
-            "id": 6,
-            "title": "Quadrotor Simulation with LQR Estimation in MATLAB",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
-            "duration": "Apr 2017 - Jun 2017",
-            "description": "Linear Control Systems Course Project",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        },
-		{
-            "id": 7,
-            "title": "Design a Simple Scheduler C0-design with Spartan FPGA and Microblaze Core",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
-            "duration": "Q3 2016",
-            "description": "CAD System Design with FPGA",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        },
-		{
-            "id": 8,
-            "title": "FEC Code Optimization in Wireless Sensor Networks",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
-            "duration": "Q1 2016",
-            "description": "Research Method & Report Writing Course",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        },
-		{
-            "id": 9,
-            "title": "Adding networking context switch to XV6 O.S",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
-            "duration": "Q2 2015",
-            "description": "Research Method & Report Writing Course",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        },
-		{
-            "id": 10,
-            "title": "Make a Simple C to Assembly Compiler",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
-            "duration": "Q1 2014",
-            "description": "Introduction to Programming Course",
-            "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-            "link": ""
-        }
+    "Projects": {
+        "Research": [
+            {
+                "id": 1,
+                "title": "Indoor Mapping and Tracking in Wi-Fi based Networks",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Sep 2016 - Currently",
+                "description": "Using Wi-Fi fingerprinting, RGB-d imaging and acoustics alongside motion sensors to map an indoor location and track the user",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            },
+            {
+                "id": 6,
+                "title": "Quadrotor Simulation with LQR Estimation in MATLAB",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Apr 2017 - Jun 2017",
+                "description": "Linear Control Systems Course Project",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            },
+            {
+                "id": 7,
+                "title": "Design a Simple Scheduler C0-design with Spartan FPGA and Microblaze Core",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Q3 2016",
+                "description": "CAD System Design with FPGA",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            },
+            {
+                "id": 8,
+                "title": "FEC Code Optimization in Wireless Sensor Networks",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Q1 2016",
+                "description": "Research Method & Report Writing Course",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            }
+        ],
+        "Projects": [
+            {
+                "id": 2,
+                "title": "Snappfood Web",
+                "location": "Snappfood Co.",
+                "duration": "Nov 2017 - Currently",
+                "description": "A Progressive Web App (PWA) for the pioneer company in online food ordering, Snappfood.",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            },
+            {
+                "id": 3,
+                "title": "Amirkabir Buffet",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Apr 2017 - Sep 2017",
+                "description": "Designing a website, mobile-app for the university cafeteria using Node.js, Vue and Nuxt.",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            },
+            {
+                "id": 4,
+                "title": "A.U.T Trouble Ticketing",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Dec 2016 - Jun 2017",
+                "description": "",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            },
+            {
+                "id": 5,
+                "title": "A.U.T Fund Management",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Jun 2016 - Sep 2016",
+                "description": "A system for managing the international funds in our university, using Laravel and PHP.",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            },
+            {
+                "id": 9,
+                "title": "Adding networking context switch to XV6 O.S",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Q2 2015",
+                "description": "Research Method & Report Writing Course",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            },
+            {
+                "id": 10,
+                "title": "Make a Simple C to Assembly Compiler",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Q1 2014",
+                "description": "Introduction to Programming Course",
+                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "link": ""
+            }
+        ]
 		
-    ],
+    },
     "Skills": [
         {
             "id": 1,
