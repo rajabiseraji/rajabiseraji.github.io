@@ -15,7 +15,8 @@ import {
   transitions,
   VDivider,
   VTabs,
-  VExpansionPanel
+  VExpansionPanel,
+  VDialog
 } from 'vuetify'
 
 Vue.use(Vuetify, {
@@ -34,6 +35,7 @@ Vue.use(Vuetify, {
     transitions,
     VDivider,
     VTabs,
-    VExpansionPanel
+    VExpansionPanel,
+    VDialog
   }
 })

@@ -478,257 +478,72 @@
         {
             "id": 1,
             "title": "Programming Languages",
+            "image": "/file.svg",
             "description": "Something",
             "skills": [
                 {
                     "id": 1, 
-                    "title": "C/C++",
-                    "logo": "cpp.png",
-                    "description": "Some C"
+                    "title": "Node.js",
+                    "duration": "4 Years",
+                    "expertise": "Expert",
+                    "logo": "/nodejs.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 },
                 {
                     "id": 2, 
-                    "title": "Java",
-                    "logo": "java.png",
-                    "description": "Some J"
+                    "title": "JavaScript (ECMA 6)",
+                    "duration": "4 Years",
+                    "expertise": "Expert",
+                    "logo": "/es6.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 },
                 {
                     "id": 3, 
-                    "title": "Node.js",
-                    "logo": "node.png",
-                    "description": "Some JS"
+                    "title": "PHP",
+                    "duration": "4 Years",
+                    "expertise": "Quite Good",
+                    "logo": "/php.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 },
                 {
                     "id": 4, 
-                    "title": "VHDL",
-                    "description": "Some vhdl"
-                },
-                {
-                    "id": 5, 
-                    "title": "8086 Assembly",
-                    "description": "Some 8086"
-                },
-                {
-                    "id": 6, 
-                    "title": "8086 Assembly",
-                    "description": "Some 8086"
+                    "title": "Java (J2EE)",
+                    "duration": "3 Years",
+                    "expertise": "Good",
+                    "logo": "/java.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 }
             ]
         },
         {
             "id": 2,
-            "title": "Multicore Programming",
+            "title": "Tools and Developement Environments",
+            "image": "/ide.svg",
             "description": "Some Multi shit",
             "skills": [
                 {
-                    "id": 1,
-                    "title": "Nvidia CUDA",
-                    "logo": "cuda.png",
-                    "description": "Some Cuda"
-                },
-                {
-                    "id": 2,
-                    "title": "OpenMP",
-                    "logo": "openmp.png",
-                    "description": "Some open"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "title": "Graphics",
-            "description": "Some graphic",
-            "skills": [
-                {
-                    "id": 1,
-                    "title": "G3D Innovation Engine",
-                    "logo": "https://casual-effects.com/g3d/G3D10/doc-files/G3D.jpg",
-                    "description": "Some G3d"
-                },
-                {
-                    "id": 2,
-                    "title": "Unity 3D",
-                    "logo": "",
-                    "description": "Still Learning"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "title": "IDEs",
-            "description": "I'm quite comfortable working with these IDEs",
-            "skills": [
-                {
-                    "id": 1,
-                    "title": "IntelliJ",
-                    "logo": "intellij.png",
-                    "description": "Some intellij"
-                },
-                {
-                    "id": 2,
-                    "title": "Eclipse",
-                    "logo": "eclipse.png",
-                    "description": "Some Eclipse"
-                },
-                {
-                    "id": 3,
-                    "title": "Android Studio",
-                    "logo": "anroidStudio.png",
-                    "description": "Some android"
-                },
-                {
-                    "id": 4,
-                    "title": "JetBrain's CLion",
-                    "logo": "clion.png",
-                    "description": "Some clion"
-                },
-                {
                     "id": 5,
-                    "title": "Visual Studio",
-                    "logo": "visualStudio.png",
-                    "description": "Some visual"
+                    "title": "Jetbrains IntelliJ",
+                    "duration": "1.5 Years",
+                    "expertise": "Good",
+                    "logo": "/intellij.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 },
                 {
                     "id": 6,
-                    "title": "Visual Studio Code",
-                    "logo": "vscode.png",
-                    "description": "Some vscode"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "title": "Computer Architecture and Hardware Design",
-            "description": "some blah",
-            "skills": [
-                {
-                    "id": 1,
-                    "title": "Xilinx ISE",
-                    "logo": "ise.png",
-                    "description": "Some ise"
+                    "title": "Webstorm IDE",
+                    "duration": "1 Years",
+                    "expertise": "Good",
+                    "logo": "/webstorm.svg",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 },
                 {
-                    "id": 2,
-                    "title": "Xilinx Vivado",
-                    "logo": "vivado.png",
-                    "description": "Some vivado"
-                },
-                {
-                    "id": 3,
-                    "title": "Microprocessor Programming",
-                    "description": "Some micro"
-                },
-                {
-                    "id": 4,
-                    "title": "Atmel Studio",
-                    "logo": "https://cdn.mikroe.com/img/compilers/mikroc/avr/default/overview/atmel-logo-partners.png",
-                    "description": "Some atmel"
-                },
-                {
-                    "id": 5,
-                    "title": "Proteus",
-                    "logo": "proteus.jpg",
-                    "description": "Some proteus"
-                }
-            ]
-        },
-        {
-            "id": 6,
-            "title": "Operating Systems",
-            "description": "blah blah",
-            "skills": [
-                {
-                    "id": 1,
-                    "title": "Microsoft Windows",
-                    "logo": "windows.png",
-                    "description": "Some windows"
-                }, 
-                {
-                    "id": 2,
-                    "title": "Ubuntu",
-                    "logo": "ubuntu.jpg",
-                    "description": "Some ubuntu"
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "title": "Version Control Software",
-            "description": "blah git",
-            "skills": [
-                {
-                    "id": 1,
-                    "title": "Git",
-                    "logo": "git.png",
-                    "description": "Some git"
-                } 
-            ]
-        },
-        {
-            "id": 8,
-            "title": "Web Development - Front-end",
-            "description": "blah front",
-            "skills": [
-                {
-                    "id": 1,
-                    "title": "Basics",
-                    "logo": "web.png",
-                    "description": "Some basics"
-                }, 
-                {
-                    "id": 2,
-                    "title": "Vue",
-                    "logo": "vue.png",
-                    "description": "Some vue"
-                },
-                {
-                    "id": 3,
-                    "title": "Nuxt",
-                    "logo": "nuxt.png",
-                    "description": "Some nuxt"
-                },
-                {
-                    "id": 4,
-                    "title": "Advanced JavaScript (ECMA 6)",
-                    "logo": "web.png",
-                    "description": "Some JS"
-                },
-                {
-                    "id": 5,
-                    "title": "JQuery",
-                    "logo": "jquery.gif",
-                    "description": "Some jquery"
-                }
-            ]
-        },
-        {
-            "id": 9,
-            "title": "Web Development - Back-end",
-            "description": "blah back",
-            "skills": [
-                {
-                    "id": 1,
-                    "title": "Node.js",
-                    "logo": "node.png",
-                    "description": "Some node"
-                }, 
-                {
-                    "id": 2,
-                    "title": "Hapi",
-                    "logo": "hapi.png",
-                    "description": "Some hapi"
-                },
-                {
-                    "id": 3,
-                    "title": "MongoDB",
-                    "logo": "mongoDB.png",
-                    "description": "Some mongoDB"
-                },
-                {
-                    "id": 4,
-                    "title": "Microsoft SQL",
-                    "logo": "sql.png",
-                    "description": "Some sql"
+                    "id": 7,
+                    "title": "PHPStorm IDE",
+                    "duration": "1 Years",
+                    "expertise": "Good",
+                    "logo": "/phpstorm.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 }
             ]
         }
