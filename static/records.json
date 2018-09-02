@@ -553,27 +553,31 @@
             "id": 1,
             "title": "<strong>Ranked 1<sup>st</sup></strong> as a member of <strong>11<sup>th</sup> Student Scientific Chapter</strong> of Computer Engineering and IT faculty of Amirkabir University of Technology ",
             "time": "Sep 2016",
-            "location": "9<sup>th</sup> Harkat Festival"
+            "location": "9<sup>th</sup> Harkat Festival",
+            "image": "/harkat.jpg"
         },
         {
             "id": 2,
             "title": "<strong>Ranked 1<sup>st</sup></strong> as a member of <strong>11<sup>th</sup> Student Scientific Chapter</strong> of Computer Engineering and IT faculty of Amirkabir University of Technology ",
             "time": "May 2016",
-            "location": "Annual contest for outstanding Student Scientific Chapter of the University"
+            "location": "Annual contest for outstanding Student Scientific Chapter of the University",
+            "image": "/anjoman1.jpg"
 
         },
 		{
             "id": 3,
             "title": "<strong>Ranked 2<sup>nd</sup></strong> as a member of <strong>10<sup>th</sup> Student Scientific Chapter</strong> of Computer Engineering and IT faculty of Amirkabir University of Technology ",
             "time": "May 2015",
-            "location": "Annual contest for outstanding Student Scientific Chapter of the University"
+            "location": "Annual contest for outstanding Student Scientific Chapter of the University",
+            "image": "/anjoman2.jpg"
 
         },
 		{
             "id": 4,
             "title": "<strong>Ranked 1<sup>st</sup></strong> among the students of Computer Engineering and IT faculty of Amirkabir University of Technology ",
             "time": "Sep 2016",
-            "location": "Computer Engineering and IT faculty of Amirkabir University of Technology"
+            "location": "Computer Engineering and IT faculty of Amirkabir University of Technology",
+            "image": "/anjoman2.jpg"
 
         },
         {
