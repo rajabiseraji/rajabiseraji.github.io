@@ -11,12 +11,12 @@
         <v-layout row wrap justify-space-around>
             <v-flex v-for="award in awardsRecords" :key="award.id" xs12 sm5 class="my-1">
                 <v-card>
-                    <!-- <v-card-media v-if="award.image" :src="award.image" contain>
-                    </v-card-media> -->
-                    <img v-if="award.image" :src="award.image" :alt="award.title" width="100%"/>
+                    <v-card-media v-if="award.image" :src="award.image" cover height="300px">
+                    </v-card-media>
+                    <!-- <img v-if="award.image" :src="award.image" :alt="award.title" width="200px"/> -->
                     <v-card-title primary-title>
                     <div>
-                        <h3 class="headline mb-0" v-html="award.title"></h3>
+                        <h3 class="subheading mb-0" v-html="award.title"></h3>
                         <div class="caption grey--text">
                             <span v-html="award.location"></span>
                             <span>{{" | " + award.time}}</span>
