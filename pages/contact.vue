@@ -6,7 +6,7 @@
           </div>
           <v-divider></v-divider>
       </v-flex>
-      <v-flex xs12>
+      <v-flex xs12 class="mt-2">
         <v-layout row reverse wrap fill-height justify-center>
           <v-flex xs12 sm4 justify-center d-flex>
             <img src="/digital-campaign.svg" height="200px" alt="Socail">
