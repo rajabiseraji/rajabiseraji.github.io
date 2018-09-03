@@ -9,7 +9,7 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Computer Programming Lab",
             "prof": "",
-            "description": "Teaching as computer programming lab lecturer, officially at AUT",
+            "description": "I was the main lecturer of Computer Programming lab in which the freshmen of our faculty learned how to program using C/C++. During the course runtime, I introduced the students to the new faculty, professors and also the way things work around our faculty. During the course, students worked in groups and did the programming tasks, together. I was ranked the second best lecturer of that semester by the students' rankings.",
             "end": "2018"
         },
         {
@@ -19,7 +19,13 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Internet Engineering",
             "prof": "Dr. Bahador Bakhshi - Assistant Professor",
-            "description": "",
+            "description": "I was the head teaching assistant of the course. My responsibilities included teaching extra classes on practical subjects, making weekly challenges for the students, making the homework questions and also creating the mid-term and final projects. I was also responsible for managing the grading TAs, assigning homewroks to them and also collect and report their results to the professor.",
+            "projectText": "The repository for the homeworks and projects are available in the links below.",
+            "links": {
+                "id": 1, 
+                "title": "Homeworks",
+                "url": "https://github.com/AUT-CEIT/IES96-97"
+            },
             "end": "2018"
         },
 		{
