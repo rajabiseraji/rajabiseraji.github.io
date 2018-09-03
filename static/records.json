@@ -597,64 +597,72 @@
         {
             "title": "Email",
             "type": "mail",
-            "icon": "envelope",
+            "icon": "/email.svg",
             "value": "rajabiseraji@aut.ac.ir",
             "url": "mailto:rajabiseraji%40aut.ac.ir"
         },
         {
             "title": "Email",
             "type": "mail",
-            "icon": "envelope",
+            "icon": "/email.svg",
             "value": "rajabiseraji@outlook.com",
             "url": "mailto:rajabiseraji%40outlook.com"
         },
         {
             "title": "Cellphone Number",
             "type": "phone",
-            "icon": "phone",
+            "icon": "/phone-receiver.svg",
             "hidden": false,
             "value": "+98 930 495 99 68"
         },
         {
             "title": "Home Number",
             "type": "phone",
-            "icon": "phone",
+            "icon": "/phone-receiver.svg",
             "hidden": true,
             "value": "+98 21 773 72 340",
             "url": "mailto:rajabiseraji%40aut.ac.ir?subject=request%20phone&body=I%20wanted%20to%20request%20your%20home%20number"
         },
         {
+            "title": "Telegram",
+            "type": "telegram",
+            "icon": "/telegram.svg",
+            "hidden": true,
+            "value": "Telegram",
+            "url": "https://t.me/MrOlaf"
+        },
+        {
             "title": "Github",
             "type": "github",
-            "icon": "github",
+            "icon": "/githubColor.svg",
             "value": "rajabiseraji",
             "url": "https://github.com/rajabiseraji"
         },
         {
             "title": "LinkedIn",
             "type": "linkedin",
-            "icon": "linkedin",
+            "icon": "/linkedin.svg",
             "value": "Mohammad Rajabi",
             "url": "https://www.linkedin.com/in/mohammad-rajabi-b59aa5a3/"
         },
         {
             "title": "Twitter",
             "type": "twitter",
-            "icon": "twitter",
+            "icon": "/twitter.svg",
             "value": "@rajabiseraji",
             "url": "https://twitter.com/rajabiseraji"
         },
         {
             "title": "Instagram",
             "type": "instagram",
-            "icon": "instagram",
+            "icon": "/instagramColor.svg",
             "value": "rajabiseraji",
             "url": "https://www.instagram.com/rajabiseraji/"
         },
         {
             "title": "Faculty Homepage",
             "type": "ceit",
-            "icon": "university",
+            "icon": "/home-page.svg",
             "value": "Mohammad Rajabi Seraji",
             "url": "http://ceit.aut.ac.ir/~9231039"
         }

@@ -15,6 +15,7 @@
             <p class="body-2">{{contactText}}</p>
             <v-spacer></v-spacer>
             <p class="grey--text">{{PSText}}</p>
+            <SocialMediaSection :items="contactRecords" />
           </v-flex>
         </v-layout>
       </v-flex>
@@ -22,7 +23,12 @@
 </template>
 
 <script>
+import SocialMediaSection from '~/components/SocialMediaSection'
+import records from '~/static/records.json'
 export default {
+  components: {
+    SocialMediaSection
+  },
   data () {
     const contactText = `If you needed to contact me, just drop me an email or send me a message on
                          Telegram, I'll check them as soon as I can. If you wanted to know more about 
@@ -31,7 +37,8 @@ export default {
     const PSText = `P.S: I'm not really active on twitter, so ... :D`
     return {
       contactText,
-      PSText
+      PSText,
+      contactRecords: records.Contact
     }
   }
 }
