@@ -702,7 +702,8 @@
             "title": "Math. (I)",
             "timespan": "S1 2013-14 (Sep 2013 - Jan 2014)",
             "score": "18.33/20 (A)",
-            "prof": "Prof. Behroz Bidabad",
+            "prof": "Prof. Behroz Bidabad, Professor",
+            "description": "This course something",
             "links": [
                 {
                     "id": 1,
@@ -710,7 +711,52 @@
                     "title": "Professor's Homepage"
                 }
             ]
-        }
+        },
+        {
+            "id": 2, 
+            "title": "Discrete Structures",
+            "timespan": "S2 2013-14 (Jan 2014 - Jun 2014)",
+            "score": "17/20 (A)",
+            "prof": "Dr. Mehran S. Fallah, Associate Professor",
+            "description": "this course something else",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://www.aut.ac.ir/official/main.asp?uid=msfallah",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 3, 
+            "title": "Computer Architecture",
+            "timespan": "S1 2014-15 (Sep 2014 - Jun 2015)",
+            "score": "18.75/20 (A)",
+            "prof": "Dr. Hamid R. Zarandi, Associate Professor",
+            "description": "this course something else",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://www.aut.ac.ir/official/main.asp?uid=h_zarandi",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 4, 
+            "title": "Electronic Circuits",
+            "timespan": "S1 2014-15 (Sep 2014 - Jun 2015)",
+            "score": "18.75/20 (A)",
+            "prof": "Dr. Hamid R. Zarandi, Associate Professor",
+            "description": "this course something else",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://www.aut.ac.ir/official/main.asp?uid=h_zarandi",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
     ]
 }
 
