@@ -3,7 +3,7 @@
       <v-layout row wrap fill-height>
         <v-flex xs12>
             <div class="display-2 font-weight-thin mb-3">
-                Education
+                Educational Background
             </div>
             <v-divider></v-divider>
         </v-flex>
@@ -14,6 +14,51 @@
               </v-flex>
           </v-layout>
         </v-flex>
+        <v-flex xs12>
+            <v-divider></v-divider>
+            <div class="display-2 font-weight-thin mb-3">
+                Outstanding Courses
+            </div>
+            <v-divider></v-divider>
+        </v-flex>
+        <v-flex xs12>
+          <v-layout row wrap>
+              <v-flex xs12 class="mr-2 my-2">
+                <v-list two-line subheader>
+                  <v-list-tile v-for="skill in skills" :key="skill.id" avatar @click="() => openDialog(skill)">
+                    <v-list-tile-avatar>
+                      <img :src="skill.logo" height="60px" :alt="skill.title">
+                    </v-list-tile-avatar>
+
+                    <v-list-tile-content>
+                      <v-list-tile-title>{{ skill.title }}</v-list-tile-title>
+                      <v-list-tile-sub-title>{{ skill.expertise + " - " + skill.duration}}</v-list-tile-sub-title>
+                    </v-list-tile-content>
+
+                    <v-list-tile-action>
+                      <v-btn @click="openDialog" icon ripple>
+                        <v-icon color="grey lighten-1">info</v-icon>
+                      </v-btn>
+                    </v-list-tile-action>
+                  </v-list-tile>
+                </v-list>
+              </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-dialog v-model="isOpen" max-width="400">
+          <v-card>
+            <v-card-title primary-title>
+              <div>
+                <div class="font-weight-thin headline">{{selectedCourse.title}}</div>
+                <span class="gray--text">{{ selectedCourse.timespan + " - " + selectedCourse.prof}}</span>
+                <span class="gray--text subheading"><strong>Course Grade:</strong>{{' ' + selectedCourse.score}}</span>
+              </div>
+            </v-card-title>
+            <v-card-text>
+              {{selectedCourse.description}}
+            </v-card-text>
+          </v-card>
+        </v-dialog>
       </v-layout>
     </v-container>
 </template>
@@ -28,7 +73,16 @@ export default {
   data () {
     return {
       educationRecords: records.Education,
+      outstandingCourses: records.OutstandingCourses,
+      isOpen: false,
+      selectedCourse: {},
       lorem: `Lorem ipsum dolor sit amet, mel at clita quando. Te sit oratio vituperatoribus, nam ad ipsum posidonium mediocritatem, explicari dissentiunt cu mea. Repudiare disputationi vim in, mollis iriure nec cu, alienum argumentum ius ad. Pri eu justo aeque torquatos.`
+    }
+  },
+  methods: {
+    openDialog: function (course) {
+      this.selectedCourse = course
+      this.isOpen = true
     }
   }
 }
