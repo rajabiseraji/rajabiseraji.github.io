@@ -5,6 +5,58 @@
         {
             "title": "LECT",
             "titleDescription": "Lecturer",
+            "timespan": "Aug 2018 - Sep 2018",
+            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "course": "Fundamentals of React.js Programming",
+            "prof": "Mohammad Rajabi Seraji",
+            "duration": "16 Hours",
+            "coLecturer": "",
+            "description": "The course was offered as a part of Student Scientific Chapter's Summer of 2018 program. As I worked with react for quite some time, I was able to gather some source materials in order to teach a course about fundamentals of react. In this course I mainly focused on basic characteristics of the framework and introduced concepts such as Web Components, component relationships, event handling and syntax of react and also pointed to some basic Redux matters, as well. In every other session, the students were tasked to complete a code snippet like the one they saw in the previous session and could participate in the learning process by doing this activiy. In the end all of them were tasked to create a simple shopping app using the things they'd just learnt. The evaluation for this course is yet to be ready.",
+            "links": [{
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                },
+                {
+                    "id": 2,
+                    "title": "Course Repository",
+                    "url": "https://github.com/rajabiseraji/webDesign"
+                }
+            ],
+            "end": "-"
+        },
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
+            "timespan": "Jun 2018 - Jul 2018",
+            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "course": "Practical Front-end Design and Development using Vue and Nuxt.js",
+            "prof": "Mohammad Rajabi Seraji",
+            "duration": "30 Hours",
+            "coLecturer": "Pouya Parsa",
+            "description": "The course was offered as a part of Student Scientific Chapter's Summer of 2017 Professional program. My co-worker, Pouya and I decided to make a workshop in order to teach the fundamentals of the newly arrived Nuxt framework, a framework which offers great flexibility and high performance results. The course required the students to have the basic knowledge of new JavaScript and was mostly an advanced one. During the course runtime, we introduced Vue and its basic syntax and code-style, along with a reactive way of thinking in Vue. We also introduced the basic concepts of Server-side rendering using Node.js servers to serve a hydrated code to the front-end and improve performance and SEO by all means. The students took part in an intensive Nuxt workshop at the end and learned the project structure and policies, made by the team behind it. We were both rated \"Very Good\" by the students at the final evaluation.",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                },
+                {
+                    "id": 2,
+                    "title": "Course Repository",
+                    "url": "https://github.com/rajabiseraji/webDesign"
+                },
+                {
+                    "id": 3,
+                    "title": "Pouya's Github | @pi0",
+                    "url": "https://github.com/pi0"
+                }
+            ],
+            "end": "-"
+        },
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
             "timespan": "Sep 2017 - Jan 2018",
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Computer Programming Lab",
