@@ -118,11 +118,35 @@
             "titleDescription": "Lecturer",
             "timespan": "Spring 2017",
             "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "course": "Basics of Front-end Development",
+            "prof": "Mohammad Rajabi Seraji",
+            "duration": "24 Hours",
+            "coLecturer": "",
+            "description": "The course was offered as a part of Student Scientific Chapter's Spring program of 2017. In this course I put the main focus on team work and preparing to work as a front-end development team. My students were introduced to working with Git, individually and also as a team. Going forward I taught them about basics of HTML and CSS in a crash course style; this crash course was accompanied by a comprehensive excercise to ensure they're well used to the core concepts. The majority of the sessions, though, were dedicated to the JavaScript Concepts, classic JS vs new one, ES6 and ES7, build and deploy automation tools and bundlers. This course was a dense package of all the basic tools the students needed to go forward in web development area. I was rate \"Excelent\", again by my students in the final evaluation.",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                },
+                {
+                    "id": 2,
+                    "title": "Course Repository",
+                    "url": "https://github.com/rajabiseraji/webDesign"
+                }
+            ],
+            "end": "-"
+        },
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
+            "timespan": "Spring 2017",
+            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
             "course": "An Introduction to Front-end Development in Vue 2",
             "prof": "Mohammad Rajabi Seraji",
             "duration": "24 Hours",
             "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's S[ring program of 2017. I carefully constructed a series of slides based on the documentations of the Vue and also made 4 sample code snippets for each session. During the course students used to learn about Singltons in web programming and were also introduced to the world of web components. The first session was an introduction into the basics of Vue and reactive thinking, along with a sample Todo app in vue. We were exploring componentization of a web page and website in second and third sessions. Finally the students were introduced to Stores in vue, which is implemented in Vuex and became aquainted with the concepts of Actions, Mutations and States. Our course work was put to test in final project, in which the students were tasked to create an interactive homepage for themselves using the introduced concepts. The students rated me \"Excelent\" in the final evaluations. ",
+            "description": "The course was offered as a part of Student Scientific Chapter's Spring program of 2017. I carefully constructed a series of slides based on the documentations of the Vue and also made 4 sample code snippets for each session. During the course students used to learn about Singltons in web programming and were also introduced to the world of web components. The first session was an introduction into the basics of Vue and reactive thinking, along with a sample Todo app in vue. We were exploring componentization of a web page and website in second and third sessions. Finally the students were introduced to Stores in vue, which is implemented in Vuex and became aquainted with the concepts of Actions, Mutations and States. Our course work was put to test in final project, in which the students were tasked to create an interactive homepage for themselves using the introduced concepts. The students rated me \"Excelent\" in the final evaluations. ",
             "links": [{
                     "id": 1,
                     "title": "Course Syllabus",
