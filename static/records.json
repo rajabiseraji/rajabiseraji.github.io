@@ -41,7 +41,7 @@
         {
             "title": "LECT",
             "titleDescription": "Lecturer",
-            "timespan": "Nov 2016 - Jan 2016 ",
+            "timespan": "Nov 2016 - Jan 2017 ",
             "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
             "course": "Back-end Web Development Using PHP and Laravel",
             "prof": "Mohammad Rajabi Seraji",
@@ -113,6 +113,29 @@
             "description": "",
             "end": "2017"
         },
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
+            "timespan": "Spring 2017",
+            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "course": "An Introduction to Front-end Development in Vue 2",
+            "prof": "Mohammad Rajabi Seraji",
+            "duration": "24 Hours",
+            "coLecturer": "",
+            "description": "The course was offered as a part of Student Scientific Chapter's S[ring program of 2017. I carefully constructed a series of slides based on the documentations of the Vue and also made 4 sample code snippets for each session. During the course students used to learn about Singltons in web programming and were also introduced to the world of web components. The first session was an introduction into the basics of Vue and reactive thinking, along with a sample Todo app in vue. We were exploring componentization of a web page and website in second and third sessions. Finally the students were introduced to Stores in vue, which is implemented in Vuex and became aquainted with the concepts of Actions, Mutations and States. Our course work was put to test in final project, in which the students were tasked to create an interactive homepage for themselves using the introduced concepts. The students rated me \"Excelent\" in the final evaluations. ",
+            "links": [{
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                },
+                {
+                    "id": 2,
+                    "title": "Course Repository",
+                    "url": "https://github.com/rajabiseraji/webDesign"
+                }
+            ],
+            "end": "-"
+        },
 		{
             "title": "TA",
             "titleDescription": "Teaching Assistant",
@@ -162,6 +185,30 @@
             "prof": "Dr. Majid Noorhosseini - Assistant Professor",
             "description": "",
             "end": "2016"
+        },
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
+            "timespan": "Jul 2015 - Sep 2015",
+            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "course": "Basics of Web Design and Development",
+            "prof": "Mohammad Rajabi Seraji",
+            "duration": "24 Hours",
+            "coLecturer": "",
+            "description": "The course was offered as a part of Student Scientific Chapter's Summer program of 2015. This was my first teaching experience other than my previous teaching assistantships. I used the knowledge of web development, I learned from my summer internships in order to teach the basic alphabet of web development to the students. This course, mainly consisted of HTML 5, CSS 3 and vanilla JS introduction to the students. It served me well, as it was my initial experience of teaching to people other than my university students. In the end, I was ranked \"Fairly Good\" by the students. ",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                },
+                {
+                    "id": 2,
+                    "title": "Course Repository",
+                    "url": "https://github.com/rajabiseraji/webDesign"
+                }
+            ],
+            "end": "-"
         }
     ],
     "Working": [
