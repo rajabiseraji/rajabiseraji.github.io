@@ -25,14 +25,10 @@
           <v-layout row wrap>
               <v-flex xs12 class="mr-2 my-2">
                 <v-list two-line subheader>
-                  <v-list-tile v-for="skill in skills" :key="skill.id" avatar @click="() => openDialog(skill)">
-                    <v-list-tile-avatar>
-                      <img :src="skill.logo" height="60px" :alt="skill.title">
-                    </v-list-tile-avatar>
-
+                  <v-list-tile v-for="course in outstandingCourses" :key="course.id" avatar @click="() => openDialog(course)">
                     <v-list-tile-content>
-                      <v-list-tile-title>{{ skill.title }}</v-list-tile-title>
-                      <v-list-tile-sub-title>{{ skill.expertise + " - " + skill.duration}}</v-list-tile-sub-title>
+                      <v-list-tile-title>{{ course.title }}</v-list-tile-title>
+                      <v-list-tile-sub-title>{{ course.timespan + " - " + course.score}}</v-list-tile-sub-title>
                     </v-list-tile-content>
 
                     <v-list-tile-action>
@@ -50,8 +46,9 @@
             <v-card-title primary-title>
               <div>
                 <div class="font-weight-thin headline">{{selectedCourse.title}}</div>
-                <span class="gray--text">{{ selectedCourse.timespan + " - " + selectedCourse.prof}}</span>
-                <span class="gray--text subheading"><strong>Course Grade:</strong>{{' ' + selectedCourse.score}}</span>
+                <div class="gray--text subheading">{{selectedCourse.prof}}</div>
+                <span class="gray--text">{{ selectedCourse.timespan}}</span>
+                <div class="gray--text"><strong>Course Grade:</strong>{{' ' + selectedCourse.score}}</div>
               </div>
             </v-card-title>
             <v-card-text>
