@@ -41,11 +41,20 @@
         {
             "title": "LECT",
             "titleDescription": "Lecturer",
-            "timespan": "Jun 2015- Currently",
-            "location": "AUT SSC",
-            "course": "Basics of Web Design.............",
-            "prof": "",
-            "description": "Working as a lecturer in SSC courses, including Basics of Web Design, Project Management in DevOps, Advanced Web Design, Advanced Javascripting, Vue and React and also  Design of a functional back-end in Laravel, Hapi and Node.js",
+            "timespan": "Nov 2016 - Jan 2016 ",
+            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "course": "Web Design Using PHP and Laravel",
+            "prof": "Mohammad Rajabi Seraji",
+            "duration": "25 Hours",
+            "co-lecturer": "",
+            "description": "The course was offered as a part of Student Scientific Chapter's Fall program. The program was mainly targeted freshmen and other new students of computer enigneering/science and was offered in five session (25 hours in total). I was the main lecturer of the course, accompanied by an assistant to help the students keep up with the workshop sessions. During the course, students learned about server-side scripting with PHP; their basic knowledge of PHP was then used as a way to introduce them to Laravel, an advanced PHP framework for web artisans. My task was to gather enough educational material in form of slides, workshops and projects to keep the atmosphere live and engaging. Student evalutaions from the course was gathered by the S.S.C and it was rated \"Mostly Positive\".The syllabus of the course alongside more information about the sessions are available in the course links.",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                }
+            ],
             "end": "-"
         },
         {
