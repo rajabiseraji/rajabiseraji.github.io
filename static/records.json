@@ -103,6 +103,21 @@
             "end": "2018"
         },
         {
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Jan 2017 – Jul 2017",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "VLSI Systems Design",
+            "prof": "Dr. Mahmoud Momtazpour - Assistant Professor",
+            "description": "",
+            "end": "2017",
+            "links": {
+                "id": 1,
+                "title": "Course's Homepage",
+                "url": "TO BE UPDATED"
+            }
+        },
+        {
             "title": "LECT",
             "titleDescription": "Lecturer",
             "timespan": "Nov 2016 - Jan 2017 ",
@@ -166,16 +181,6 @@
             }
             ],
             "end": "-"
-        },
-        {
-            "title": "TA",
-            "titleDescription": "Teaching Assistant",
-            "timespan": "Jan 2017 – Jul 2017",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
-            "course": "VLSI Systems Design",
-            "prof": "Dr. Mahmoud Momtazpour - Assistant Professor",
-            "description": "",
-            "end": "2017"
         },
         {
             "title": "LECT",
