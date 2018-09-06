@@ -8,7 +8,7 @@
       >
         <div slot="header">
             <v-layout row wrap>
-                <v-flex xs12 sm2 justify-center>
+                <v-flex xs12 sm2 justify-center d-flex>
                     <v-avatar tile>
                         <img :src="record.logo" :alt="record.title"/>
                     </v-avatar>
@@ -21,7 +21,15 @@
         </div>
         <v-card>
           <v-card-text class="grey lighten-5">
+              <div class="font-weight-bold grey--text subheading">Job Description</div>
               <blockquote >{{record.description || record.firstJobDesc}}</blockquote>
+              <div class="mt-3" v-if="record.links && record.links.length !== 0">
+                <div class="subheading font-weight-bold">Links</div>
+                <v-divider></v-divider>
+                <div class="mt-2" v-for="link in record.links" :key="link.id">
+                  <a :href="link.url">{{link.title}}</a>
+                </div>
+              </div>
           </v-card-text>
         </v-card>
       </v-expansion-panel-content>
