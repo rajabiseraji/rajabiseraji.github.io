@@ -67,6 +67,28 @@
         {
             "title": "TA",
             "titleDescription": "Teaching Assistant",
+            "timespan": "Jan 2018- Jul 2018",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Internet Engineering",
+            "prof": "Dr. Bahador Bakhshi - Assistant Professor",
+            "description": "I had three main tasks during this Teaching Assistantship period. First, I was in charge of coming up with a proper mid-term project for the students. Grading a fourth of all projects and homeworks was also one of my responsibilities. I, also created the student's second homework assignment.",
+            "end": "2018",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Homeworks and Projects",
+                    "url": "TO BE UPDATED"
+                },
+                {
+                    "id": 2,
+                    "title": "Course Repo",
+                    "url": "TO BE UPDATED"
+                }
+            ]
+        },
+        {
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
             "timespan": "Sep 2017- Jan 2018",
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Internet Engineering",
@@ -78,16 +100,6 @@
                 "title": "Homeworks",
                 "url": "https://github.com/AUT-CEIT/IES96-97"
             },
-            "end": "2018"
-        },
-		{
-            "title": "TA",
-            "titleDescription": "Teaching Assistant",
-            "timespan": "Jan 2018- Jul 2018",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
-            "course": "Internet Engineering",
-            "prof": "Dr. Bahador Bakhshi - Assistant Professor",
-            "description": "I had three main tasks during this Teaching Assistantship period. First, I was in charge of coming up with a proper mid-term project for the students. Grading a fourth of all projects and homeworks was also one of my responsibilities. I, also created the student's second homework assignment.",
             "end": "2018"
         },
         {
