@@ -9,8 +9,8 @@
         <div slot="header">
             <v-layout row wrap>
                 <v-flex xs12 sm2 justify-center d-flex>
-                    <v-avatar tile>
-                        <img :src="record.logo" :alt="record.title"/>
+                    <v-avatar class="avatar-class" tile>
+                        <img class="company-logo" :src="record.logo" :alt="record.title"/>
                     </v-avatar>
                 </v-flex>
                 <v-flex xs12 sm10>
@@ -47,7 +47,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
   .v-expansion-panel__header {
     height: fit-content;
   }
