@@ -339,12 +339,24 @@
         {
           "title": "Snappfood co.",
           "titleDescription": "Senior Front-end Developer",
-          "timespan": "Sep 2017 - Currently",
+          "timespan": "Sep 2017 - Now",
           "location": "Snappfood Co.",
           "firstJob": "Senior Front-end Developer",
-          "firstJobDesc": "I’m the lead UI designer and manager of the new snappfood PWA project.",
+          "firstJobDesc": "My responsinilities include choosing a modern JS framework for the main web-app of Snappfood, the first online food ordering system in Iran. I researched for a month and benchmarked Vue, React, Preact and Angular in different situations; as a result, my team and I concluded that we'd go with React, a reliable framework with rich community and support. I was in charge of managing my team, creating tasks for the team members, choosing a comprehensive project structure and creating a fine-tuned boileplate that is reusable in the company's other products. We developed a fully fleshed Progressive Web App (PWA) complying with the latest Google standards from ground up. This web app is now ready for mobile devices and is avilable at the link below. We worked with SCRUM method and I was my teams sprint manager. Snappfood was a great environment for me to flourish and develop a fast and lite web-app.",
           "end": "2018",
-          "logo": "/zoodfood.png"
+          "logo": "/zoodfood.png",
+          "links": [
+              {
+                  "id": 1, 
+                  "title": "Snappfood Mobile Webapp",
+                  "url": "https://m.snappfood.ir"
+              },
+              {
+                  "id": 2, 
+                  "title": "Project Repository",
+                  "url": ""
+              }
+          ]
         },
 		{
           "title": "Fandogh co.",
