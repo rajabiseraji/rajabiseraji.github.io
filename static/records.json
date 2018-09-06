@@ -103,86 +103,6 @@
             "end": "2018"
         },
         {
-            "title": "TA",
-            "titleDescription": "Teaching Assistant",
-            "timespan": "Jan 2017 – Jul 2017",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
-            "course": "VLSI Systems Design",
-            "prof": "Dr. Mahmoud Momtazpour - Assistant Professor",
-            "description": "",
-            "end": "2017",
-            "links": {
-                "id": 1,
-                "title": "Course's Homepage",
-                "url": "TO BE UPDATED"
-            }
-        },
-        {
-            "title": "LECT",
-            "titleDescription": "Lecturer",
-            "timespan": "Nov 2016 - Jan 2017 ",
-            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
-            "course": "Back-end Web Development Using PHP and Laravel",
-            "prof": "Mohammad Rajabi Seraji",
-            "duration": "25 Hours",
-            "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's Fall program. The program was mainly targeted freshmen and other new students of computer enigneering/science and was offered in five session (25 hours in total). I was the main lecturer of the course, accompanied by an assistant to help the students keep up with the workshop sessions. During the course, students learned about server-side scripting with PHP; their basic knowledge of PHP was then used as a way to introduce them to Laravel, an advanced PHP framework for web artisans. My task was to gather enough educational material in form of slides, workshops and projects to keep the atmosphere live and engaging. Student evalutaions from the course was gathered by the S.S.C and it was rated \"Mostly Positive\".The syllabus of the course alongside more information about the sessions are available in the course links.",
-            "links": [
-                {
-                    "id": 1,
-                    "title": "Course Syllabus",
-                    "url": ""
-                }
-            ],
-            "end": "-"
-        },
-        {
-            "title": "LECT",
-            "titleDescription": "Lecturer",
-            "timespan": "Apr 2016 - May 2016 ",
-            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
-            "course": "Basics of Web Developement",
-            "prof": "Mohammad Rajabi Seraji",
-            "duration": "25 Hours",
-            "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's Spring program. The program was mainly targeted freshmen and other new students of computer enigneering/science and was offered in five session (25 hours in total). In this course, I concentrated on the basic aspects of web development and its basic technologies, namely HTML 5, CSS and basic JavaScript. This course assumes that the learner has close to no prior experience in web design and focuses on introducing the students to the world of web development. I dedicated the first two sessions of the course to a basic introduction and history of web, as well as baby steps towards programming in that world. The other sessions were dedicated to workshops in which the students coded in real-time and compared the results to each other. more information is available in the links below.",
-            "links": [{
-                "id": 1,
-                "title": "Course Syllabus",
-                "url": ""
-            },
-            {
-                "id": 2, 
-                "title": "Course Repository",
-                "url": ""
-            }
-            ],
-            "end": "-"
-        },
-        {
-            "title": "LECT",
-            "titleDescription": "Lecturer",
-            "timespan": "Aug 2016 - Oct 2016 ",
-            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
-            "course": "Basics of Web Developement (How to Become a Web Developer)",
-            "prof": "Mohammad Rajabi Seraji",
-            "duration": "25 Hours",
-            "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's Summer program. This program was quite identical to the one that I presented in the spring. Although, there was a little change in my presentation method. In the courses, prior to this one, I used slide presentations alongside practical coding. During this course I focused more on the practical side in order to help the students leaning into the conecepts. Course work is available in the Github repo. You can also find the course syllabus in the links below.",
-            "links": [{
-                "id": 1,
-                "title": "Course Syllabus",
-                "url": ""
-            },
-            {
-                "id": 2, 
-                "title": "Course Repository",
-                "url": "https://github.com/rajabiseraji/webDesign"
-            }
-            ],
-            "end": "-"
-        },
-        {
             "title": "LECT",
             "titleDescription": "Lecturer",
             "timespan": "Jul 2017 - Sep 2017",
@@ -192,7 +112,8 @@
             "duration": "30 Hours",
             "coLecturer": "Pouya Parsa",
             "description": "The course was offered as a part of Student Scientific Chapter's Summer of 2017 Professional program. My co-worker, Pouya and I decided to make a workshop in order to teach the fundamentals of the newly arrived Nuxt framework, a framework which offers great flexibility and high performance results. The course required the students to have the basic knowledge of new JavaScript and was mostly an advanced one. During the course runtime, we introduced Vue and its basic syntax and code-style, along with a reactive way of thinking in Vue. We also introduced the basic concepts of Server-side rendering using Node.js servers to serve a hydrated code to the front-end and improve performance and SEO by all means. The students took part in an intensive Nuxt workshop at the end and learned the project structure and policies, made by the team behind it. We were both rated \"Very Good\" by the students at the final evaluation.",
-            "links": [{
+            "links": [
+                {
                     "id": 1,
                     "title": "Course Syllabus",
                     "url": ""
@@ -209,6 +130,21 @@
                 }
             ],
             "end": "-"
+        },
+        {
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Jan 2017 – Jul 2017",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "VLSI Systems Design",
+            "prof": "Dr. Mahmoud Momtazpour - Assistant Professor",
+            "description": "",
+            "end": "2017",
+            "links": {
+                "id": 1,
+                "title": "Course's Homepage",
+                "url": "TO BE UPDATED"
+            }
         },
         {
             "title": "LECT",
@@ -244,7 +180,8 @@
             "duration": "24 Hours",
             "coLecturer": "",
             "description": "The course was offered as a part of Student Scientific Chapter's Spring program of 2017. I carefully constructed a series of slides based on the documentations of the Vue and also made 4 sample code snippets for each session. During the course students used to learn about Singltons in web programming and were also introduced to the world of web components. The first session was an introduction into the basics of Vue and reactive thinking, along with a sample Todo app in vue. We were exploring componentization of a web page and website in second and third sessions. Finally the students were introduced to Stores in vue, which is implemented in Vuex and became aquainted with the concepts of Actions, Mutations and States. Our course work was put to test in final project, in which the students were tasked to create an interactive homepage for themselves using the introduced concepts. The students rated me \"Excelent\" in the final evaluations. ",
-            "links": [{
+            "links": [
+                {
                     "id": 1,
                     "title": "Course Syllabus",
                     "url": ""
@@ -257,7 +194,26 @@
             ],
             "end": "-"
         },
-		{
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
+            "timespan": "Nov 2016 - Jan 2017 ",
+            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "course": "Back-end Web Development Using PHP and Laravel",
+            "prof": "Mohammad Rajabi Seraji",
+            "duration": "25 Hours",
+            "coLecturer": "",
+            "description": "The course was offered as a part of Student Scientific Chapter's Fall program. The program was mainly targeted freshmen and other new students of computer enigneering/science and was offered in five session (25 hours in total). I was the main lecturer of the course, accompanied by an assistant to help the students keep up with the workshop sessions. During the course, students learned about server-side scripting with PHP; their basic knowledge of PHP was then used as a way to introduce them to Laravel, an advanced PHP framework for web artisans. My task was to gather enough educational material in form of slides, workshops and projects to keep the atmosphere live and engaging. Student evalutaions from the course was gathered by the S.S.C and it was rated \"Mostly Positive\".The syllabus of the course alongside more information about the sessions are available in the course links.",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                }
+            ],
+            "end": "-"
+        },
+        {
             "title": "TA",
             "titleDescription": "Teaching Assistant",
             "timespan": "Sep 2016 – Jan 2017",
@@ -266,6 +222,53 @@
             "prof": "Dr. Morteza Saheb Zamani - Professor",
             "description": "",
             "end": "2017"
+        },
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
+            "timespan": "Aug 2016 - Oct 2016 ",
+            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "course": "Basics of Web Developement (How to Become a Web Developer)",
+            "prof": "Mohammad Rajabi Seraji",
+            "duration": "25 Hours",
+            "coLecturer": "",
+            "description": "The course was offered as a part of Student Scientific Chapter's Summer program. This program was quite identical to the one that I presented in the spring. Although, there was a little change in my presentation method. In the courses, prior to this one, I used slide presentations alongside practical coding. During this course I focused more on the practical side in order to help the students leaning into the conecepts. Course work is available in the Github repo. You can also find the course syllabus in the links below.",
+            "links": [{
+                "id": 1,
+                "title": "Course Syllabus",
+                "url": ""
+            },
+            {
+                "id": 2, 
+                "title": "Course Repository",
+                "url": "https://github.com/rajabiseraji/webDesign"
+            }
+            ],
+            "end": "-"
+        },
+        {
+            "title": "LECT",
+            "titleDescription": "Lecturer",
+            "timespan": "Apr 2016 - May 2016 ",
+            "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "course": "Basics of Web Developement",
+            "prof": "Mohammad Rajabi Seraji",
+            "duration": "25 Hours",
+            "coLecturer": "",
+            "description": "The course was offered as a part of Student Scientific Chapter's Spring program. The program was mainly targeted freshmen and other new students of computer enigneering/science and was offered in five session (25 hours in total). In this course, I concentrated on the basic aspects of web development and its basic technologies, namely HTML 5, CSS and basic JavaScript. This course assumes that the learner has close to no prior experience in web design and focuses on introducing the students to the world of web development. I dedicated the first two sessions of the course to a basic introduction and history of web, as well as baby steps towards programming in that world. The other sessions were dedicated to workshops in which the students coded in real-time and compared the results to each other. more information is available in the links below.",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                },
+                {
+                    "id": 2,
+                    "title": "Course Repository",
+                    "url": ""
+                }
+            ],
+            "end": "-"
         },
 		{
             "title": "TA",
