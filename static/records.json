@@ -945,7 +945,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": 3,
             "title": "Web Development",
             "image": "/ux.svg",
             "description": "Some Multi shit",
@@ -1028,6 +1028,62 @@
                     "duration": "2 Years",
                     "expertise": "Good",
                     "logo": "/mongodb.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+            ]
+        }, 
+        {
+            "id": 4,
+            "title": "Hardware Design and Implementation",
+            "image": "/microchip.svg",
+            "description": "Some Multi shit",
+            "skills": [
+                {
+                    "id": 22,
+                    "title": "8086 Microprocessor programming",
+                    "duration": "1 Year",
+                    "expertise": "Good",
+                    "logo": "/8086.jpg",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                },
+                {
+                    "id": 23,
+                    "title": "Circuit design and analysis using Proteus",
+                    "duration": "2 Year",
+                    "expertise": "Good",
+                    "logo": "/proteus.jpg",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                },
+                {
+                    "id": 24,
+                    "title": "Co-design using FPGA (Spartan series)",
+                    "duration": "1 Year",
+                    "expertise": "Not bad",
+                    "logo": "/ise.jpg",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                },
+                {
+                    "id": 25,
+                    "title": "Layout Design using Cadence Virtuoso",
+                    "duration": "0.5 Year",
+                    "expertise": "Familiar",
+                    "logo": "/cadence.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                },
+                {
+                    "id": 26,
+                    "title": "Linear control system design and analysis using MATLAB",
+                    "duration": "0.5 Year",
+                    "expertise": "Familiar",
+                    "logo": "/matlab.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                },
+                {
+                    "id": 27,
+                    "title": "Interface design using Arduino boards (Uno, Nano, Mega)",
+                    "duration": "1.5 Years",
+                    "expertise": "Good",
+                    "logo": "/arduino.png",
                     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 }
             ]
