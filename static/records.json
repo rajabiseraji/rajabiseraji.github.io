@@ -416,12 +416,29 @@
         },
 		{
           "title": "AUT",
-          "titleDescription": "Head of Technology and Innovation Department of SSC",
-          "timespan": "Dec 2014 - Dec 2016",
+          "titleDescription": "Head of Communications and Industrial Connections Department of Student Scientific Chapter (SSC) of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+          "timespan": "Dec 2014 - Dec 2015",
           "location": "AUT SSC",
-          "firstJob": "Head of Technology and Innovation Department of SSC",
-          "firstJobDesc": "Working as the chief of technology in S.S.C in CEIT. Our Projects at CEIT contains: icpc.aut.ac.ir (16th International AUT programming contest), linuxFestival",
+          "firstJob": "",
+          "firstJobDesc": "Student Scientific Chapter of our university is a place built by the students, for the students, but unlike Student Council (also known as Student Government), its goal is to create a fun and engaging environment for the students to engage in academic and scientific events. Our responsibilites included holding Talks, Panels, Innovation Fairs, Job Fairs, Scietific Contests, Educational Workshops and etc. The members of this organization were chosen by the direct vote of the faculty students each year. This term was my second round of activity as a member of SSC and my responsibility was to establish a meaningful relationship between SSC and IT comrporations that were interested in investing the events or funding scientific fairs. During my time as a member, I participated in holding of many events such as 16th International AUT ACM ICPC, 8th National Linux Festival and etc. You can see a long list of these events and my roles in each of them in the executive experience section.",
           "end": "2016",
+          "links": [
+              {
+                  "id": 1,
+                  "title": "CEIT Student Scientific Chapter Website",
+                  "url": "https://ceit-ssc.ir"
+              },
+              {
+                  "id": 2,
+                  "title": "Student Associations Office of Amirkabir University of Technology",
+                  "url": "http://sao-aut.ir/en"
+              },
+              {
+                  "id": 3,
+                  "title": "Student Associations Office of Amirkabir University of Technology Alumni of Computer Engineering Faculty",
+                  "url": "http://sao-aut.ir/bashgah/#1448655880715-fdb9d431-d8db"
+              }
+          ],
           "logo": "/aut-eng.png"
         }
     ],
