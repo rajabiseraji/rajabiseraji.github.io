@@ -413,6 +413,23 @@
               }
           ],
           "logo": "/aut-eng.png"
+        },
+		{
+          "title": "AUT",
+          "titleDescription": "iOS and Android Programming Intern",
+          "timespan": "Jun 2016 - Sep 2016",
+          "location": "Enterprise Information Technology Arang",
+          "firstJob": "",
+          "firstJobDesc": "Arang IT is among the top corporations in Learning Management Systems and I learned programming with for iOS platform using Objective-C and also leanred the process of Android programming with Java in Android Studio. During this internship, I participated in making of a Learning Management System (LMS) and at the end also learned to code in basic PHP. This was done as a summer internship.",
+          "end": "2016",
+          "links": [
+              {
+                  "id": 1, 
+                  "title": "Arang IT Website",
+                  "url": "http://www.arangit.com/"
+              }
+          ],
+          "logo": "/arang.png"
         }
     ],
     "Executive": [
