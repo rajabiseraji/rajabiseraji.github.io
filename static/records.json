@@ -413,68 +413,67 @@
               }
           ],
           "logo": "/aut-eng.png"
-        },
-		{
-          "title": "AUT",
-          "titleDescription": "Head of Communications and Industrial Connections Department of Student Scientific Chapter (SSC) of Computer Engineering and IT Faculty of Amirkabir University of Technology",
-          "timespan": "Dec 2014 - Dec 2015",
-          "location": "AUT SSC",
-          "firstJob": "",
-          "firstJobDesc": "Student Scientific Chapter of our university is a place built by the students, for the students, but unlike Student Council (also known as Student Government), its goal is to create a fun and engaging environment for the students to engage in academic and scientific events. Our responsibilites included holding Talks, Panels, Innovation Fairs, Job Fairs, Scietific Contests, Educational Workshops and etc. The members of this organization were chosen by the direct vote of the faculty students each year. This term was my second round of activity as a member of SSC and my responsibility was to establish a meaningful relationship between SSC and IT comrporations that were interested in investing the events or funding scientific fairs. During my time as a member, I participated in holding of many events such as 16th International AUT ACM ICPC, 8th National Linux Festival and etc. You can see a long list of these events and my roles in each of them in the executive experience section.",
-          "end": "2016",
-          "links": [
-              {
-                  "id": 1,
-                  "title": "CEIT Student Scientific Chapter Website",
-                  "url": "https://ceit-ssc.ir"
-              },
-              {
-                  "id": 2,
-                  "title": "Student Associations Office of Amirkabir University of Technology",
-                  "url": "http://sao-aut.ir/en"
-              },
-              {
-                  "id": 3,
-                  "title": "Student Associations Office of Amirkabir University of Technology Alumni of Computer Engineering Faculty",
-                  "url": "http://sao-aut.ir/bashgah/#1448655880715-fdb9d431-d8db"
-              }
-          ],
-          "logo": "/aut-eng.png"
         }
     ],
     "Executive": [
         {
-            "title": "Head of Technology and Innovation Department of SSC",
-            "titleDescription": "Head of Technology and Innovation Department of SSC",
-            "timespan": "Dec 2014 - Dec 2016",
-            "location": "Student Scientific Chapter of Faculty of Computer Engineering and IT of Amirkabir University of Technology",
-            "firstJob": "Responsibilities",
-            "firstJobDesc": "My responsibilities included contacting lecturers and coordinating talks and lectures. I also was responsible for development of S.S.C websites.",
+            "title": "AUT",
+            "titleDescription": "Head of Communications and Industrial Connections Department",
+            "timespan": "Dec 2015 - Dec 2016",
+            "location": "Student Scientific Chapter (SSC) of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "firstJob": "",
+            "firstJobDesc": "Student Scientific Chapter of our university is a place built by the students, for the students, but unlike Student Council (also known as Student Government), its goal is to create a fun and engaging environment for the students to engage in academic and scientific events. Our responsibilites included holding Talks, Panels, Innovation Fairs, Job Fairs, Scietific Contests, Educational Workshops and etc. The members of this organization were chosen by the direct vote of the faculty students each year. This term was my second round of activity as a member of SSC and my responsibility was to establish a meaningful relationship between SSC and IT comrporations that were interested in investing the events or funding scientific fairs. During my time as a member, I participated in holding of many events such as 16th International AUT ACM ICPC, 8th National Linux Festival and etc. You can see a long list of these events and my roles in each of them in the executive experience section.",
+            "end": "2016",
             "links": [
                 {
                     "id": 1,
-                    "linkText": "CEIT Scientific Chapter Website",
-                    "linkURL": "https://ceit-ssc.ir/"
+                    "title": "CEIT Student Scientific Chapter Website",
+                    "url": "https://ceit-ssc.ir"
                 },
                 {
                     "id": 2,
+                    "title": "Student Associations Office of Amirkabir University of Technology",
+                    "url": "http://sao-aut.ir/en"
+                },
+                {
+                    "id": 3,
+                    "title": "Student Associations Office of Amirkabir University of Technology Alumni of Computer Engineering Faculty",
+                    "url": "http://sao-aut.ir/bashgah/#1448655880715-fdb9d431-d8db"
+                }
+            ],
+            "logo": "/aut-eng.png"
+        },
+        {
+            "title": "AUT",
+            "titleDescription": "Head of Innovations and Scientific Olympiads Department",
+            "timespan": "Dec 2014 - Dec 2015",
+            "location": "Student Scientific Chapter (SSC) of Computer Engineering and IT Faculty of Amirkabir University of Technology",
+            "firstJob": "",
+            "firstJobDesc": "Student Scientific Chapter of our university is a place built by the students, for the students, but unlike Student Council (also known as Student Government), its goal is to create a fun and engaging environment for the students to engage in academic and scientific events. Our responsibilites included holding Talks, Panels, Innovation Fairs, Job Fairs, Scietific Contests, Educational Workshops and etc. The members of this organization were chosen by the direct vote of the faculty students each year. My role in this organization was to make sure that we have a proper connection with students and alumni who want to present their novel ideas to the industrial leaders of the field. I was also in charge of managing our olympiad teams, our robotic teams and making sure they have the proper funding and support for their work. One of my other responsibilities was to keep in touch with the outstanding alumni of our faculty and hold occasional(monthly) talks with them as the main speaker. You can see a vast list of events in which I contributed in the executive experience section.",
+            "end": "2016",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "CEIT Student Scientific Chapter Website",
+                    "url": "https://ceit-ssc.ir"
+                },
+                {
+                    "id": 4,
                     "linkText": "CEIT Scientific Chapter Twitter",
                     "linkURL": "https://twitter.com/ceit_ssc"
                 },
                 {
-                    "id": 3,
-                    "linkText": "Amirkabir University of Technology Student Associations Website",
-                    "linkDesc": "The site might fail on first load :| refresh it and you're good to go. (Thanks to the university for its efforts for maintaining the domain :/)",
-                    "linkURL": "http://sao-aut.ir/en"
+                    "id": 2,
+                    "title": "Student Associations Office of Amirkabir University of Technology",
+                    "url": "http://sao-aut.ir/en"
                 },
                 {
-                    "id": 4,
-                    "linkText": "Amirkabir Student Associations Alumni",
-                    "linkURL": "http://sao-aut.ir/bashgah/#1448655880715-fdb9d431-d8db",
-                    "linkDesc": "You can see an awefull photo of me here and also this is only available in persian, again thanks to the university's aweful maintenance"
+                    "id": 3,
+                    "title": "Student Associations Office of Amirkabir University of Technology Alumni of Computer Engineering Faculty",
+                    "url": "http://sao-aut.ir/bashgah/#1448655880715-fdb9d431-d8db"
                 }
             ],
-            "end": "2016"
+            "logo": "/aut-eng.png"
         },
         {
             "title": "KEY EXECUTIVE MEMBER",
