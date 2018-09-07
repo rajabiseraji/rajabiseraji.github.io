@@ -3,12 +3,16 @@
       <v-flex xs12 sm4>
         <v-layout row wrap justify-center align-center fill-height>
           <v-flex xs12 justify-center align-center d-flex>
-            <img :src="image" height="100px" :alt="title"/>
-          </v-flex>
-          <v-flex xs12 justify-center d-flex class="px-2 my-3">
-            <div class="title text-xs-center font-weight-thin">
-              {{title}}
-            </div>
+            <v-layout fill-height justify-center wrap>
+              <v-flex xs12 justify-center align-center d-flex>
+                <img :src="image" height="100px" :alt="title"/>
+              </v-flex>
+              <v-flex xs12 justify-center d-flex class="px-2 my-3">
+                <div class="title text-xs-center font-weight-thin">
+                  {{title}}
+                </div>
+              </v-flex>
+            </v-layout>
           </v-flex>
         </v-layout>
       </v-flex>
