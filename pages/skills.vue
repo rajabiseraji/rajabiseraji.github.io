@@ -7,8 +7,12 @@
           </div>
           <v-divider></v-divider>
       </v-flex>
+      <v-flex xs12 class="my-2">
+        <v-btn v-for="skillList in skillRecords" :href="'#'+skillList.id" :key="skillList.id" class="mx-1 pa-2 navButtons" color="primary">{{skillList.title}}</v-btn>
+      </v-flex>
       <v-flex xs12 class="mt-2">
         <SkillItem v-for="skillList in skillRecords" 
+                  :id="skillList.id"
                   :key="skillList.id" 
                   :image="skillList.image"
                   :title="skillList.title" 
@@ -33,6 +37,8 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
+  .navButtons { 
+    font-size: 0.75rem;
+  }
 </style>

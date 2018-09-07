@@ -1,5 +1,5 @@
 <template>
-    <v-layout row reverse wrap class="my-2 elevation-1">
+    <v-layout :id="id" row reverse wrap class="my-2 elevation-1">
       <v-flex xs12 sm4>
         <v-layout row wrap justify-center align-center fill-height>
           <v-flex xs12 justify-center align-center d-flex>
