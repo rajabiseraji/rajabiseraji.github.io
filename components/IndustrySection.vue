@@ -8,12 +8,12 @@
       >
         <div slot="header">
             <v-layout row wrap>
-                <v-flex xs12 sm2 justify-center d-flex>
-                    <v-avatar class="avatar-class" tile>
+                <v-flex xs12 sm1 justify-center d-flex>
+                    <v-avatar class="avatar-class" tile size="64">
                         <img class="company-logo" :src="record.logo" :alt="record.title"/>
                     </v-avatar>
                 </v-flex>
-                <v-flex xs12 sm10>
+                <v-flex xs12 sm11>
                     <div class="subheading">{{record.titleDescription + " | " + record.location}}</div>
                     <div class="caption">{{record.timespan}} </div>
                 </v-flex>

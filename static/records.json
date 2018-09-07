@@ -361,31 +361,57 @@
 		{
           "title": "Fandogh co.",
           "titleDescription": "Senior Web Developer",
-          "timespan": "Oct 2016 - Sep 2017",
+          "timespan": "Apr 2017 - Sep 2017",
           "location": "Fandogh Co.",
           "firstJob": "Senior Web Developer",
-          "firstJobDesc": "My responsibilities include leading a team of junior developers in different projects",
+          "firstJobDesc": "I was in charge of a team of five junior developers in order to develop the latest corporation products. The two main product we worked on was \"Amirkabir University of Technology's Diner Web App\" and \"Chavosh: Amirkabir University of Technology's Social Media PWA\". We were using the latest Front-end technologies of Vue and Nuxt and also contributing to the Nuxt community on a regular basis. My job was to maintain team stability, represent goals in terms of smaller tasks and assigning them to each team members and also managing weekly SCRUM sessions. For the back-end tech. we used Node.js's framework, Hapi that was changed in order to meet our project specifications. it's also notable to mention that by GitHub statistics of 2017, our organization ranks in the top 5 of our country. The diner project was halted due to some problems from the university contractors but \"Chavosh\" is live and kicking :D you can checkout for your self in the links below.  Be sure to also check it on mobile, it's a real treat for the sore eyes ;)",
+          "links": [
+              {
+                  "id": 1,
+                  "title": "Chavosh Website",
+                  "url": "https://chavosh.aut.ac.ir/"
+              },
+              {
+                  "id": 2,
+                  "title": "Company's Github Organization",
+                  "url": "https://github.com/fandogh"
+              }
+          ],
           "end": "2017",
-          "logo": "/aut-eng.png"
+          "logo": "/fandogh.png"
         },
 		{
           "title": "AUT",
           "titleDescription": "Senior Web Developer",
-          "timespan": "Apr 2016 - Dec 2016",
-          "location": "Department of International Affairs of AUT",
-          "firstJob": "Full-stack Web Developer",
-          "firstJobDesc": "Leading the university Fund Search Engine project and managing the back-end technologies used in it.",
+          "timespan": "Sep 2016 - Mar 2017",
+          "location": "Office of Information, IT and Communications of Department of Education of Amirkabir University of Technology",
+          "firstJob": "Senior Web Developer",
+          "firstJobDesc": "I worked alongside a team of talented web developers on the Amirkabir University Support System (Trouble Ticketing) which is currently available at https://support.aut.ac.ir. We worked for the office of Information and Technology of the university and under the supervision of Dr. Mehdi Dehghan. The full description of the project is available in the projects section.",
+          "links": [
+              {
+                  "id": 1, 
+                  "title": "Amirkabir Support Website",
+                  "url": "https://support.aut.ac.ir"
+              }
+          ],
           "end": "2016",
-          "logo": "/aut-eng.png"
+          "logo": "/informatics.png"
         },
 		{
           "title": "AUT",
-          "titleDescription": "Senior Web Developer",
+          "titleDescription": "Project Manager and Senior Web Developer",
           "timespan": "Apr 2016 - Dec 2016",
-          "location": "Department of International Affairs of AUT",
+          "location": "Department of International Affairs of Amirkabir University of Technology",
           "firstJob": "Full-stack Web Developer",
-          "firstJobDesc": "Leading the university Fund Search Engine project and managing the back-end technologies used in it.",
+          "firstJobDesc": "I was working as the project manager to bring a new \"Scholarship System Search Engine\" to the university. I was responsible for creating the basic structure of the project, including our technology stack, the method of team-work and also the deadlines. I also worked as a front and back-end developer for this project. We used PHP's framework, Laravel and its templating engine in order to develop our backend. We also used JQuery and Bootstrap as the main Tech behind our front-end. The project started with great pace and was released on time. Right now, though, the website is down due to the universitiy's lack of maintenance and support. We also used Docker as the main means of deployment. You can checkout the project repository in the link below.",
           "end": "2016",
+          "links": [
+              {
+                  "id": 1, 
+                  "title": "Project Repo, To be filled",
+                  "url": "https://github.com/AUT-International-Office/autrevised"
+              }
+          ],
           "logo": "/aut-eng.png"
         },
 		{
