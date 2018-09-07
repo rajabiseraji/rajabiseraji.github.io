@@ -15,7 +15,7 @@
       <v-flex xs12 sm8>
         <v-list two-line subheader>
           <v-list-tile v-for="skill in skills" :key="skill.id" avatar @click="() => openDialog(skill)">
-            <v-list-tile-avatar>
+            <v-list-tile-avatar tile>
               <img :src="skill.logo" height="60px" :alt="skill.title">
             </v-list-tile-avatar>
 
