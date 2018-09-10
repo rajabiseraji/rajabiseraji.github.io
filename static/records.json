@@ -1076,7 +1076,7 @@
                     "duration": "1 Year",
                     "expertise": "Good",
                     "logo": "/8086.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "This was the kind of programming we had to do in our microprocessor's course, I've also been programming for these chips in my final projects, my main tool of development was Atmel Studio and Arduino IDEs."
                 },
                 {
                     "id": 23,
@@ -1084,7 +1084,7 @@
                     "duration": "2 Year",
                     "expertise": "Good",
                     "logo": "/proteus.jpg",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Proteus was the main tool of visual circuit simulations in computer architecture course, I've also used it in microporcessor's project and lab and also in my final projcet sketches. I can develop complex circuits in it and can also simulate a handful of them, too."
                 },
                 {
                     "id": 24,
@@ -1092,7 +1092,7 @@
                     "duration": "1 Year",
                     "expertise": "Not bad",
                     "logo": "/ise.jpg",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": ""
                 },
                 {
                     "id": 25,
@@ -1100,7 +1100,7 @@
                     "duration": "0.5 Year",
                     "expertise": "Familiar",
                     "logo": "/cadence.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Chip layout design and implementation was the main goal of our VLSI course, so I had to use Virtuoso to make the layouts and simulate the chip circuits. I can't do more than basic layouts with it."
                 },
                 {
                     "id": 26,
@@ -1108,7 +1108,7 @@
                     "duration": "0.5 Year",
                     "expertise": "Familiar",
                     "logo": "/matlab.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Refer to Matlab in programming language section."
                 },
                 {
                     "id": 27,
@@ -1116,7 +1116,7 @@
                     "duration": "1.5 Years",
                     "expertise": "Good",
                     "logo": "/arduino.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Due to the simplicity to development, I used Arduino board a lot during the past years, I've especially utilized it in my thesis project and can say am pretty good in developing programs for these kinds of boards."
                 }
             ]
         },
