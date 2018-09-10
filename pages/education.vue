@@ -14,8 +14,7 @@
               </v-flex>
           </v-layout>
         </v-flex>
-        <v-flex xs12>
-            <v-divider></v-divider>
+        <v-flex xs12 class="mt-3">
             <div class="display-2 font-weight-thin mb-3">
                 Outstanding Courses
             </div>
