@@ -1052,7 +1052,7 @@
                     "duration": "4 Years",
                     "expertise": "Expert",
                     "logo": "/htmlcss.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Well I don't think these two little guys need a lot of description :D I've been working with them in one way or another for the past 4-5 years and can say I know most of the things there is to know about them. (they're so simple :D)"
                 },
                 {
                     "id": 21,
@@ -1060,7 +1060,7 @@
                     "duration": "2 Years",
                     "expertise": "Good",
                     "logo": "/mongodb.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "This was the fist NOSQL databse technology that I worked with. I used it mostly during AUT Diner project. I'm good at using it with mongoose driver in MongoDB and with the corrsponding drivers in PHP."
                 }
             ]
         }, 
