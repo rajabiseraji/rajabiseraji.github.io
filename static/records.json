@@ -1310,7 +1310,6 @@
             "timespan": "S1 2013-14 (Sep 2013 - Jan 2014)",
             "score": "18.33/20 (A)",
             "prof": "Prof. Behroz Bidabad, Professor",
-            "description": "This course something",
             "links": [
                 {
                     "id": 1,
@@ -1325,7 +1324,6 @@
             "timespan": "S2 2013-14 (Jan 2014 - Jun 2014)",
             "score": "17/20 (A)",
             "prof": "Dr. Mehran S. Fallah, Associate Professor",
-            "description": "this course something else",
             "links": [
                 {
                     "id": 1,
@@ -1337,10 +1335,9 @@
         {
             "id": 3, 
             "title": "Computer Architecture",
-            "timespan": "S1 2014-15 (Sep 2014 - Jun 2015)",
+            "timespan": "S1 2014-15 (Sep 2014 - Jan 2015)",
             "score": "18.75/20 (A)",
             "prof": "Dr. Hamid R. Zarandi, Associate Professor",
-            "description": "this course something else",
             "links": [
                 {
                     "id": 1,
@@ -1352,10 +1349,9 @@
         {
             "id": 4, 
             "title": "Electronic Circuits",
-            "timespan": "S1 2014-15 (Sep 2014 - Jun 2015)",
+            "timespan": "S1 2014-15 (Sep 2014 - Jan 2015)",
             "score": "18.75/20 (A)",
             "prof": "Dr. Amini",
-            "description": "this course something else",
             "links": [
                 {
                     "id": 1,
@@ -1363,7 +1359,211 @@
                     "title": "Professor's Homepage"
                 }
             ]
-        }
+        },
+        {
+            "id": 5, 
+            "title": "Software Engineering",
+            "timespan": "S1 2015-16 (Sep 2015 - Jan 2016)",
+            "score": "17.5/20 (A)",
+            "prof": "Dr. Bahman Pourvatan, Lecturer",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/autcms/people/verticalPagesAjax/professorHomePage.htm?url=pourvatb&depurl=computer-engineering&lang=fa&cid=78905594",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 6, 
+            "title": "Computer Networks I",
+            "timespan": "S1 2015-16 (Sep 2014 - Jan 2015)",
+            "score": "19.5/20 (A)",
+            "prof": "Dr. Hossein Pedram, Associate Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/~pedram/",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 7, 
+            "title": "Digital Electronics",
+            "timespan": "S1 2015-16 (Sep 2014 - Jan 2015)",
+            "score": "19.5/20 (A)",
+            "prof": "Dr. Mehdi Sedighi - Associate Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/~msedighi",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 8, 
+            "title": "Digital Automation Design (FPGA)",
+            "timespan": "S2 2015-16 (Jan 2016 - Jun 2016)",
+            "score": "19.3/20 (A)",
+            "prof": "Dr. Morteza Saheb Zamani - Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/~szamani/",
+                    "title": "Professor's Homepage"
+                },
+                {
+                    "id": 2,
+                    "url": "http://www.aut.ac.ir/official/main.asp?uid=szamani",
+                    "title": "Professor's University page"
+                }
+            ]
+        },
+        {
+            "id": 9, 
+            "title": "VLSI Systems Design",
+            "timespan": "S2 2015-16 (Jan 2016 - Jun 2016)",
+            "score": "19.18/20 (A)",
+            "prof": "Dr. Mahmoud Momtazpour - Assistant Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/~momtazpour/",
+                    "title": "Professor's Homepage"
+                },
+                {
+                    "id": 2,
+                    "url": "https://ceit.aut.ac.ir/autcms/people/verticalPagesAjax/professorHomePage.htm?url=momtazpour&depurl=computer-engineering&lang=en&cid=396947",
+                    "title": "Professor's Faculty page"
+                }
+            ]
+        },
+        {
+            "id": 10, 
+            "title": "Research Method and Report Writing",
+            "timespan": "S2 2015-16 (Jan 2016 - Jun 2016)",
+            "score": "19/20 (A)",
+            "prof": "Dr. Saeed Shiry Ghidary - Assistant Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "https://ceit.aut.ac.ir/~shiry/",
+                    "title": "Professor's Homepage"
+                },
+                {
+                    "id": 2,
+                    "url": "http://www.aut.ac.ir/official/main.asp?uid=shiry",
+                    "title": "Professor's University page"
+                }
+            ]
+        },
+        {
+            "id": 11, 
+            "title": "Internet Engineering",
+            "timespan": "S1 2016-17 (Sep 2016 - Jan 2017)",
+            "score": "18.25/20 (A)",
+            "prof": "Dr. Bahador Bakhshi - Assistant Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/~bakhshis/",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 12, 
+            "title": "Principles of Database Design",
+            "timespan": "S1 2016-17 (Sep 2016 - Jan 2017)",
+            "score": "19.8/20 (A)",
+            "prof": "Dr. Maryam Amir Haeri - Assistant Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/~haeri/",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 13, 
+            "title": "Special Topics In Hardware - Startup",
+            "timespan": "S1 2016-17 (Sep 2016 - Jan 2017)",
+            "score": "19.3/20 (A)",
+            "prof": "Mr. Ghanad Pour - Lecturer",
+        },
+        {
+            "id": 14,
+            "title": "Microprocessors (I)",
+            "timespan": "S1 2016-17 (Sep 2016 - Jan 2017)",
+            "score": "17.4/20 (A)",
+            "prof": "Dr. Mohammad Mehdi Homayounpour - Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://www.aut.ac.ir/official/main.asp?uid=homayoun",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Computer Interface Design",
+            "timespan": "S2 2016-17 (Jan 2017 - Jun 2017)",
+            "score": "19.8/20 (A)",
+            "prof": "Dr. Mehdi Sedighi - Associate Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/~msedighi",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Linear Control Systems",
+            "timespan": "S2 2016-17 (Jan 2017 - Jun 2017)",
+            "score": "19.2/20 (A)",
+            "prof": "Dr. Mehdi Rasti - Assistant Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://www.aut.ac.ir/official/main.asp?uid=rasti",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Embdded & Real-Time Systems",
+            "timespan": "S1 2017-18 (Sep 2017 - Jan 2018)",
+            "score": "18.1/20 (A)",
+            "prof": "Dr. Hossein Pedram, Associate Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/~pedram/",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Computer Graphics",
+            "timespan": "S1 2017-18 (Sep 2017 - Jan 2018)",
+            "score": "18/20 (A)",
+            "prof": "Dr. Alireza Bagheri, Assistant Professor",
+            "links": [
+                {
+                    "id": 1,
+                    "url": "http://ceit.aut.ac.ir/~bagheri/",
+                    "title": "Professor's Homepage"
+                }
+            ]
+        },
     ]
 }
 
