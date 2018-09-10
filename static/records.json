@@ -788,7 +788,7 @@
                     "duration": "4 Years",
                     "expertise": "Expert",
                     "logo": "/nodejs.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "I learnt it about 4 years ago by self-study and have been working with it directly or indirectly(in React, Vue, Hapi, ...) ever since."
                 },
                 {
                     "id": 2, 
