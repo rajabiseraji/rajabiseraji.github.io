@@ -956,7 +956,7 @@
                     "duration": "1 Year",
                     "expertise": "Familiar",
                     "logo": "/webgl.svg",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "I learned it in my Grpahics I course and have been learning about it eversince. right now I can do some basic tasks with it but I'm constantly learning to do more advanced ones with it. I've been mostly using it in form of Three.js and in web related programs."
                 },
                 {
                     "id": 36,
@@ -964,7 +964,7 @@
                     "duration": "1 Year",
                     "expertise": "Familiar",
                     "logo": "/opengl.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "This was the main Shader Language we were using in Computer Graphics I course, so I had to learn it in order to implement basic task. I've been also using it in parts of my thesis project. I have planned courses to further expand my knowledge in it."
                 },
                 {
                     "id": 37,
@@ -972,7 +972,7 @@
                     "duration": "1.5 Years",
                     "expertise": "Familiar",
                     "logo": "/threejs.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Refer to my WebGL description."
                 }
             ]
         },
