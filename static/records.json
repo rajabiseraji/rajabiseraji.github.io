@@ -945,6 +945,38 @@
             ]
         },
         {
+            "id": 5,
+            "title": "Graphics",
+            "image": "/vector.svg",
+            "description": "Some Multi shit",
+            "skills": [
+                {
+                    "id": 35,
+                    "title": "WebGL",
+                    "duration": "1 Year",
+                    "expertise": "Familiar",
+                    "logo": "/webgl.svg",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                },
+                {
+                    "id": 36,
+                    "title": "OpenGL",
+                    "duration": "1 Year",
+                    "expertise": "Familiar",
+                    "logo": "/opengl.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                },
+                {
+                    "id": 37,
+                    "title": "Three.JS",
+                    "duration": "1.5 Years",
+                    "expertise": "Familiar",
+                    "logo": "/threejs.png",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+            ]
+        },
+        {
             "id": 3,
             "title": "Web Development",
             "image": "/ux.svg",
@@ -1085,6 +1117,46 @@
                     "expertise": "Good",
                     "logo": "/arduino.png",
                     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Operating Systems",
+            "image": "/operating-system.svg",
+            "description": "Some Multi shit",
+            "skills": [
+                {
+                    "id": 37,
+                    "title": "Microsoft Windows",
+                    "duration": "A long Time :D",
+                    "expertise": "Expert",
+                    "logo": "/windows.svg",
+                    "description": "I've been working with Windows opersting system from Windows 95 up until the very recent Windows 10, I'm also a windows insider."
+                },
+                {
+                    "id": 38,
+                    "title": "Ubuntu 15.04 and upper",
+                    "duration": "5 Years",
+                    "expertise": "Good",
+                    "logo": "/ubuntu.svg",
+                    "description": ""
+                },
+                {
+                    "id": 39,
+                    "title": "Mac OSX",
+                    "duration": "1 Year",
+                    "expertise": "Not bad",
+                    "logo": "/osx.png",
+                    "description": "During my iOS development time I had to use this OS, I'm not an expert in using it but can find my way to things ;)"
+                },
+                {
+                    "id": 40,
+                    "title": "Open SUSE",
+                    "duration": "0.5 Year",
+                    "expertise": "Familiar",
+                    "logo": "/opensuse.png",
+                    "description": "I only worked with this OS in order to use Cadence virtuoso for a semester."
                 }
             ]
         }
