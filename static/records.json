@@ -988,7 +988,7 @@
                     "duration": "5 Years",
                     "expertise": "Expert",
                     "logo": "/es6.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Refer to my ECMA6 description in Programming Languages section."
                 },
                 {
                     "id": 13,
@@ -996,7 +996,7 @@
                     "duration": "1.5 Years",
                     "expertise": "Expert",
                     "logo": "/react.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "I learned it as a way to find the best framework for our Snappfood project. I've been working almost 24/7 with it for the past year and half and can confidently say I'm an expert in using it, extending it and also write frameworks and boilerplates with it. I know react's advanced topics and am pretty well aquainted with Redux, Thunk, Sagas, Helmet and many other react libraries."
                 },
                 {
                     "id": 14,
@@ -1004,7 +1004,7 @@
                     "duration": "2.5 Years",
                     "expertise": "Expert",
                     "logo": "/vue.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "This is a front-end framework I've been using for the past 2 years and a half and am quite an expert in it. I was a part of Nuxt development team for a while and am pretty good at developing node.js and webpack servers to do vue serverside rendering. I've done almost 5 big scale projects in Vue and Nuxt (including this site). I feel pretty much at home when developing in Vue."
                 },
                 {
                     "id": 15,
@@ -1012,7 +1012,7 @@
                     "duration": "2 Years",
                     "expertise": "Expert",
                     "logo": "/nuxt.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Refer to my Vue 2 descriptions."
                 },
                 {
                     "id": 16,
@@ -1020,7 +1020,7 @@
                     "duration": "4 Years",
                     "expertise": "Expert",
                     "logo": "/nodejs.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Refer to my Node.js descriptions in programming languages sections."
                 },
                 {
                     "id": 17,
@@ -1028,7 +1028,7 @@
                     "duration": "2 Years",
                     "expertise": "Good",
                     "logo": "/hapi.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "This is a good Node.js framework that we used in Fandogh, it's fast and flexible with the help to Hapi plugins, so it makes it an ideal framework to develop large-scale data-driven apps. I've been working with it for almost 2 years and although not an expert in it, I can do a lot using it."
                 },
                 {
                     "id": 18,
@@ -1036,7 +1036,7 @@
                     "duration": "1 Year",
                     "expertise": "Good",
                     "logo": "/laravel.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Refer to my PHP section in programming languages. I've done about 2 large-scale projects in it."
                 },
                 {
                     "id": 19,
@@ -1044,7 +1044,7 @@
                     "duration": "4 Years",
                     "expertise": "Quite Good",
                     "logo": "/php.png",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "Refer to my PHP section in programming languages section."
                 },
                 {
                     "id": 20,
