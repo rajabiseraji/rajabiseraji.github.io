@@ -828,7 +828,7 @@
                     "duration": "1 Year",
                     "expertise": "Not bad",
                     "logo": "/vhdl.jpg",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "description": "I learned it in Logic Design course in my third semster and used it in my hardware projects that required low level designs (Comp. Arch., Logic and FPGA)."
                 },
                 {
                     "id": 7, 
