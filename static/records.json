@@ -694,7 +694,8 @@
                 "title": "Quadrotor Simulation with LQR Estimation in MATLAB",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Apr 2017 - Jun 2017",
-                "description": "Linear Control Systems Course Project",
+                "course": "Linear Control Systems Course Project",
+                "description": "In this project we made a simulation of a Quadrotor in MATLAB using LQR feedback control technique. At last we had a visual simulation of a fully controlled quadrotor (with help of a little bit of SolidWorks model)",
                 "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
                 "link": ""
             },
