@@ -494,14 +494,13 @@
             "title": "KEY EXECUTIVE MEMBER",
             "titleDescription": "Key Executive Member",
             "timespan": "Nov 2017",
-            "location": "17<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
+            "location": "18<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
             "firstJob": "Event Coordinator",
             "firstJobDesc": "I was in charge of making arrangements with international teams, designing the contestant team placings so that the contest is diverse and fun enough for everyone.",
             "secondJob": "Contest Staff",
             "secondJobDesc": "During the contest I was also one of the staff that answered team questions and relayed the problems to the judges.",
-            "end": "2017",
-            "links": [
-                {
+            "end": "2018",
+            "links": [{
                     "id": 1,
                     "linkText": "AUT ICPC Website",
                     "linkURL": "https://icpc.aut.ac.ir/"
@@ -517,10 +516,10 @@
             "title": "KEY EXECUTIVE MEMBER",
             "titleDescription": "Key Executive Member",
             "timespan": "Nov 2016",
-            "location": "16<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
-            "firstJob": "Key Executive Member",
+            "location": "17<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
+            "firstJob": "Financial Event Manager",
             "firstJobDesc": "I was in charge of contacting different corporations in order to find sponsors for the event. I also managed all payments of the contest. I was also in charge of appointing the logistics team manager so that the contestants' requirements were properly satisfied.",
-            "end": "2016",
+            "end": "2018",
             "links": [
                 {
                     "id": 1,
@@ -533,9 +532,9 @@
                     "linkURL": "https://icpc.aut.ac.ir/history"
                 },
                 {
-                  "id": 3,
-                  "linkText": "Checkout the event Tweets",
-                  "linkURL": "https://twitter.com/hashtag/AUTICPC?src=hash"
+                    "id": 3,
+                    "linkText": "Checkout the event Tweets",
+                    "linkURL": "https://twitter.com/hashtag/AUTICPC?src=hash"
                 }
             ]
         },
@@ -544,13 +543,12 @@
             "titleDescription": "Key Executive Member",
             "timespan": "May 2017",
             "location": "9<sup>th</sup> National Amirkabir Linux Festival",
-            "firstJob": "Key Executive Member",
+            "firstJob": "Financial Event Manager",
             "firstJobDesc": "I was in charge of contacting different corporations in order to find sponsors for the event. I also managed all payments of the contest. I was also in charge of appointing the logistics team manager so that the contestants' requirements were properly satisfied.",
             "secondJob": "Workshop Coordinator",
             "secondJobDesc": "I made the timetables and necessary coordinations with lecturers to assign the proper time slot for each workshop",
             "end": "2018",
-            "links": [
-                {
+            "links": [{
                     "id": 1,
                     "linkText": "Amirkabir Student Association news piece on the event",
                     "linkURL": "http://sao-aut.ir/%D9%86%D9%87%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D8%A7%D9%85%DB%8C%D8%B1%DA%A9%D8%A8%DB%8C%D8%B1/"
@@ -566,47 +564,48 @@
             "title": "EXECUTIVE MEMBER",
             "titleDescription": "Executive Member",
             "timespan": "Nov 2015",
-            "location": "15<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
+            "location": "16<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
             "firstJob": "Contest Staff",
             "firstJobDesc": "During the contest I was also one of the staff that answered team questions and relayed the problems to the judges.",
             "end": "2018",
-            "links": [{
-                "id": 1,
-                "linkText": "AUT ICPC Website - Past Contests",
-                "linkURL": "https://icpc.aut.ac.ir/past"
-              },
-              {
-                "id": 2,
-                "linkText": "AUT ICPC Website - History",
-                "linkURL": "https://icpc.aut.ac.ir/history"
-              }
+            "links": [
+                {
+                    "id": 1,
+                    "linkText": "AUT ICPC Website - Past Contests",
+                    "linkURL": "https://icpc.aut.ac.ir/past"
+                },
+                {
+                    "id": 2,
+                    "linkText": "AUT ICPC Website - History",
+                    "linkURL": "https://icpc.aut.ac.ir/history"
+                }
             ]
         },
         {
-          "title": "KEY EXECUTIVE MEMBER",
-          "titleDescription": "Executive Member",
-          "timespan": "May 2016",
-          "location": "8<sup>th</sup> National Amirkabir Linux Festival",
-          "firstJob": "Event Staff",
-          "firstJobDesc": "There was a bunch of different tasks I did as a staff member of the festival, including preperations of the classes, coordination with lecturers and check-in of the registrants.",
-          "end": "2018",
-          "links": [
-            {
-              "id": 1,
-              "linkText": "Linuxfest Twitter Account",
-              "linkURL": "https://twitter.com/LinuxFestival"
-            },
-            {
-              "id": 2,
-              "linkText": "CEIT Faculty news piece of the event",
-              "linkURL": "http://ceit.aut.ac.ir/autcms/news/newsDetail.htm?id=1778221294&depurl=computer-engineering&lang=fa&cid=20436092"
-            },
-            {
-              "id": 3,
-              "linkText": "Checkout the facebook posts",
-              "linkURL": "https://www.facebook.com/hashtag/linuxfestir"
-            }
-          ]
+            "title": "KEY EXECUTIVE MEMBER",
+            "titleDescription": "Executive Member",
+            "timespan": "May 2016",
+            "location": "8<sup>th</sup> National Amirkabir Linux Festival",
+            "firstJob": "Event Staff",
+            "firstJobDesc": "There was a bunch of different tasks I did as a staff member of the festival, including preperations of the classes, coordination with lecturers and check-in of the registrants.",
+            "end": "2018",
+            "links": [
+                {
+                    "id": 1,
+                    "linkText": "Linuxfest Twitter Account",
+                    "linkURL": "https://twitter.com/LinuxFestival"
+                },
+                {
+                    "id": 2,
+                    "linkText": "CEIT Faculty news piece of the event",
+                    "linkURL": "http://ceit.aut.ac.ir/autcms/news/newsDetail.htm?id=1778221294&depurl=computer-engineering&lang=fa&cid=20436092"
+                },
+                {
+                    "id": 3,
+                    "linkText": "Checkout the facebook posts",
+                    "linkURL": "https://www.facebook.com/hashtag/linuxfestir"
+                }
+            ]
         },
 		{
           "title": "KEY EXECUTIVE MEMBER",
@@ -638,7 +637,7 @@
             "title": "EXECUTIVE MEMBER",
             "titleDescription": "Executive Member",
             "timespan": "Nov 2014",
-            "location": "14<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
+            "location": "15<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
             "firstJob": "Contest Staff",
             "firstJobDesc": "During the contest I was also one of the staff that answered team questions and relayed the problems to the judges.",
             "end": "2018",
@@ -651,6 +650,21 @@
                 "id": 2,
                 "linkText": "AUT ICPC Website - History",
                 "linkURL": "https://icpc.aut.ac.ir/history"
+              }
+            ]
+        },
+		{
+            "title": "EXECUTIVE MEMBER",
+            "titleDescription": "Key Executive Member",
+            "timespan": "Nov 2014",
+            "location": "2<sup>nd</sup> National Digital Design Contest",
+            "firstJob": "Contest Staff",
+            "firstJobDesc": "",
+            "end": "2018",
+            "links": [{
+                "id": 1,
+                "linkText": "Event Website",
+                "linkURL": "http://ceit.aut.ac.ir/dsd/fpgasoc94/"
               }
             ]
         }
