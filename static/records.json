@@ -733,17 +733,30 @@
                         "id": 1,
                         "title": "Project Website",
                         "url": "https://m.snappfood.ir"
+                    },
+                    {
+                        "id": 2, 
+                        "title": "Project Report",
+                        "logo": "/dropbox.svg",
+                        "url": "https://www.dropbox.com/s/y2cs1z2dh9dr05u/snappfoodmain-web.zip?dl=0"
                     }
                 ]
             },
             {
                 "id": 3,
-                "title": "Amirkabir Buffet",
+                "title": "Amirkabir Buffet (Diner Web App of Amirkabir University)",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Apr 2017 - Sep 2017",
-                "description": "Designing a website, mobile-app for the university cafeteria using Node.js, Vue and Nuxt.",
+                "description": "This project was done in Fandogh Co. and its main purpose was to make a new way for the university staff and students to order food from its diner. it's made using Vue, Nuxt and Node.js, plaese refer to the full project report in the links below.",
                 "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-                "link": ""
+                "links": [
+                    {
+                        "id": 1, 
+                        "title": "Project Report",
+                        "logo": "/dropbox.svg",
+                        "url": "https://www.dropbox.com/s/agr3aa9b9m2xetm/Buffet.rar?dl=0"
+                    }
+                ] 
             },
             {
                 "id": 4,

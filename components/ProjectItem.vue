@@ -24,8 +24,8 @@
         </v-card-text>
         <v-card-actions v-if="projectItem.links">
           <v-btn v-for="link in projectItem.links" :key="link.id" flat dark class="black" :href="link.url" target="_blank">
-            <v-avatar v-if="link.title.includes('github')" size="20" class="mr-2">
-              <img src="/github.svg" alt="g">
+            <v-avatar v-if="link.logo" size="20" class="mr-2">
+              <img :src="link.logo" alt="g">
             </v-avatar>
             {{link.title}}
           </v-btn>
