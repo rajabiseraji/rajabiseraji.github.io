@@ -760,12 +760,19 @@
             },
             {
                 "id": 4,
-                "title": "A.U.T Trouble Ticketing",
+                "title": "Amirkabir University of Technology Support and Touble Ticketing System",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Dec 2016 - Jun 2017",
-                "description": "",
-                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-                "link": ""
+                "description": "This project was in order to implement a system that addresses the trouble tickeing in our university. We built this using Nuxt and Vue, full project report and description is available in the links below.",
+                "logo": "/aut.jpg",
+                "links": [
+                    {
+                        "id": 1,
+                        "title": "Project Report - TOBE Filled",
+                        "url": "",
+                        "logo": "/dropbox.svg"
+                    }
+                ] 
             },
             {
                 "id": 5,
