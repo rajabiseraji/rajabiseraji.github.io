@@ -12,6 +12,10 @@
           <div>
             <span class="headline">{{projectItem.title}}</span><br>
             <span class="subheading">{{projectItem.location}}</span>
+            <div class="subheading" v-if="projectItem.course">
+              <strong>Course:</strong>
+              {{' ' + projectItem.course}}
+            </div>
             <div class="grey--text caption">{{projectItem.duration}}</div><br>
           </div>
         </v-card-title>
