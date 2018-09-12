@@ -4,7 +4,7 @@
     <v-layout row wrap class="w-100">
       <v-flex class="img-section" xs12 sm4 justify-center align-center>
         <div>
-          <img :src="projectItem.logo" height="200px" />
+          <img :src="projectItem.logo" height="150px" />
         </div>
       </v-flex>
       <v-flex xs12 sm8>
@@ -18,7 +18,7 @@
         <v-card-text>
           <p>{{projectItem.description}}</p>
         </v-card-text>
-        <v-card-actions>
+        <v-card-actions v-if="projectItem.links">
           <v-btn flat dark class="black" :href="projectItem.link">
             <v-avatar size="20" class="mr-2">
               <img src="/github.svg" alt="g">
