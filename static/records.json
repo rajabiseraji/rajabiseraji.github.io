@@ -795,8 +795,8 @@
                 "title": "Adding networking context switch to XV6 O.S",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Q2 2015",
-                "description": "Research Method & Report Writing Course",
-                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "course": "Computer Acrhitecture",
+                "logo": "/xv6.png",
                 "link": ""
             },
             {
