@@ -701,11 +701,12 @@
             },
             {
                 "id": 7,
-                "title": "Design a Simple Scheduler C0-design with Spartan FPGA and Microblaze Core",
+                "title": "Design a Simple Scheduler Co-design with Spartan FPGA and Microblaze Core",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Q3 2016",
-                "description": "CAD System Design with FPGA",
-                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "course": "Digital Automation Design (FPGA)",
+                "description": "In this project we designed a simple program to work on Microblaze simulated core and also a simple FPGA (Spartan 7 series). The goal of this project was to reach a comparison between simple soft-core programming of FPGAs and co-design.",
+                "logo": "/spartan.jpg",
                 "link": ""
             },
             {
