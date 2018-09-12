@@ -714,8 +714,9 @@
                 "title": "FEC Code Optimization in Wireless Sensor Networks",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Q1 2016",
-                "description": "Research Method & Report Writing Course",
-                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "course": "Research Method & Report Writing Course",
+                "description": "This project involved making a technichal report and a poster of the subject. In this subject I explored different coding options in wireless sensor networks and presented it in the Research Method class.",
+                "logo": "wifi.svg",
                 "link": ""
             }
         ],
