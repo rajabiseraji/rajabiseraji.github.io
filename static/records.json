@@ -748,7 +748,7 @@
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Apr 2017 - Sep 2017",
                 "description": "This project was done in Fandogh Co. and its main purpose was to make a new way for the university staff and students to order food from its diner. it's made using Vue, Nuxt and Node.js, plaese refer to the full project report in the links below.",
-                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "logo": "/aut.jpg",
                 "links": [
                     {
                         "id": 1, 
