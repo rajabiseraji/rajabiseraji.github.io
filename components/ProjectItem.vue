@@ -23,11 +23,11 @@
           <p>{{projectItem.description}}</p>
         </v-card-text>
         <v-card-actions v-if="projectItem.links">
-          <v-btn flat dark class="black" :href="projectItem.link">
-            <v-avatar size="20" class="mr-2">
+          <v-btn v-for="link in projectItem.links" :key="link.id" flat dark class="black" :href="link.url" target="_blank">
+            <v-avatar v-if="link.title.includes('github')" size="20" class="mr-2">
               <img src="/github.svg" alt="g">
             </v-avatar>
-            Github Repository
+            {{link.title}}
           </v-btn>
         </v-card-actions>
       </v-flex>

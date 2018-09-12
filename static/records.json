@@ -723,12 +723,18 @@
         "Projects": [
             {
                 "id": 2,
-                "title": "Snappfood Web",
+                "title": "Snappfood Web Application",
                 "location": "Snappfood Co.",
                 "duration": "Nov 2017 - Currently",
-                "description": "A Progressive Web App (PWA) for the pioneer company in online food ordering, Snappfood.",
-                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
-                "link": ""
+                "description": "We made a fresh Progressive Web Application using the latest Google standards. This application is for online food ordering and is the most famous and used app in this field. We made it using React.js, the other  descriptions are available in the Snappfood job description. Due to the privacy of the project and my NDA, I'm not able to share any code publicly, but if you want to take a look at the project, drop me an email.",
+                "logo": "/zoodfood.png",
+                "links": [
+                    {
+                        "id": 1,
+                        "title": "Project Website",
+                        "url": "https://m.snappfood.ir"
+                    }
+                ]
             },
             {
                 "id": 3,
