@@ -685,7 +685,7 @@
                 "title": "Indoor Mapping and Tracking in Wi-Fi based Networks",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Sep 2016 - Currently",
-                "description": "Using Wi-Fi fingerprinting, RGB-d imaging and acoustics alongside motion sensors to map an indoor location and track the user",
+                "description": "This is my thesis project and I've been working on it for the past year and a half. My main task in this project is to implement and benchmark the current Indoor mapping and Tracking technologies both on dedicated and general purpose hardware. Using the benchmark data I've come up with a new way that combines accoustic mapping and Wi-Fi fingerprinting to acquire a 2D map of an indoor environment and actively track the connected users in it. This is a hot topic in networking and has quite a large demand in the market.",
                 "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
                 "link": ""
             },
