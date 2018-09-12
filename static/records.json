@@ -800,12 +800,22 @@
                 "link": ""
             },
             {
+                "id": 1,
+                "title": "Making a network based limited strategic M.M.O Game in Java",
+                "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
+                "duration": "Q2 2014",
+                "course": "Advanced Programming",
+                "description": "We were tasked to create a strategic real-time game link Stronghold Crusader but with online support. The game had to implement a number of specified MMO systems, we weren't supposed to use any game engine, instead we had to develop our own engine to make the game.",
+                "logo": "/java.png",
+                "link": ""
+            },
+            {
                 "id": 10,
                 "title": "Make a Simple C to Assembly Compiler",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Q1 2014",
-                "description": "Introduction to Programming Course",
-                "logo": "https://www.seeklogo.net/wp-content/uploads/2015/09/nodejs-logo-vector-download.jpg",
+                "course": "Introduction to Programming Course",
+                "logo": "/cpp.png",
                 "link": ""
             }
         ]
