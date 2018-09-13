@@ -22,6 +22,13 @@
         <v-card>
           <v-card-text class="grey lighten-5">
               <blockquote >{{record.description || record.firstJobDesc}}</blockquote>
+              <div class="mt-3" v-if="record.links && record.links.length !== 0">
+                <div class="subheading font-weight-bold">Links</div>
+                <v-divider></v-divider>
+                <div class="mt-2" v-for="link in record.links" :key="link.id">
+                  <a target="_blank" :href="link.linkURL || link.url">{{link.linkText || link.title}}</a>
+                </div>
+              </div>
           </v-card-text>
         </v-card>
       </v-expansion-panel-content>
