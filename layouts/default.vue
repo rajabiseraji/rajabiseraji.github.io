@@ -69,29 +69,34 @@
         </v-layout>
       </v-container>
     </v-footer> -->
+    <MyFooter />
   </v-app>
 </template>
 
 <script>
-  export default {
-    data () {
-      return {
-        bottomNav: 'recent',
-        drawer: false,
-        items: [
-          { icon: 'apps', title: 'Overview', to: '/', image: '/menu.svg' },
-          { icon: 'info', title: 'About me', to: '/about', image: '/information.svg' },
-          { icon: 'school', title: 'Education', to: '/education', image: '/mortarboard.svg' },
-          { icon: 'work', title: 'Experience', to: '/experience', image: '/briefcase.svg' },
-          { icon: 'work', title: 'Projects and Research', to: '/projects', image: '/analytics.svg' },
-          { icon: 'color_lens', title: 'Skills', to: '/skills', image: '/skills.svg' },
-          { icon: 'attach_money', title: 'Honours and Awards', to: '/awards', image: '/cup.svg' },
-          { icon: 'attach_money', title: 'Gallery', to: '/gallery', image: '/attach.svg' },
-          { icon: 'contacts', title: 'Contact', to: '/contact', image: '/contact.svg' }
-        ],
-        miniVariant: false,
-        title: 'Mohammad Rajabi Seraji'
-      }
+import MyFooter from '~/components/MyFooter'
+export default {
+  components: {
+    MyFooter
+  },
+  data () {
+    return {
+      bottomNav: 'recent',
+      drawer: false,
+      items: [
+        { icon: 'apps', title: 'Overview', to: '/', image: '/menu.svg' },
+        { icon: 'info', title: 'About me', to: '/about', image: '/information.svg' },
+        { icon: 'school', title: 'Education', to: '/education', image: '/mortarboard.svg' },
+        { icon: 'work', title: 'Experience', to: '/experience', image: '/briefcase.svg' },
+        { icon: 'work', title: 'Projects and Research', to: '/projects', image: '/analytics.svg' },
+        { icon: 'color_lens', title: 'Skills', to: '/skills', image: '/skills.svg' },
+        { icon: 'attach_money', title: 'Honours and Awards', to: '/awards', image: '/cup.svg' },
+        { icon: 'attach_money', title: 'Gallery', to: '/gallery', image: '/attach.svg' },
+        { icon: 'contacts', title: 'Contact', to: '/contact', image: '/contact.svg' }
+      ],
+      miniVariant: false,
+      title: 'Mohammad Rajabi Seraji'
     }
   }
+}
 </script>

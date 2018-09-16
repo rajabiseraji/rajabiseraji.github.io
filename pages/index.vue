@@ -23,12 +23,17 @@
         </v-flex>
       </v-layout>
     </v-flex>
+    <!-- <MyFooter></MyFooter> -->
   </v-layout>
 </template>
 
 <script>
 import records from '~/static/records.json'
+import MyFooter from '~/components/MyFooter'
 export default {
+  components: {
+    MyFooter
+  },
   data () {
     return {
       name: records.Name,
