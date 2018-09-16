@@ -23,7 +23,7 @@
         </v-flex>
       </v-layout>
     </v-flex>
-    <!-- <MyFooter></MyFooter> -->
+    <MyFooter></MyFooter>
   </v-layout>
 </template>
 

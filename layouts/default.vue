@@ -69,7 +69,7 @@
         </v-layout>
       </v-container>
     </v-footer> -->
-    <MyFooter />
+    <!-- <MyFooter /> -->
   </v-app>
 </template>
 
