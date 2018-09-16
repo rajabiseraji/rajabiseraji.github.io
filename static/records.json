@@ -1348,25 +1348,36 @@
     "Story": [
         {
             "id": 1,
-            "text": "As a teenager, I loved reading and writing stories, studying mathematics and playing some sports. So I can summarize my teenage years in these activities and of course, being a potterhead!"
+            "text": "When I was, a young boy, my father took me into the city ... to see a marching band"
         },
         {
             "id": 2,
-            "text": "My passion for math, electronics and basic things I knew about programming led me to a Computer Engineering BSc. Through these four years, I tried to extend my experiences in various zones. I gained programming skills, teaching and some research experience while studying as an undergrad student."
+            "text": "He said: \"Son, when you grow up, would you be the savior of the broken? the beaten and the damned? \""
         },
         {
             "id": 3,
-            "text": " I was chosen as a member of Student Scientific Chapter of our faculty, in which I was titled as the Head of Financial Affairs. During this year, I learned a lot about the procedure of holding different events, its requirements, managing the budget of events and the most important one, teamwork."
+            "text": "He said: \"Will you, defeat them? your demons and all those none believers, the plans that they have made?\""
         },
         {
             "id": 4,
-            "text": "In my third year of studies, I came across projects about computer graphics and that was the time I knew in what field I'm gonna continue my studies. I had finally found a way to game design and development which I've always loved, but couldn't totally pursue in my country. I'm currently studying about game design and game user research and definitely enjoying it ^_^"
+            "text": "Well these lines are from one of my favourite bands, \"My Chemical Romnace\", now let's tell you more a bit more about me! ^_^"
         },
         {
             "id": 5,
-            "type": "ps",
-            "text": "P.S: In case of being locked up behind problems just cast alohomora!"
+            "text": "I was born on May the 13th 1995 in Tehran, Iran. (In case you don't actually know where Iran is, it's a quite big country in the middle east, right between Iraq and Afghanistan :D). We were living in this city for my whole life (or at least till now), a city of 15 million people. I went to primary and secondary school in a usual public school named \"Komeil\". I can remember I was always a nerd during my childhood (and some also say during my early adulthood years, too :D); I was graduated from primary and secondary school with a GPA of 20/20(A+)."
+        },
+        {
+            "id": 6,
+            "text": "For some reason I started my highschool in the oldest highschool of this city, Alborz Highschool (Formerly known as The Americans College) in the city centre. This school turned my life quite upside down, I pursued math and physics, seriously, for the first time inmy life; attended Math, Physics, Computer and Astronoumy Olympiad and was able to get to the final round of National Math and Computer Olympiads. As a highschool student I just loved Geometry, Differential Equations and Calculus! I'm sure you can ask from any of my teachers and they'll vouch for me quite passionately (oh I used to drive'em crazyyy with my questions :D I couldn't help it much). My main goal and interest during this era was becoming a scientist, someone who can contribute to the existing mathematical knowledge and be outstanding, while doing it."
+        },
+        {
+            "id": 7,
+            "text": "After the Konkur (it's the national universities' entrance exam, something like S.A.T) I was ranked 1000 between about 300,000 test takers. My love for the mathematics, coupled with a fascination for tech. lead me to where I am right now, studying Computer Engineering in Amirkabir University of Technology - The second best university of my country. Here I became fascinated with student activities that are there for the students and are also run by them, I became more and more drawn to the Student Scientific Chapter of our faculty by our seniors and eventually was elected as a member of it, for two consecutive terms. I found working as a member of our scientific chapter really amazing, it's comprised of a variety of tasks that I could never even dream of doing as a student, tasks like holding international contests, fairs and talks, communicating with the wide variety of insutrial and academic people."
+        },
+            "id": 7,
+            "text": "After the Konkur (it's the national universities' entrance exam, something like S.A.T) I was ranked 1000 between about 300,000 test takers. My love for the mathematics, coupled with a fascination for tech. lead me to where I am right now, studying Computer Engineering in Amirkabir University of Technology - The second best university of my country. Here I became fascinated with student activities that are there for the students and are also run by them, I became more and more drawn to the Student Scientific Chapter of our faculty by our seniors and eventually was elected as a member of it, for two consecutive terms. I found working as a member of our scientific chapter really amazing, it's comprised of a variety of tasks that I could never even dream of doing as a student, tasks like holding international contests, fairs and talks, communicating with the wide variety of insutrial and academic people. "
         }
+       
     ],
     "OutstandingCourses": [
         {
