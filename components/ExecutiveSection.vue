@@ -21,7 +21,12 @@
         </div>
         <v-card>
           <v-card-text class="grey lighten-5">
+              <div class="heading font-weight-bold" v-if="record.firstJob">{{record.firstJob}}</div>
               <blockquote >{{record.description || record.firstJobDesc}}</blockquote>
+              <div class="secondJob mt-1" v-if="record.secondJob">
+                <div class="heading font-weight-bold" v-if="record.secondJob">{{record.secondJob}}</div>
+                <blockquote >{{record.secondJobDesc}}</blockquote>
+              </div>
               <div class="mt-3" v-if="record.links && record.links.length !== 0">
                 <div class="subheading font-weight-bold">Links</div>
                 <v-divider></v-divider>
