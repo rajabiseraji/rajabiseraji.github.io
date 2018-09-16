@@ -28,9 +28,8 @@
           </p>
         </v-card-text>
 
-        <v-card-actions class="my-card-actions">
-          <v-btn flat>Website</v-btn>
-          <v-btn flat color="indigo">Gallery</v-btn>
+        <v-card-actions v-if="educationRecord.url" class="my-card-actions">
+          <v-btn flat :href="educationRecord.url" target="_blank">Website</v-btn>
           <v-spacer></v-spacer>
         </v-card-actions>
 
