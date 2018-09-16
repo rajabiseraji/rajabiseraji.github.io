@@ -54,31 +54,11 @@
         <nuxt />
       </v-container>
     </v-content>
-    <!-- <v-footer :fixed="true" height="48" app>
-      <v-container fill-height>
-        <v-layout row align-center fill-height>
-          <v-flex xs12 sm10>
-            <span class="caption">Coded with &#9825; by rajabiseraji - Using Nuxt and Vuetify</span>
-          </v-flex>
-          <v-flex>
-          <v-spacer></v-spacer>
-          </v-flex>
-          <v-flex class="text-xs-right" xs12 sm2>
-            <span class="caption">&copy; 2018</span>
-          </v-flex>
-        </v-layout>
-      </v-container>
-    </v-footer> -->
-    <!-- <MyFooter /> -->
   </v-app>
 </template>
 
 <script>
-import MyFooter from '~/components/MyFooter'
 export default {
-  components: {
-    MyFooter
-  },
   data () {
     return {
       bottomNav: 'recent',
@@ -92,7 +72,8 @@ export default {
         { icon: 'color_lens', title: 'Skills', to: '/skills', image: '/skills.svg' },
         { icon: 'attach_money', title: 'Honours and Awards', to: '/awards', image: '/cup.svg' },
         { icon: 'attach_money', title: 'Gallery', to: '/gallery', image: '/attach.svg' },
-        { icon: 'contacts', title: 'Contact', to: '/contact', image: '/contact.svg' }
+        { icon: 'contacts', title: 'Contact', to: '/contact', image: '/contact.svg' },
+        { icon: 'contacts', title: 'About This Site', to: '/about', image: '/question.svg' }
       ],
       miniVariant: false,
       title: 'Mohammad Rajabi Seraji'
