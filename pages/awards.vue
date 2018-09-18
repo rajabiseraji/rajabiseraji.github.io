@@ -24,10 +24,10 @@
                     </div>
                     </v-card-title>
 
-                    <v-card-actions>
+                    <!-- <v-card-actions>
                         <v-btn flat color="orange">Link</v-btn>
                         <v-btn flat color="orange">Gallery</v-btn>
-                    </v-card-actions>
+                    </v-card-actions> -->
                 </v-card>
             </v-flex>
         </v-layout>
