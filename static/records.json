@@ -1375,7 +1375,7 @@
         },
         {
             "id": 7,
-            "photo": "/ssc.png",
+            "photo": "/collaboration.svg",
             "text": "After the Konkur (it's the national universities' entrance exam, something like S.A.T) I was ranked 1000 between about 300,000 test takers. My love for the mathematics, coupled with a fascination for tech. lead me to where I am right now, studying Computer Engineering in Amirkabir University of Technology - The second best university of my country. Here I became fascinated with student activities that are there for the students and are also run by them, I became more and more drawn to the Student Scientific Chapter of our faculty by our seniors and eventually was elected as a member of it, for two consecutive terms. I found working as a member of our scientific chapter really amazing, it's comprised of a variety of tasks that I could never even dream of doing as a student, tasks like holding international contests, fairs and talks, communicating with the wide variety of insutrial and academic people."
         },
         {
@@ -1390,6 +1390,7 @@
         },
         {
             "id": 10,
+            "photo": "/computer.svg",
             "text": "Unfortunatelly due to the financial problems in our country and some unfortunate university events, the stratup experience didn't live long enough to reach its final goal. I was off to Snappfood, the biggest online food ordering company in my country. I started working there, developing their new front-end using latest technologies in React. I've been working there for almost a year right now, a place with wonderful people and a functional working process. I learnt the basics of team-work and working for a big corporation in this company. During the last months, though, I was quite obsessively working on my thesis project 24/7 and had to depart the company to pursue my academic life."
         },
         {
@@ -1414,7 +1415,7 @@
         },
         {
             "id": 14,
-            "photo": "/quesionWithHat.svg",
+            "photo": "/questionWithHat.svg",
             "text": "I hope you've found what you came here for :D whatever it might have been! I hope your questions about me were answered in a way, but I also hope you have now even more questions, questions that make you contact me and ask me anything you want :) don't be shy, my contact is available in the Contact section. Be sure to check it out."
         }
        
