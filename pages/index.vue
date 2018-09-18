@@ -11,7 +11,7 @@
         </v-avatar>
       </div>
     </v-flex>
-    <v-flex xs12 sm6 md8>
+    <v-flex xs12 sm6 md8 class="pb-5">
       <v-layout column fill-height justify-center>
         <v-flex xs12>
           <div class="display-3 name-title">
