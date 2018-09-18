@@ -11,7 +11,7 @@
               <v-flex d-flex justify-center align-center xs12 sm3 v-if="index > 2 && storyPart.photo" class="story-image my-2">
                 <img height="150px" :src="storyPart.photo" alt="image">
               </v-flex>
-              <v-flex xs12 sm9 v-if="index > 2" d-flex justify-center align-center class="story-text">{{storyPart.text}}</v-flex>
+              <v-flex xs12 sm9 v-if="index > 2" d-flex justify-center align-center class="story-text font-weight-regular">{{storyPart.text}}</v-flex>
               <v-flex xs12 v-else class="font-weight-thin verses">{{storyPart.text}}</v-flex>
             </v-layout>
             <div class="mb-5" v-if="index === 2"></div>
@@ -44,7 +44,7 @@ export default {
 }
 .verses {
   text-align: center;
-  line-height: 0.7;
+  line-height: 1;
   font-size: 1.5rem;
 }
 .story-text {
