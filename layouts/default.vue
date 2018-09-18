@@ -71,7 +71,7 @@ export default {
         { icon: 'work', title: 'Projects and Research', to: '/projects', image: '/analytics.svg' },
         { icon: 'color_lens', title: 'Skills', to: '/skills', image: '/skills.svg' },
         { icon: 'attach_money', title: 'Honours and Awards', to: '/awards', image: '/cup.svg' },
-        { icon: 'attach_money', title: 'Gallery', to: '/gallery', image: '/attach.svg' },
+        // { icon: 'attach_money', title: 'Gallery', to: '/gallery', image: '/attach.svg' },
         { icon: 'contacts', title: 'Contact', to: '/contact', image: '/contact.svg' },
         { icon: 'contacts', title: 'About This Site', to: '/about', image: '/question.svg' }
       ],
