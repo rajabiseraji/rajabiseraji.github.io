@@ -785,7 +785,7 @@
             },
             {
                 "id": 4,
-                "title": "Amirkabir University of Technology Support and Touble Ticketing System",
+                "title": "Amirkabir University of Technology Support and Trouble Ticketing System",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Dec 2016 - Jun 2017",
                 "description": "This project was in order to implement a system that addresses the trouble ticketing in our university. We built this using Nuxt and Vue, full project report and description is available in the links below.",
@@ -793,15 +793,20 @@
                 "links": [
                     {
                         "id": 1,
+                        "title": "Project Website",
+                        "url": "https://support.aut.ac.ir"
+                    },
+                    {
+                        "id": 1,
                         "title": "Project Report - TOBE Filled",
-                        "url": "",
+                        "url": "https://www.dropbox.com/s/uj3ty8jd3cc74k3/AUT-Support.pdf?dl=0",
                         "logo": "/dropbox.svg"
                     }
                 ]
             },
             {
                 "id": 5,
-                "title": "Amirkabir University of Technology Fund Management Syste,",
+                "title": "Amirkabir University of Technology Fund Management System",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Jun 2016 - Sep 2016",
                 "description": "A system for managing the international funds in our university, using Laravel and PHP. Full report is available in the links below.",
