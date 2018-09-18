@@ -11,8 +11,9 @@
             "prof": "Mohammad Rajabi Seraji",
             "duration": "16 Hours",
             "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's Summer of 2018 program. As I worked with react for quite some time, I was able to gather some source materials in order to teach a course about fundamentals of react. In this course I mainly focused on basic characteristics of the framework and introduced concepts such as Web Components, component relationships, event handling and syntax of react and also pointed to some basic Redux matters, as well. In every other session, the students were tasked to complete a code snippet like the one they saw in the previous session and could participate in the learning process by doing this activiy. In the end all of them were tasked to create a simple shopping app using the things they'd just learnt. The evaluation for this course is yet to be ready.",
-            "links": [{
+            "description": "The course was offered as a part of Student Scientific Chapter's Summer of 2018 program. As I worked with react for quite some time, I was able to gather some source materials in order to teach a course about fundamentals of react. In this course I mainly focused on basic characteristics of the framework and introduced concepts such as Web Components, component relationships, event handling and syntax of react and also pointed to some basic Redux matters, as well. In every other session, the students were tasked to complete a code snippet like the one they saw in the previous session and could participate in the learning process by doing this activity. In the end all of them were tasked to create a simple shopping app using the things they'd just learnt. The evaluation for this course is yet to be ready.",
+            "links": [
+                {
                     "id": 1,
                     "title": "Course Syllabus",
                     "url": ""
@@ -71,12 +72,12 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Internet Engineering",
             "prof": "Dr. Bahador Bakhshi - Assistant Professor",
-            "description": "I had three main tasks during this Teaching Assistantship period. First, I was in charge of coming up with a proper mid-term project for the students. Grading a fourth of all projects and homeworks was also one of my responsibilities. I, also created the student's second homework assignment.",
+            "description": "I had three main tasks during this Teaching Assistantship period. First, I was in charge of coming up with a proper mid-term project for the students. Grading a fourth of all projects and home works was also one of my responsibilities. I, also created the student's second homework assignment.",
             "end": "2018",
             "links": [
                 {
                     "id": 1,
-                    "title": "Homeworks and Projects",
+                    "title": "Homework and Projects",
                     "url": "TO BE UPDATED"
                 },
                 {
@@ -93,11 +94,11 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Internet Engineering",
             "prof": "Dr. Bahador Bakhshi - Assistant Professor",
-            "description": "I was the head teaching assistant of the course. My responsibilities included teaching extra classes on practical subjects, making weekly challenges for the students, making the homework questions and also creating the mid-term and final projects. I was also responsible for managing the grading TAs, assigning homewroks to them and also collect and report their results to the professor.",
-            "projectText": "The repository for the homeworks and projects are available in the links below.",
+            "description": "I was the head teaching assistant of the course. My responsibilities included teaching extra classes on practical subjects, making weekly challenges for the students, making the homework questions and also creating the mid-term and final projects. I was also responsible for managing the grading TAs, assigning homework to them and also collect and report their results to the professor.",
+            "projectText": "The repository for the homework and projects are available in the links below.",
             "links": {
-                "id": 1, 
-                "title": "Homeworks",
+                "id": 1,
+                "title": "Homework Repo",
                 "url": "https://github.com/AUT-CEIT/IES96-97"
             },
             "end": "2018"
@@ -155,7 +156,7 @@
             "prof": "Mohammad Rajabi Seraji",
             "duration": "24 Hours",
             "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's Spring program of 2017. In this course I put the main focus on team work and preparing to work as a front-end development team. My students were introduced to working with Git, individually and also as a team. Going forward I taught them about basics of HTML and CSS in a crash course style; this crash course was accompanied by a comprehensive excercise to ensure they're well used to the core concepts. The majority of the sessions, though, were dedicated to the JavaScript Concepts, classic JS vs new one, ES6 and ES7, build and deploy automation tools and bundlers. This course was a dense package of all the basic tools the students needed to go forward in web development area. I was rate \"Excelent\", again by my students in the final evaluation.",
+            "description": "The course was offered as a part of Student Scientific Chapter's Spring program of 2017. In this course I put the main focus on team work and preparing to work as a front-end development team. My students were introduced to working with Git, individually and also as a team. Going forward I taught them about basics of HTML and CSS in a crash course style; this crash course was accompanied by a comprehensive exercise to ensure they're well used to the core concepts. The majority of the sessions, though, were dedicated to the JavaScript Concepts, classic JS vs new one, ES6 and ES7, build and deploy automation tools and bundlers. This course was a dense package of all the basic tools the students needed to go forward in web development area. I was rate \"Excellent\", again by my students in the final evaluation.",
             "links": [
                 {
                     "id": 1,
@@ -179,7 +180,7 @@
             "prof": "Mohammad Rajabi Seraji",
             "duration": "24 Hours",
             "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's Spring program of 2017. I carefully constructed a series of slides based on the documentations of the Vue and also made 4 sample code snippets for each session. During the course students used to learn about Singltons in web programming and were also introduced to the world of web components. The first session was an introduction into the basics of Vue and reactive thinking, along with a sample Todo app in vue. We were exploring componentization of a web page and website in second and third sessions. Finally the students were introduced to Stores in vue, which is implemented in Vuex and became aquainted with the concepts of Actions, Mutations and States. Our course work was put to test in final project, in which the students were tasked to create an interactive homepage for themselves using the introduced concepts. The students rated me \"Excelent\" in the final evaluations. ",
+            "description": "The course was offered as a part of Student Scientific Chapter's Spring program of 2017. I carefully constructed a series of slides based on the documentations of the Vue and also made 4 sample code snippets for each session. During the course students used to learn about Singletons in web programming and were also introduced to the world of web components. The first session was an introduction into the basics of Vue and reactive thinking, along with a sample To-do app in Vue. We were exploring componentization of a web page and website in second and third sessions. Finally the students were introduced to Stores in vue, which is implemented in Vuex and became acquainted with the concepts of Actions, Mutations and States. Our course work was put to test in final project, in which the students were tasked to create an interactive homepage for themselves using the introduced concepts. The students rated me \"Excellent\" in the final evaluations. ",
             "links": [
                 {
                     "id": 1,
@@ -203,7 +204,7 @@
             "prof": "Mohammad Rajabi Seraji",
             "duration": "25 Hours",
             "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's Fall program. The program was mainly targeted freshmen and other new students of computer enigneering/science and was offered in five session (25 hours in total). I was the main lecturer of the course, accompanied by an assistant to help the students keep up with the workshop sessions. During the course, students learned about server-side scripting with PHP; their basic knowledge of PHP was then used as a way to introduce them to Laravel, an advanced PHP framework for web artisans. My task was to gather enough educational material in form of slides, workshops and projects to keep the atmosphere live and engaging. Student evalutaions from the course was gathered by the S.S.C and it was rated \"Mostly Positive\".The syllabus of the course alongside more information about the sessions are available in the course links.",
+            "description": "The course was offered as a part of Student Scientific Chapter's Fall program. The program was mainly targeted freshmen and other new students of computer engineering/science and was offered in five session (25 hours in total). I was the main lecturer of the course, accompanied by an assistant to help the students keep up with the workshop sessions. During the course, students learned about server-side scripting with PHP; their basic knowledge of PHP was then used as a way to introduce them to Laravel, an advanced PHP framework for web artisans. My task was to gather enough educational material in form of slides, workshops and projects to keep the atmosphere live and engaging. Student evaluations from the course was gathered by the S.S.C and it was rated \"Mostly Positive\".The syllabus of the course alongside more information about the sessions are available in the course links.",
             "links": [
                 {
                     "id": 1,
@@ -228,21 +229,22 @@
             "titleDescription": "Lecturer",
             "timespan": "Aug 2016 - Oct 2016 ",
             "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
-            "course": "Basics of Web Developement (How to Become a Web Developer)",
+            "course": "Basics of Web Development (How to Become a Web Developer)",
             "prof": "Mohammad Rajabi Seraji",
             "duration": "25 Hours",
             "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's Summer program. This program was quite identical to the one that I presented in the spring. Although, there was a little change in my presentation method. In the courses, prior to this one, I used slide presentations alongside practical coding. During this course I focused more on the practical side in order to help the students leaning into the conecepts. Course work is available in the Github repo. You can also find the course syllabus in the links below.",
-            "links": [{
-                "id": 1,
-                "title": "Course Syllabus",
-                "url": ""
-            },
-            {
-                "id": 2, 
-                "title": "Course Repository",
-                "url": "https://github.com/rajabiseraji/webDesign"
-            }
+            "description": "The course was offered as a part of Student Scientific Chapter's Summer program. This program was quite identical to the one that I presented in the spring. Although, there was a little change in my presentation method. In the courses, prior to this one, I used slide presentations alongside practical coding. During this course I focused more on the practical side in order to help the students leaning into the concepts. Course work is available in the GitHub repo. You can also find the course syllabus in the links below.",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                },
+                {
+                    "id": 2,
+                    "title": "Course Repository",
+                    "url": "https://github.com/rajabiseraji/webDesign"
+                }
             ],
             "end": "-"
         },
@@ -251,11 +253,11 @@
             "titleDescription": "Lecturer",
             "timespan": "Apr 2016 - May 2016 ",
             "location": "Student Scientific Chapter of Computer Engineering and IT Faculty of Amirkabir University of Technology",
-            "course": "Basics of Web Developement",
+            "course": "Basics of Web Development",
             "prof": "Mohammad Rajabi Seraji",
             "duration": "25 Hours",
             "coLecturer": "",
-            "description": "The course was offered as a part of Student Scientific Chapter's Spring program. The program was mainly targeted freshmen and other new students of computer enigneering/science and was offered in five session (25 hours in total). In this course, I concentrated on the basic aspects of web development and its basic technologies, namely HTML 5, CSS and basic JavaScript. This course assumes that the learner has close to no prior experience in web design and focuses on introducing the students to the world of web development. I dedicated the first two sessions of the course to a basic introduction and history of web, as well as baby steps towards programming in that world. The other sessions were dedicated to workshops in which the students coded in real-time and compared the results to each other. more information is available in the links below.",
+            "description": "The course was offered as a part of Student Scientific Chapter's Spring program. The program was mainly targeted freshmen and other new students of computer engineering/science and was offered in five session (25 hours in total). In this course, I concentrated on the basic aspects of web development and its basic technologies, namely HTML 5, CSS and basic JavaScript. This course assumes that the learner has close to no prior experience in web design and focuses on introducing the students to the world of web development. I dedicated the first two sessions of the course to a basic introduction and history of web, as well as baby steps towards programming in that world. The other sessions were dedicated to workshops in which the students coded in real-time and compared the results to each other. more information is available in the links below.",
             "links": [
                 {
                     "id": 1,
@@ -280,7 +282,7 @@
             "description": "",
             "end": "2016"
         },
-		{
+        {
             "title": "TA",
             "titleDescription": "Teaching Assistant",
             "timespan": "Sep 2015 – Jan 2016",
@@ -290,7 +292,7 @@
             "description": "",
             "end": "2016"
         },
-		{
+        {
             "title": "TA",
             "titleDescription": "Teaching Assistant",
             "timespan": "Sep 2015 – Jan 2016",
@@ -300,7 +302,7 @@
             "description": "",
             "end": "2016"
         },
-		{
+        {
             "title": "TA",
             "titleDescription": "Teaching Assistant",
             "timespan": "Sep 2015 – Jan 2016",
@@ -337,99 +339,99 @@
     ],
     "Working": [
         {
-          "title": "Snappfood co.",
-          "titleDescription": "Senior Front-end Developer",
-          "timespan": "Sep 2017 - Now",
-          "location": "Snappfood Co.",
-          "firstJob": "Senior Front-end Developer",
-          "firstJobDesc": "My responsinilities include choosing a modern JS framework for the main web-app of Snappfood, the first online food ordering system in Iran. I researched for a month and benchmarked Vue, React, Preact and Angular in different situations; as a result, my team and I concluded that we'd go with React, a reliable framework with rich community and support. I was in charge of managing my team, creating tasks for the team members, choosing a comprehensive project structure and creating a fine-tuned boileplate that is reusable in the company's other products. We developed a fully fleshed Progressive Web App (PWA) complying with the latest Google standards from ground up. This web app is now ready for mobile devices and is avilable at the link below. We worked with SCRUM method and I was my teams sprint manager. Snappfood was a great environment for me to flourish and develop a fast and lite web-app.",
-          "end": "2018",
-          "logo": "/zoodfood.png",
-          "links": [
-              {
-                  "id": 1, 
-                  "title": "Snappfood Mobile Webapp",
-                  "url": "https://m.snappfood.ir"
-              },
-              {
-                  "id": 2, 
-                  "title": "Project Repository",
-                  "url": ""
-              }
-          ]
+            "title": "Snappfood co.",
+            "titleDescription": "Senior Front-end Developer",
+            "timespan": "Sep 2017 - Now",
+            "location": "Snappfood Co.",
+            "firstJob": "Senior Front-end Developer",
+            "firstJobDesc": "My responsibilities include choosing a modern JS framework for the main web-app of Snappfood, the first online food ordering system in Iran. I researched for a month and benchmarked Vue, React, Preact and Angular in different situations; as a result, my team and I concluded that we'd go with React, a reliable framework with rich community and support. I was in charge of managing my team, creating tasks for the team members, choosing a comprehensive project structure and creating a fine-tuned boilerplate that is reusable in the company's other products. We developed a fully fleshed Progressive Web App (PWA) complying with the latest Google standards from ground up. This web app is now ready for mobile devices and is available at the link below. We worked with SCRUM method and I was my teams sprint manager. Snappfood was a great environment for me to flourish and develop a fast and lite web-app.",
+            "end": "2018",
+            "logo": "/zoodfood.png",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Snappfood Mobile Web App",
+                    "url": "https://m.snappfood.ir"
+                },
+                {
+                    "id": 2,
+                    "title": "Project Repository",
+                    "url": ""
+                }
+            ]
         },
-		{
-          "title": "Fandogh co.",
-          "titleDescription": "Senior Web Developer",
-          "timespan": "Apr 2017 - Sep 2017",
-          "location": "Fandogh Co.",
-          "firstJob": "Senior Web Developer",
-          "firstJobDesc": "I was in charge of a team of five junior developers in order to develop the latest corporation products. The two main product we worked on was \"Amirkabir University of Technology's Diner Web App\" and \"Chavosh: Amirkabir University of Technology's Social Media PWA\". We were using the latest Front-end technologies of Vue and Nuxt and also contributing to the Nuxt community on a regular basis. My job was to maintain team stability, represent goals in terms of smaller tasks and assigning them to each team members and also managing weekly SCRUM sessions. For the back-end tech. we used Node.js's framework, Hapi that was changed in order to meet our project specifications. it's also notable to mention that by GitHub statistics of 2017, our organization ranks in the top 5 of our country. The diner project was halted due to some problems from the university contractors but \"Chavosh\" is live and kicking :D you can checkout for your self in the links below.  Be sure to also check it on mobile, it's a real treat for the sore eyes ;)",
-          "links": [
-              {
-                  "id": 1,
-                  "title": "Chavosh Website",
-                  "url": "https://chavosh.aut.ac.ir/"
-              },
-              {
-                  "id": 2,
-                  "title": "Company's Github Organization",
-                  "url": "https://github.com/fandogh"
-              }
-          ],
-          "end": "2017",
-          "logo": "/fandogh.png"
+        {
+            "title": "Fandogh co.",
+            "titleDescription": "Senior Web Developer",
+            "timespan": "Apr 2017 - Sep 2017",
+            "location": "Fandogh Co.",
+            "firstJob": "Senior Web Developer",
+            "firstJobDesc": "I was in charge of a team of five junior developers in order to develop the latest corporation products. The two main product we worked on was \"Amirkabir University of Technology's Diner Web App\" and \"Chavosh: Amirkabir University of Technology's Social Media PWA\". We were using the latest Front-end technologies of Vue and Nuxt and also contributing to the Nuxt community on a regular basis. My job was to maintain team stability, represent goals in terms of smaller tasks and assigning them to each team members and also managing weekly SCRUM sessions. For the back-end tech. we used Node.js's framework, Hapi that was changed in order to meet our project specifications. it's also notable to mention that by GitHub statistics of 2017, our organization ranks in the top 5 of our country. The diner project was halted due to some problems from the university contractors but \"Chavosh\" is alive and kicking :D you can check out for yourself in the links below.  Be sure to also check it on mobile, it's a real treat for the sore eyes ;)",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Chavosh Website",
+                    "url": "https://chavosh.aut.ac.ir/"
+                },
+                {
+                    "id": 2,
+                    "title": "Company's Github Organization",
+                    "url": "https://github.com/fandogh"
+                }
+            ],
+            "end": "2017",
+            "logo": "/fandogh.png"
         },
-		{
-          "title": "AUT",
-          "titleDescription": "Senior Web Developer",
-          "timespan": "Sep 2016 - Mar 2017",
-          "location": "Office of Information, IT and Communications of Department of Education of Amirkabir University of Technology",
-          "firstJob": "Senior Web Developer",
-          "firstJobDesc": "I worked alongside a team of talented web developers on the Amirkabir University Support System (Trouble Ticketing) which is currently available at https://support.aut.ac.ir. We worked for the office of Information and Technology of the university and under the supervision of Dr. Mehdi Dehghan. The full description of the project is available in the projects section.",
-          "links": [
-              {
-                  "id": 1, 
-                  "title": "Amirkabir Support Website",
-                  "url": "https://support.aut.ac.ir"
-              }
-          ],
-          "end": "2016",
-          "logo": "/informatics.png"
+        {
+            "title": "AUT",
+            "titleDescription": "Senior Web Developer",
+            "timespan": "Sep 2016 - Mar 2017",
+            "location": "Office of Information, IT and Communications of Department of Education of Amirkabir University of Technology",
+            "firstJob": "Senior Web Developer",
+            "firstJobDesc": "I worked alongside a team of talented web developers on the Amirkabir University Support System (Trouble Ticketing) which is currently available at https://support.aut.ac.ir. We worked for the office of Information and Technology of the university and under the supervision of Dr. Mehdi Dehghan. The full description of the project is available in the projects section.",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Amirkabir Support Website",
+                    "url": "https://support.aut.ac.ir"
+                }
+            ],
+            "end": "2016",
+            "logo": "/informatics.png"
         },
-		{
-          "title": "AUT",
-          "titleDescription": "Project Manager and Senior Web Developer",
-          "timespan": "Apr 2016 - Dec 2016",
-          "location": "Department of International Affairs of Amirkabir University of Technology",
-          "firstJob": "Full-stack Web Developer",
-          "firstJobDesc": "I was working as the project manager to bring a new \"Scholarship System Search Engine\" to the university. I was responsible for creating the basic structure of the project, including our technology stack, the method of team-work and also the deadlines. I also worked as a front and back-end developer for this project. We used PHP's framework, Laravel and its templating engine in order to develop our backend. We also used JQuery and Bootstrap as the main Tech behind our front-end. The project started with great pace and was released on time. Right now, though, the website is down due to the universitiy's lack of maintenance and support. We also used Docker as the main means of deployment. You can checkout the project repository in the link below.",
-          "end": "2016",
-          "links": [
-              {
-                  "id": 1, 
-                  "title": "Project Repo, To be filled",
-                  "url": "https://github.com/AUT-International-Office/autrevised"
-              }
-          ],
-          "logo": "/aut-eng.png"
+        {
+            "title": "AUT",
+            "titleDescription": "Project Manager and Senior Web Developer",
+            "timespan": "Apr 2016 - Dec 2016",
+            "location": "Department of International Affairs of Amirkabir University of Technology",
+            "firstJob": "Full-stack Web Developer",
+            "firstJobDesc": "I was working as the project manager to bring a new \"Scholarship System Search Engine\" to the university. I was responsible for creating the basic structure of the project, including our technology stack, the method of team-work and also the deadlines. I also worked as a front and back-end developer for this project. We used PHP's framework, Laravel and its template engine in order to develop our backend. We also used JQuery and Bootstrap as the main Tech behind our front-end. The project started with great pace and was released on time. Right now, though, the website is down due to the university’s lack of maintenance and support. We also used Docker as the main means of deployment. You can check out the project repository in the link below.",
+            "end": "2016",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Project Repo, To be filled",
+                    "url": "https://github.com/AUT-International-Office/autrevised"
+                }
+            ],
+            "logo": "/aut-eng.png"
         },
-		{
-          "title": "AUT",
-          "titleDescription": "iOS and Android Programming Intern",
-          "timespan": "Jun 2016 - Sep 2016",
-          "location": "Enterprise Information Technology Arang",
-          "firstJob": "",
-          "firstJobDesc": "Arang IT is among the top corporations in Learning Management Systems and I learned programming with for iOS platform using Objective-C and also leanred the process of Android programming with Java in Android Studio. During this internship, I participated in making of a Learning Management System (LMS) and at the end also learned to code in basic PHP. This was done as a summer internship.",
-          "end": "2016",
-          "links": [
-              {
-                  "id": 1, 
-                  "title": "Arang IT Website",
-                  "url": "http://www.arangit.com/"
-              }
-          ],
-          "logo": "/arang.png"
+        {
+            "title": "AUT",
+            "titleDescription": "iOS and Android Programming Intern",
+            "timespan": "Jun 2016 - Sep 2016",
+            "location": "Enterprise Information Technology Arang",
+            "firstJob": "",
+            "firstJobDesc": "Arang IT is among the top corporations in Learning Management Systems and I learned programming with for iOS platform using Objective-C and also learned the process of Android programming with Java in Android Studio. During this internship, I participated in making of a Learning Management System (LMS) and at the end also learned to code in basic PHP. This was done as a summer internship.",
+            "end": "2016",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Arang IT Website",
+                    "url": "http://www.arangit.com/"
+                }
+            ],
+            "logo": "/arang.png"
         }
     ],
     "Executive": [
@@ -439,7 +441,7 @@
             "timespan": "Dec 2015 - Dec 2016",
             "location": "Student Scientific Chapter (SSC) of Computer Engineering and IT Faculty of Amirkabir University of Technology",
             "firstJob": "",
-            "firstJobDesc": "Student Scientific Chapter of our university is a place built by the students, for the students, but unlike Student Council (also known as Student Government), its goal is to create a fun and engaging environment for the students to engage in academic and scientific events. Our responsibilites included holding Talks, Panels, Innovation Fairs, Job Fairs, Scietific Contests, Educational Workshops and etc. The members of this organization were chosen by the direct vote of the faculty students each year. This term was my second round of activity as a member of SSC and my responsibility was to establish a meaningful relationship between SSC and IT comrporations that were interested in investing the events or funding scientific fairs. During my time as a member, I participated in holding of many events such as 16th International AUT ACM ICPC, 8th National Linux Festival and etc. You can see a long list of these events and my roles in each of them in the executive experience section.",
+            "firstJobDesc": "Student Scientific Chapter of our university is a place built by the students, for the students, but unlike Student Council (also known as Student Government), its goal is to create a fun and engaging environment for the students to engage in academic and scientific events. Our responsibilities included holding Talks, Panels, Innovation Fairs, Job Fairs, Scientific Contests, Educational Workshops and etc. The members of this organization were chosen by the direct vote of the faculty students each year. This term was my second round of activity as a member of SSC and my responsibility was to establish a meaningful relationship between SSC and IT corporations that were interested in investing the events or funding scientific fairs. During my time as a member, I participated in holding of many events such as 16th International AUT ACM ICPC, 8th National Linux Festival and etc. You can see a long list of these events and my roles in each of them in the executive experience section.",
             "end": "2016",
             "links": [
                 {
@@ -465,7 +467,7 @@
             "timespan": "Dec 2014 - Dec 2015",
             "location": "Student Scientific Chapter (SSC) of Computer Engineering and IT Faculty of Amirkabir University of Technology",
             "firstJob": "",
-            "firstJobDesc": "Student Scientific Chapter of our university is a place built by the students, for the students, but unlike Student Council (also known as Student Government), its goal is to create a fun and engaging environment for the students to engage in academic and scientific events. Our responsibilites included holding Talks, Panels, Innovation Fairs, Job Fairs, Scietific Contests, Educational Workshops and etc. The members of this organization were chosen by the direct vote of the faculty students each year. My role in this organization was to make sure that we have a proper connection with students and alumni who want to present their novel ideas to the industrial leaders of the field. I was also in charge of managing our olympiad teams, our robotic teams and making sure they have the proper funding and support for their work. One of my other responsibilities was to keep in touch with the outstanding alumni of our faculty and hold occasional(monthly) talks with them as the main speaker. You can see a vast list of events in which I contributed in the executive experience section.",
+            "firstJobDesc": "Student Scientific Chapter of our university is a place built by the students, for the students, but unlike Student Council (also known as Student Government), its goal is to create a fun and engaging environment for the students to engage in academic and scientific events. Our responsibilities included holding Talks, Panels, Innovation Fairs, Job Fairs, Scientific Contests, Educational Workshops and etc. The members of this organization were chosen by the direct vote of the faculty students each year. My role in this organization was to make sure that we have a proper connection with students and alumni who want to present their novel ideas to the industrial leaders of the field. I was also in charge of managing our Olympiad teams, our robotic teams and making sure they have the proper funding and support for their work. One of my other responsibilities was to keep in touch with the outstanding alumni of our faculty and hold occasional (monthly) talks with them as the main speaker. You can see a vast list of events in which I contributed in the executive experience section.",
             "end": "2016",
             "links": [
                 {
@@ -500,7 +502,8 @@
             "secondJob": "Contest Staff",
             "secondJobDesc": "During the contest I was also one of the staff that answered team questions and relayed the problems to the judges.",
             "end": "2018",
-            "links": [{
+            "links": [
+                {
                     "id": 1,
                     "linkText": "AUT ICPC Website",
                     "linkURL": "https://icpc.aut.ac.ir/"
@@ -544,11 +547,12 @@
             "timespan": "May 2017",
             "location": "9<sup>th</sup> National Amirkabir Linux Festival",
             "firstJob": "Head of Operations",
-            "firstJobDesc": "I was in charge of tasking each member of the staff to do what was necessary in order to hold the workshops in the best possible way, I was also responsible for openning and closing ceremony.",
+            "firstJobDesc": "I was in charge of tasking each member of the staff to do what was necessary in order to hold the workshops in the best possible way, I was also responsible for opening and closing ceremony.",
             "secondJob": "Workshop Coordinator",
-            "secondJobDesc": "I made the timetables and necessary coordinations with lecturers to assign the proper time slot for each workshop",
+            "secondJobDesc": "I made the timetables and necessary coordination with lecturers to assign the proper time slot for each workshop",
             "end": "2018",
-            "links": [{
+            "links": [
+                {
                     "id": 1,
                     "linkText": "Amirkabir Student Association news piece on the event",
                     "linkURL": "http://sao-aut.ir/%D9%86%D9%87%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D8%A7%D9%85%DB%8C%D8%B1%DA%A9%D8%A8%DB%8C%D8%B1/"
@@ -609,33 +613,33 @@
                 }
             ]
         },
-		{
-          "title": "KEY EXECUTIVE MEMBER",
-          "titleDescription": "Executive Member",
-          "timespan": "May 2015",
-          "location": "7<sup>th</sup> National Amirkabir Linux Festival",
-          "firstJob": "Event Staff",
-          "firstJobDesc": "There was a bunch of different tasks I did as a staff member of the festival, including preperations of the classes, coordination with lecturers and check-in of the registrants.",
-          "end": "2018",
-          "links": [
-            {
-              "id": 1,
-              "linkText": "Linuxfest Twitter Account",
-              "linkURL": "https://twitter.com/LinuxFestival"
-            },
-            {
-              "id": 2,
-              "linkText": "CEIT Faculty news piece of the event",
-              "linkURL": "http://ceit.aut.ac.ir/autcms/news/newsDetail.htm?id=1778221294&depurl=computer-engineering&lang=fa&cid=20436092"
-            },
-            {
-              "id": 3,
-              "linkText": "Checkout the facebook posts",
-              "linkURL": "https://www.facebook.com/hashtag/linuxfestir"
-            }
-          ]
+        {
+            "title": "KEY EXECUTIVE MEMBER",
+            "titleDescription": "Executive Member",
+            "timespan": "May 2015",
+            "location": "7<sup>th</sup> National Amirkabir Linux Festival",
+            "firstJob": "Event Staff",
+            "firstJobDesc": "There was a bunch of different tasks I did as a staff member of the festival, including preparations of the classes, coordination with lecturers and check-in of the registrants.",
+            "end": "2018",
+            "links": [
+                {
+                    "id": 1,
+                    "linkText": "Linuxfest Twitter Account",
+                    "linkURL": "https://twitter.com/LinuxFestival"
+                },
+                {
+                    "id": 2,
+                    "linkText": "CEIT Faculty news piece of the event",
+                    "linkURL": "http://ceit.aut.ac.ir/autcms/news/newsDetail.htm?id=1778221294&depurl=computer-engineering&lang=fa&cid=20436092"
+                },
+                {
+                    "id": 3,
+                    "linkText": "Checkout the facebook posts",
+                    "linkURL": "https://www.facebook.com/hashtag/linuxfestir"
+                }
+            ]
         },
-		{
+        {
             "title": "EXECUTIVE MEMBER",
             "titleDescription": "Executive Member",
             "timespan": "Nov 2014",
@@ -643,19 +647,20 @@
             "firstJob": "Contest Staff",
             "firstJobDesc": "During the contest I was also one of the staff that answered team questions and relayed the problems to the judges.",
             "end": "2018",
-            "links": [{
-                "id": 1,
-                "linkText": "AUT ICPC Website - Past Contests",
-                "linkURL": "https://icpc.aut.ac.ir/past"
-              },
-              {
-                "id": 2,
-                "linkText": "AUT ICPC Website - History",
-                "linkURL": "https://icpc.aut.ac.ir/history"
-              }
+            "links": [
+                {
+                    "id": 1,
+                    "linkText": "AUT ICPC Website - Past Contests",
+                    "linkURL": "https://icpc.aut.ac.ir/past"
+                },
+                {
+                    "id": 2,
+                    "linkText": "AUT ICPC Website - History",
+                    "linkURL": "https://icpc.aut.ac.ir/history"
+                }
             ]
         },
-		{
+        {
             "title": "EXECUTIVE MEMBER",
             "titleDescription": "Key Executive Member",
             "timespan": "Nov 2014",
@@ -665,11 +670,12 @@
             "firstJob": "Contest Staff",
             "firstJobDesc": "I used to speak to the contestants and the judges in order to relay the questions between the two and also helped the contestants in a variety of items, too.",
             "end": "2018",
-            "links": [{
-                "id": 1,
-                "linkText": "Event Website",
-                "linkURL": "http://ceit.aut.ac.ir/dsd/fpgasoc94/"
-              }
+            "links": [
+                {
+                    "id": 1,
+                    "linkText": "Event Website",
+                    "linkURL": "http://ceit.aut.ac.ir/dsd/fpgasoc94/"
+                }
             ]
         }
     ],
@@ -704,7 +710,7 @@
                 "title": "Indoor Mapping and Tracking in Wi-Fi based Networks",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Sep 2016 - Currently",
-                "description": "This is my thesis project and I've been working on it for the past year and a half. My main task in this project is to implement and benchmark the current Indoor mapping and Tracking technologies both on dedicated and general purpose hardware. Using the benchmark data I've come up with a new way that combines accoustic mapping and Wi-Fi fingerprinting to acquire a 2D map of an indoor environment and actively track the connected users in it. This is a hot topic in networking and has quite a large demand in the market.",
+                "description": "This is my thesis project and I've been working on it for the past year and a half. My main task in this project is to implement and benchmark the current Indoor mapping and Tracking technologies both on dedicated and general purpose hardware. Using the benchmark data I've come up with a new way that combines acoustic mapping and Wi-Fi fingerprinting to acquire a 2D map of an indoor environment and actively track the connected users in it. This is a hot topic in networking and has quite a large demand in the market.",
                 "logo": "/wifi.png",
                 "link": ""
             },
@@ -734,7 +740,7 @@
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Q1 2016",
                 "course": "Research Method & Report Writing Course",
-                "description": "This project involved making a technichal report and a poster of the subject. In this subject I explored different coding options in wireless sensor networks and presented it in the Research Method class.",
+                "description": "This project involved making a technical report and a poster of the subject. In this subject I explored different coding options in wireless sensor networks and presented it in the Research Method class.",
                 "logo": "wifi.svg",
                 "link": ""
             }
@@ -745,7 +751,7 @@
                 "title": "Snappfood Web Application",
                 "location": "Snappfood Co.",
                 "duration": "Nov 2017 - Currently",
-                "description": "We made a fresh Progressive Web Application using the latest Google standards. This application is for online food ordering and is the most famous and used app in this field. We made it using React.js, the other  descriptions are available in the Snappfood job description. Due to the privacy of the project and my NDA, I'm not able to share any code publicly, but if you want to take a look at the project, drop me an email.",
+                "description": "We made a fresh Progressive Web Application using the latest Google standards. This application is for online food ordering and is the most famous and used app in this field. We made it using React.js, the other descriptions are available in the Snappfood job description. Due to the privacy of the project and my NDA, I'm not able to share any code publicly, but if you want to take a look at the project, drop me an email.",
                 "logo": "/zoodfood.png",
                 "links": [
                     {
@@ -754,7 +760,7 @@
                         "url": "https://m.snappfood.ir"
                     },
                     {
-                        "id": 2, 
+                        "id": 2,
                         "title": "Project Report",
                         "logo": "/dropbox.svg",
                         "url": "https://www.dropbox.com/s/y2cs1z2dh9dr05u/snappfoodmain-web.zip?dl=0"
@@ -766,23 +772,23 @@
                 "title": "Amirkabir Buffet (Diner Web App of Amirkabir University)",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Apr 2017 - Sep 2017",
-                "description": "This project was done in Fandogh Co. and its main purpose was to make a new way for the university staff and students to order food from its diner. it's made using Vue, Nuxt and Node.js, plaese refer to the full project report in the links below.",
+                "description": "This project was done in Fandogh Co. and its main purpose was to make a new way for the university staff and students to order food from its diner. It’s made using Vue, Nuxt and Node.js, please refer to the full project report in the links below.",
                 "logo": "/aut.jpg",
                 "links": [
                     {
-                        "id": 1, 
+                        "id": 1,
                         "title": "Project Report",
                         "logo": "/dropbox.svg",
                         "url": "https://www.dropbox.com/s/agr3aa9b9m2xetm/Buffet.rar?dl=0"
                     }
-                ] 
+                ]
             },
             {
                 "id": 4,
                 "title": "Amirkabir University of Technology Support and Touble Ticketing System",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Dec 2016 - Jun 2017",
-                "description": "This project was in order to implement a system that addresses the trouble tickeing in our university. We built this using Nuxt and Vue, full project report and description is available in the links below.",
+                "description": "This project was in order to implement a system that addresses the trouble ticketing in our university. We built this using Nuxt and Vue, full project report and description is available in the links below.",
                 "logo": "/aut.jpg",
                 "links": [
                     {
@@ -791,7 +797,7 @@
                         "url": "",
                         "logo": "/dropbox.svg"
                     }
-                ] 
+                ]
             },
             {
                 "id": 5,
@@ -814,7 +820,7 @@
                 "title": "Adding networking context switch to XV6 O.S",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Q2 2015",
-                "course": "Computer Acrhitecture",
+                "course": "Computer Architecture",
                 "logo": "/xv6.png",
                 "link": ""
             },
@@ -838,7 +844,6 @@
                 "link": ""
             }
         ]
-		
     },
     "Skills": [
         {
@@ -848,7 +853,7 @@
             "description": "Something",
             "skills": [
                 {
-                    "id": 1, 
+                    "id": 1,
                     "title": "Node.js",
                     "duration": "4 Years",
                     "expertise": "Expert",
@@ -856,7 +861,7 @@
                     "description": "I learnt it about 4 years ago by self-study and have been working with it directly or indirectly(in React, Vue, Hapi, ...) ever since."
                 },
                 {
-                    "id": 2, 
+                    "id": 2,
                     "title": "JavaScript (ECMA 6)",
                     "duration": "4 Years",
                     "expertise": "Expert",
@@ -864,7 +869,7 @@
                     "description": "This new form of JavaScript is the one I've been constantly learning and pursing ever since I became aware of Node.js and I've been coding in this style for quite a long time."
                 },
                 {
-                    "id": 3, 
+                    "id": 3,
                     "title": "PHP",
                     "duration": "4 Years",
                     "expertise": "Quite Good",
@@ -872,7 +877,7 @@
                     "description": "This was the first back-end scripting language I learnt, back in the day. I must be honest, I don't really like it :D I used it a lot during my Laravel era, but right now, not su much. (or at all :D)"
                 },
                 {
-                    "id": 4, 
+                    "id": 4,
                     "title": "Java (J2EE)",
                     "duration": "3 Years",
                     "expertise": "Good",
@@ -880,23 +885,23 @@
                     "description": "The first OOP language I was taught in the university. I used it for some projects including my RTS game in the second semester and some other projects like implementing Network layers in Network I course."
                 },
                 {
-                    "id": 5, 
+                    "id": 5,
                     "title": "C/C++",
                     "duration": "1.5 Years",
                     "expertise": "Not bad",
                     "logo": "/cpp.png",
-                    "description": "The very first programming language I learned. I used it for the whole first semseter and made a C to assembly comiler in it. I also used it a lot during my hardware development era, using it in 8086 programming, Arduino Programming and for a large portion of my Thesis project."
+                    "description": "The very first programming language I learned. I used it for the whole first semester and made a C to assembly compiler in it. I also used it a lot during my hardware development era, using it in 8086 programming, Arduino Programming and for a large portion of my Thesis project."
                 },
                 {
-                    "id": 6, 
+                    "id": 6,
                     "title": "VHDL",
                     "duration": "1 Year",
                     "expertise": "Not bad",
                     "logo": "/vhdl.jpg",
-                    "description": "I learned it in Logic Design course in my third semster and used it in my hardware projects that required low level designs (Comp. Arch., Logic and FPGA)."
+                    "description": "I learned it in Logic Design course in my third semester and used it in my hardware projects that required low level designs (Comp. Arch., Logic and FPGA)."
                 },
                 {
-                    "id": 7, 
+                    "id": 7,
                     "title": "8086 Assembly",
                     "duration": "1 Year",
                     "expertise": "Not bad",
@@ -904,7 +909,7 @@
                     "description": "I used it mostly during my Microprocessor course and Lab in order to develop programs for 8086 processors"
                 },
                 {
-                    "id": 8, 
+                    "id": 8,
                     "title": "Objective C",
                     "duration": "1 Year",
                     "expertise": "Familiar",
@@ -912,15 +917,15 @@
                     "description": "The first language I used to make iOS programs. I'm quite familiar with the older versions of it but haven't been working with it for 2 years, now."
                 },
                 {
-                    "id": 9, 
+                    "id": 9,
                     "title": "Swift",
                     "duration": "1 Year",
                     "expertise": "Familiar",
                     "logo": "/swift.png",
-                    "description": "This was the second lang. I leadrned to create iOS programs. It's really good and flexible but I haven't been working with it for 1.5 years now."
+                    "description": "This was the second lang. I learned to create iOS programs. It's really good and flexible but I haven't been working with it for 1.5 years now."
                 },
                 {
-                    "id": 9, 
+                    "id": 9,
                     "title": "Python",
                     "duration": "0.5 Year",
                     "expertise": "Familiar",
@@ -928,7 +933,7 @@
                     "description": "I've been using it mostly for my thesis project and do not have a lot of experience in it. Although I'm developing my knowledge in it using many self-study courses."
                 },
                 {
-                    "id": 9, 
+                    "id": 9,
                     "title": "MATLAB",
                     "duration": "0.5 Year",
                     "expertise": "Familiar",
@@ -939,7 +944,7 @@
         },
         {
             "id": 2,
-            "title": "Tools and Developement Environments",
+            "title": "Tools and Development Environments",
             "image": "/ide.svg",
             "description": "Some Multi shit",
             "skills": [
@@ -957,7 +962,7 @@
                     "duration": "1.5 Years",
                     "expertise": "Good",
                     "logo": "/intellij.png",
-                    "description": "Before I was introduced to VSCode I used it quite a lot. The code snippet and completion features of it were quite good and its debuggin feature made it an ideal tool for programmers, yet its lack of speed made me move to VScode, eventually."
+                    "description": "Before I was introduced to VSCode I used it quite a lot. The code snippet and completion features of it were quite good and its debugging feature made it an ideal tool for programmers, yet its lack of speed made me move to VScode, eventually."
                 },
                 {
                     "id": 6,
@@ -989,7 +994,7 @@
                     "duration": "1 Year",
                     "expertise": "Fairly good",
                     "logo": "/atmel.png",
-                    "description": "My main tool for developing 8086 and AVR Provessor programs. I know it quite good and have been using it for the past year."
+                    "description": "My main tool for developing 8086 and AVR Processor programs. I know it quite good and have been using it for the past year."
                 },
                 {
                     "id": 11,
@@ -1021,7 +1026,7 @@
                     "duration": "1 Year",
                     "expertise": "Familiar",
                     "logo": "/webgl.svg",
-                    "description": "I learned it in my Grpahics I course and have been learning about it eversince. right now I can do some basic tasks with it but I'm constantly learning to do more advanced ones with it. I've been mostly using it in form of Three.js and in web related programs."
+                    "description": "I learned it in my Graphics I course and have been learning about it ever since. Right now I can do some basic tasks with it but I'm constantly learning to do more advanced ones with it. I've been mostly using it in form of Three.js and in web related programs."
                 },
                 {
                     "id": 36,
@@ -1049,7 +1054,7 @@
             "skills": [
                 {
                     "id": 12,
-                    "title": "JavaScirpt (ECMA6)",
+                    "title": "JavaScript (ECMA6)",
                     "duration": "5 Years",
                     "expertise": "Expert",
                     "logo": "/es6.png",
@@ -1061,7 +1066,7 @@
                     "duration": "1.5 Years",
                     "expertise": "Expert",
                     "logo": "/react.png",
-                    "description": "I learned it as a way to find the best framework for our Snappfood project. I've been working almost 24/7 with it for the past year and half and can confidently say I'm an expert in using it, extending it and also write frameworks and boilerplates with it. I know react's advanced topics and am pretty well aquainted with Redux, Thunk, Sagas, Helmet and many other react libraries."
+                    "description": "I learned it as a way to find the best framework for our Snappfood project. I've been working almost 24/7 with it for the past year and half and can confidently say I'm an expert in using it, extending it and also write frameworks and boilerplates with it. I know React's advanced topics and am pretty well acquainted with Redux, Thunk, Sagas, Helmet and many other react libraries."
                 },
                 {
                     "id": 14,
@@ -1069,7 +1074,7 @@
                     "duration": "2.5 Years",
                     "expertise": "Expert",
                     "logo": "/vue.png",
-                    "description": "This is a front-end framework I've been using for the past 2 years and a half and am quite an expert in it. I was a part of Nuxt development team for a while and am pretty good at developing node.js and webpack servers to do vue serverside rendering. I've done almost 5 big scale projects in Vue and Nuxt (including this site). I feel pretty much at home when developing in Vue."
+                    "description": "This is a front-end framework I've been using for the past 2 years and a half and am quite an expert in it. I was a part of Nuxt development team for a while and am pretty good at developing node.js and Webpack servers to do Vue server side rendering. I've done almost 5 big scale projects in Vue and Nuxt (including this site). I feel pretty much at home when developing in Vue."
                 },
                 {
                     "id": 15,
@@ -1117,7 +1122,7 @@
                     "duration": "4 Years",
                     "expertise": "Expert",
                     "logo": "/htmlcss.png",
-                    "description": "Well I don't think these two little guys need a lot of description :D I've been working with them in one way or another for the past 4-5 years and can say I know most of the things there is to know about them. (they're so simple :D)"
+                    "description": "Well I don't think these two little guys need a lot of description :D I've been working with them in one way or another for the past 4-5 years and can say I know most of the things there is to know about them. (They’re so simple :D)"
                 },
                 {
                     "id": 21,
@@ -1125,10 +1130,10 @@
                     "duration": "2 Years",
                     "expertise": "Good",
                     "logo": "/mongodb.png",
-                    "description": "This was the fist NOSQL databse technology that I worked with. I used it mostly during AUT Diner project. I'm good at using it with mongoose driver in MongoDB and with the corrsponding drivers in PHP."
+                    "description": "This was the first NOSQL database technology that I worked with. I used it mostly during AUT Diner project. I'm good at using it with mongoose driver in MongoDB and with the corresponding drivers in PHP."
                 }
             ]
-        }, 
+        },
         {
             "id": 4,
             "title": "Hardware Design and Implementation",
@@ -1149,7 +1154,7 @@
                     "duration": "2 Year",
                     "expertise": "Good",
                     "logo": "/proteus.jpg",
-                    "description": "Proteus was the main tool of visual circuit simulations in computer architecture course, I've also used it in microporcessor's project and lab and also in my final projcet sketches. I can develop complex circuits in it and can also simulate a handful of them, too."
+                    "description": "Proteus was the main tool of visual circuit simulations in computer architecture course, I've also used it in microprocessor’s project and lab and also in my final project sketches. I can develop complex circuits in it and can also simulate a handful of them, too."
                 },
                 {
                     "id": 24,
@@ -1197,7 +1202,7 @@
                     "duration": "A long Time :D",
                     "expertise": "Expert",
                     "logo": "/windows.svg",
-                    "description": "I've been working with Windows opersting system from Windows 95 up until the very recent Windows 10, I'm also a windows insider."
+                    "description": "I've been working with Windows operating system from Windows 95 up until the very recent Windows 10, I'm also a windows insider."
                 },
                 {
                     "id": 38,
@@ -1240,23 +1245,20 @@
             "time": "May 2016",
             "location": "Annual contest for outstanding Student Scientific Chapter of the University",
             "image": "/anjoman1.jpg"
-
         },
-		{
+        {
             "id": 3,
             "title": "<strong>Ranked 2<sup>nd</sup></strong> as a member of <strong>10<sup>th</sup> Student Scientific Chapter</strong> of Computer Engineering and IT faculty of Amirkabir University of Technology ",
             "time": "May 2015",
             "location": "Annual contest for outstanding Student Scientific Chapter of the University",
             "image": "/anjoman2.jpg"
-
         },
-		{
+        {
             "id": 4,
             "title": "<strong>Ranked 1<sup>st</sup></strong> among the students of Computer Engineering and IT faculty of Amirkabir University of Technology ",
             "time": "Sep 2016",
             "location": "Computer Engineering and IT faculty of Amirkabir University of Technology",
             "image": "/anjoman2.jpg"
-
         },
         {
             "id": 5,
@@ -1352,16 +1354,16 @@
         },
         {
             "id": 2,
-            "text": "He said: \"Son, when you grow up, would you be the savior of the broken? the beaten and the damned? \""
+            "text": "He said: \"Son, when you grow up, would you be the savior of the broken? The beaten and the damned? \""
         },
         {
             "id": 3,
-            "text": "He said: \"Will you, defeat them? your demons and all those none believers, the plans that they have made?\""
+            "text": "He said: \"Will you, defeat them? your demons and all those none believers, the plans that they have made? \""
         },
         {
             "id": 4,
             "photo": "/hand.svg",
-            "text": "Well these lines are from one of my favourite bands, \"My Chemical Romnace\", now let's tell you more a bit more about me! ^_^"
+            "text": "Well these lines are from one of my favorite bands, \"My Chemical Romance\", now let's tell you more a bit more about me! ^_^"
         },
         {
             "id": 5,
@@ -1371,17 +1373,17 @@
         {
             "id": 6,
             "photo": "/school.svg",
-            "text": "For some reason I started my highschool in the oldest highschool of this city, Alborz Highschool (Formerly known as The Americans College) in the city centre. This school turned my life quite upside down, I pursued math and physics, seriously, for the first time inmy life; attended Math, Physics, Computer and Astronoumy Olympiad and was able to get to the final round of National Math and Computer Olympiads. As a highschool student I just loved Geometry, Differential Equations and Calculus! I'm sure you can ask from any of my teachers and they'll vouch for me quite passionately (oh I used to drive'em crazyyy with my questions :D I couldn't help it much). My main goal and interest during this era was becoming a scientist, someone who can contribute to the existing mathematical knowledge and be outstanding, while doing it."
+            "text": "For some reason I started my high school in the oldest high school of this city, Alborz High school (Formerly known as The Americans College) in the city center. This school turned my life quite upside down, I pursued math and physics, seriously, for the first time in my life; attended Math, Physics, Computer and Astronomy Olympiad and was able to get to the final round of National Math and Computer Olympiads. As a high school student I just loved Geometry, Differential Equations and Calculus! I'm sure you can ask from any of my teachers and they'll vouch for me quite passionately (oh I used to drive them crazy with my questions :D I couldn't help it much). My main goal and interest during this era was becoming a scientist, someone who can contribute to the existing mathematical knowledge and be outstanding, while doing it."
         },
         {
             "id": 7,
             "photo": "/collaboration.svg",
-            "text": "After the Konkur (it's the national universities' entrance exam, something like S.A.T) I was ranked 1000 between about 300,000 test takers. My love for the mathematics, coupled with a fascination for tech. lead me to where I am right now, studying Computer Engineering in Amirkabir University of Technology - The second best university of my country. Here I became fascinated with student activities that are there for the students and are also run by them, I became more and more drawn to the Student Scientific Chapter of our faculty by our seniors and eventually was elected as a member of it, for two consecutive terms. I found working as a member of our scientific chapter really amazing, it's comprised of a variety of tasks that I could never even dream of doing as a student, tasks like holding international contests, fairs and talks, communicating with the wide variety of insutrial and academic people."
+            "text": "After the Konkur (it's the national universities' entrance exam, something like S.A.T) I was ranked 1000 between about 300,000 test takers. My love for the mathematics, coupled with a fascination for tech. lead me to where I am right now, studying Computer Engineering in Amirkabir University of Technology - The second best university of my country. Here I became fascinated with student activities that are there for the students and are also run by them, I became more and more drawn to the Student Scientific Chapter of our faculty by our seniors and eventually was elected as a member of it, for two consecutive terms. I found working as a member of our scientific chapter really amazing, it's comprised of a variety of tasks that I could never even dream of doing as a student, tasks like holding international contests, fairs and talks, communicating with the wide variety of industrial and academic people."
         },
         {
             "id": 8,
             "photo": "/cpu.svg",
-            "text": "My academic studies started in the hardware engineering field. I passed my semesters with impressive scores (except the third one which I get to it in a moment). I actually love teaching, and this love, coupled with my good scores resulted in me being the teaching assistant of many of the courses. Through this experience I came to know the responsibilities of a good teacher and I could also use my ideas as a student to further imporove my teaching methods and skills. Being a teaching assistant, also helped me to establlish useful relationships with many members of our faculty and professors. I also participated in two main research projects, one of which is my final thesis; so I can tell I have quite a lot of educational experience to start with, it turns me into a quite good gradute candidate, something I'm trying to do my best to be better at."
+            "text": "My academic studies started in the hardware engineering field. I passed my semesters with impressive scores (except the third one which I get to it in a moment). I actually love teaching, and this love, coupled with my good scores resulted in me being the teaching assistant of many of the courses. Through this experience I came to know the responsibilities of a good teacher and I could also use my ideas as a student to further improve my teaching methods and skills. Being a teaching assistant, also helped me to establish useful relationships with many members of our faculty and professors. I also participated in two main research projects, one of which is my final thesis; so I can tell I have quite a lot of educational experience to start with, it turns me into a quite good graduate candidate, something I'm trying to do my best to be better at."
         },
         {
             "id": 9,
@@ -1391,17 +1393,17 @@
         {
             "id": 10,
             "photo": "/computer.svg",
-            "text": "Unfortunatelly due to the financial problems in our country and some unfortunate university events, the stratup experience didn't live long enough to reach its final goal. I was off to Snappfood, the biggest online food ordering company in my country. I started working there, developing their new front-end using latest technologies in React. I've been working there for almost a year right now, a place with wonderful people and a functional working process. I learnt the basics of team-work and working for a big corporation in this company. During the last months, though, I was quite obsessively working on my thesis project 24/7 and had to depart the company to pursue my academic life."
+            "text": "Unfortunately due to the financial problems in our country and some unfortunate university events, the startup experience didn't live long enough to reach its final goal. I was off to Snappfood, the biggest online food ordering company in my country. I started working there, developing their new front-end using latest technologies in React. I've been working there for almost a year right now, a place with wonderful people and a functional working process. I learnt the basics of team-work and working for a big corporation in this company. During the last months, though, I was quite obsessively working on my thesis project 24/7 and had to depart the company to pursue my academic life."
         },
         {
             "id": 15,
             "photo": "/ribbon.svg",
-            "text": "Well, now it's time to explain my downfall in the third semester of my studies. I was diagnosed with a stage-2 colon cancer, a piece of news that devastated me, my family and friends. That semster I was really struggling to keep my spirits up between multiple visits to hospitals and doctors and my educational tasks. I hit the bottom of my GPA during that semester but with the help of many good doctors, my wonderful friends and the support of my family I was able to pass through the crisis and am right now a healthy person, totally free of the cancer. It might have taken about 3 devastating years but I learned a lot about it and came out of it, a different person."
+            "text": "Well, now it's time to explain my downfall in the third semester of my studies. I was diagnosed with a stage-2 colon cancer, a piece of news that devastated me, my family and friends. That semester I was really struggling to keep my spirits up between multiple visits to hospitals and doctors and my educational tasks. I hit the bottom of my GPA during that semester but with the help of many good doctors, my wonderful friends and the support of my family I was able to pass through the crisis and am right now a healthy person, totally free of the cancer. It might have taken about 3 devastating years but I learned a lot about it and came out of it, a different person."
         },
         {
             "id": 11,
             "photo": "/teacher.svg",
-            "text": "I always saw my self in an academic position, from the beginning of my primary school days, up until right now. I don't really think that I've been living up to my full academic potential in the past years and that's the reason I've been trying to change my route, take more online courses, participate in some active research in Computer Graphics, Game Development and HCI. I see my self in a professor's robe in a couple of years and I don't think anything or anyone can stop me from getting there :) so, now that you know almost everything about me, let me tell you more about my hobbies."
+            "text": "I always saw myself in an academic position, from the beginning of my primary school days, up until right now. I don't really think that I've been living up to my full academic potential in the past years and that's the reason I've been trying to change my route, take more online courses, participate in some active research in Computer Graphics, Game Development and HCI. I see myself in a professor's robe in a couple of years and I don't think anything or anyone can stop me from getting there :) so, now that you know almost everything about me, let me tell you more about my hobbies."
         },
         {
             "id": 12,
@@ -1411,18 +1413,17 @@
         {
             "id": 13,
             "photo": "/headphone.svg",
-            "text": "I also listen to music quite a lot! and my taste in it is quite ... well ... quite odd :D I do really enjoy classic works of Violin, Piano and their duets, But I also love some propeer rock band music like Green Day, My Chemical Romance and likes of so. I think music is the best way to capture a moment in time, in your life, so I have a playlist in Spotify named \"Stories\", be sure to check it out, it's the story of my life :)"
+            "text": "I also listen to music quite a lot! and my taste in it is quite ... well ... quite odd :D I do really enjoy classic works of Violin, Piano and their duets, But I also love some proper rock band music like Green Day, My Chemical Romance and likes of so. I think music is the best way to capture a moment in time, in your life, so I have a playlist in Spotify named \"Stories\", be sure to check it out, it's the story of my life :)"
         },
         {
             "id": 14,
             "photo": "/questionWithHat.svg",
             "text": "I hope you've found what you came here for :D whatever it might have been! I hope your questions about me were answered in a way, but I also hope you have now even more questions, questions that make you contact me and ask me anything you want :) don't be shy, my contact is available in the Contact section. Be sure to check it out."
         }
-       
     ],
     "OutstandingCourses": [
         {
-            "id": 1, 
+            "id": 1,
             "title": "Math. (I)",
             "timespan": "S1 2013-14 (Sep 2013 - Jan 2014)",
             "score": "18.33/20 (A)",
@@ -1436,7 +1437,7 @@
             ]
         },
         {
-            "id": 2, 
+            "id": 2,
             "title": "Discrete Structures",
             "timespan": "S2 2013-14 (Jan 2014 - Jun 2014)",
             "score": "17/20 (A)",
@@ -1450,7 +1451,7 @@
             ]
         },
         {
-            "id": 3, 
+            "id": 3,
             "title": "Computer Architecture",
             "timespan": "S1 2014-15 (Sep 2014 - Jan 2015)",
             "score": "18.75/20 (A)",
@@ -1464,7 +1465,7 @@
             ]
         },
         {
-            "id": 4, 
+            "id": 4,
             "title": "Electronic Circuits",
             "timespan": "S1 2014-15 (Sep 2014 - Jan 2015)",
             "score": "18.75/20 (A)",
@@ -1478,7 +1479,7 @@
             ]
         },
         {
-            "id": 5, 
+            "id": 5,
             "title": "Software Engineering",
             "timespan": "S1 2015-16 (Sep 2015 - Jan 2016)",
             "score": "17.5/20 (A)",
@@ -1492,7 +1493,7 @@
             ]
         },
         {
-            "id": 6, 
+            "id": 6,
             "title": "Computer Networks I",
             "timespan": "S1 2015-16 (Sep 2014 - Jan 2015)",
             "score": "19.5/20 (A)",
@@ -1506,7 +1507,7 @@
             ]
         },
         {
-            "id": 7, 
+            "id": 7,
             "title": "Digital Electronics",
             "timespan": "S1 2015-16 (Sep 2014 - Jan 2015)",
             "score": "19.5/20 (A)",
@@ -1520,7 +1521,7 @@
             ]
         },
         {
-            "id": 8, 
+            "id": 8,
             "title": "Digital Automation Design (FPGA)",
             "timespan": "S2 2015-16 (Jan 2016 - Jun 2016)",
             "score": "19.3/20 (A)",
@@ -1539,7 +1540,7 @@
             ]
         },
         {
-            "id": 9, 
+            "id": 9,
             "title": "VLSI Systems Design",
             "timespan": "S2 2015-16 (Jan 2016 - Jun 2016)",
             "score": "19.18/20 (A)",
@@ -1558,7 +1559,7 @@
             ]
         },
         {
-            "id": 10, 
+            "id": 10,
             "title": "Research Method and Report Writing",
             "timespan": "S2 2015-16 (Jan 2016 - Jun 2016)",
             "score": "19/20 (A)",
@@ -1577,7 +1578,7 @@
             ]
         },
         {
-            "id": 11, 
+            "id": 11,
             "title": "Internet Engineering",
             "timespan": "S1 2016-17 (Sep 2016 - Jan 2017)",
             "score": "18.25/20 (A)",
@@ -1591,7 +1592,7 @@
             ]
         },
         {
-            "id": 12, 
+            "id": 12,
             "title": "Principles of Database Design",
             "timespan": "S1 2016-17 (Sep 2016 - Jan 2017)",
             "score": "19.8/20 (A)",
@@ -1605,7 +1606,7 @@
             ]
         },
         {
-            "id": 13, 
+            "id": 13,
             "title": "Special Topics In Hardware - Startup",
             "timespan": "S1 2016-17 (Sep 2016 - Jan 2017)",
             "score": "19.3/20 (A)",
@@ -1655,7 +1656,7 @@
         },
         {
             "id": 17,
-            "title": "Embdded & Real-Time Systems",
+            "title": "Embedded & Real-Time Systems",
             "timespan": "S1 2017-18 (Sep 2017 - Jan 2018)",
             "score": "18.1/20 (A)",
             "prof": "Dr. Hossein Pedram, Associate Professor",
@@ -1683,4 +1684,3 @@
         }
     ]
 }
-
