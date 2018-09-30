@@ -12,6 +12,8 @@
           <div>
             <span class="headline">{{projectItem.title}}</span><br>
             <span class="subheading">{{projectItem.location}}</span>
+            <div class="subheading font-weight-bold" v-if="projectItem.supervisor">Supervisor: {{projectItem.supervisor}}</div>
+            <div class="subheading font-weight-bold" v-if="projectItem.status">{{projectItem.status}}</div>
             <div class="subheading" v-if="projectItem.course">
               <strong>Course:</strong>
               {{' ' + projectItem.course}}
