@@ -3,6 +3,28 @@
     "Overview": "I am a passionate UI/UX developer and love designing seamless user experiences. I'm also a mathematics enthusiast and love learning about new ideas in the field.",
     "Teaching": [
         {
+            "title": "RA",
+            "titleDescription": "Research Assistant",
+            "course": "Indoor Mapping and Localization",
+            "timespan": "Jul 2018 - Now",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "prof": "Dr. Mehdi Sedighi, Associate Professor",
+            "description": "I'm working closely with Dr. Sedighi to bring a new survey on Indoor Localization to life. We're also working of a novel method of indoor localization and mapping in IoT based networks with the assitance of acoustic signals in commodity smartphones. These projects started out as my thesis project, but we saw the potential in the studies we'd conducted and decided to write these papers from our work's results.",
+            "links": [
+                {
+                    "id": 1,
+                    "title": "Course Syllabus",
+                    "url": ""
+                },
+                {
+                    "id": 2,
+                    "title": "Course Repository",
+                    "url": "https://github.com/rajabiseraji/webDesign"
+                }
+            ],
+            "end": "-"
+        },
+        {
             "title": "LECT",
             "titleDescription": "Lecturer",
             "timespan": "Aug 2018 - Sep 2018",
