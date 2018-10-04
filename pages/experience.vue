@@ -18,7 +18,7 @@
         <v-tabs-slider color="yellow"></v-tabs-slider>
 
         <v-tab href="#teaching">
-          <span class="mt-2">Teaching</span>
+          <span class="mt-2">Teaching and Research</span>
           <img height="30px" src="/education.svg" alt="Teaching"/>
         </v-tab>
 
