@@ -15,7 +15,7 @@
               <div v-if="record.title !== 'LECT'" class="subheading">{{"Professor: " + record.prof}} </div>
               <div v-if="record.duration" class="subheading text--grey">{{"Duration: " + record.duration}} </div>
               <div v-if="record.coLecturer && record.coLecturer !== ''" class="subheading text--grey">{{"Co-lecturer: " + record.coLecturer}} </div>
-              <div v-if="record.description" class="subheading font-weight-bold">Course Description</div>
+              <div v-if="record.description" class="subheading font-weight-bold">{{record.title === 'RA' ? 'Job Description' : 'Course Description'}}</div>
               <blockquote class="recordDescription">{{record.description}}</blockquote>
               <div class="mt-3" v-if="record.links && record.links.length !== 0">
                 <div class="subheading font-weight-bold">Links</div>
