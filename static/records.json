@@ -307,6 +307,16 @@
             "titleDescription": "Teaching Assistant",
             "timespan": "Sep 2015 – Jan 2016",
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "course": "Discrete Mathematics",
+            "prof": "Dr. Mehran S. Fallah - Associate Professor",
+            "description": "",
+            "end": "2016"
+        },
+        {
+            "title": "TA",
+            "titleDescription": "Teaching Assistant",
+            "timespan": "Sep 2015 – Jan 2016",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Advanced Programming",
             "prof": "Dr. Bahman Poorvatan - Lecturer",
             "description": "",
