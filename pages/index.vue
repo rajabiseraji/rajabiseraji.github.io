@@ -3,7 +3,7 @@
     <v-flex xs12 sm6 md4>
       <div class="text-xs-center">
         <v-avatar
-          :size="200"
+          :size="300"
           color="grey lighten-4"
           class="mb-3 elevation-2"
         >
