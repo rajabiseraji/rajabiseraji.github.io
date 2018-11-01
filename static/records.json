@@ -732,7 +732,7 @@
                 "supervisor": "Dr. Mehdi Sedighi",
                 "location": "Amirkabir University of Technology (Tehran Polytechnic)– A.U.T",
                 "duration": "Sep 2016 - Currently",
-                "description": "This is my thesis project and I've been working on it for the past year and a half. My main task in this project is to implement and benchmark the current Indoor mapping and Tracking technologies both on dedicated and general purpose hardware. Using the benchmark data I've come up with a new way that combines acoustic mapping and Wi-Fi fingerprinting to acquire a 2D map of an indoor environment and actively track the connected users in it. This is a hot topic in networking and has quite a large demand in the market.",
+                "description": "This is my thesis project and I've been working on it for the past year and a half. My main task in this project is to implement and benchmark the current Indoor mapping and Tracking technologies both on dedicated and general purpose hardware. Using the benchmark data I've come up with a new way that combines acoustic mapping and Wi-Fi fingerprinting to acquire a 2D map of an indoor environment and actively track the connected users in it. This is a hot topic in networking and has quite a large demand in the market. We’re conducting a full-on survey based on more than 120 of the works in the literature in order to come up with a generalization of different methods, technologies and technics for indoor localization. The research and questionnaire phases are done by the time of this writing (Oct 2018) and we're proceeding into structuring the results into a well-written empirical research.",
                 "logo": "/wifi.png",
                 "link": ""
             },
