@@ -33,6 +33,9 @@
       <v-toolbar-title v-text="title" class="font-weight-light"></v-toolbar-title>
       <v-spacer></v-spacer>
 
+      <v-btn color="transparent" href="/CV.zip" target="_blank">
+        <strong>CV</strong>
+      </v-btn>
       <v-btn href="https://github.com/rajabiseraji" target="_blank" icon>
         <v-avatar size="20">
           <img src="/github.svg" alt="g">
