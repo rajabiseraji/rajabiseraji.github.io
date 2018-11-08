@@ -70,6 +70,7 @@ export default {
         { icon: 'apps', title: 'Overview', to: '/', image: '/menu.svg' },
         { icon: 'info', title: 'About me', to: '/story', image: '/information.svg' },
         { icon: 'school', title: 'Education', to: '/education', image: '/mortarboard.svg' },
+        { icon: 'language', title: 'Language', to: '/language', image: '/translate.svg' },
         { icon: 'work', title: 'Experience', to: '/experience', image: '/briefcase.svg' },
         { icon: 'work', title: 'Projects and Research', to: '/projects', image: '/analytics.svg' },
         { icon: 'color_lens', title: 'Skills', to: '/skills', image: '/skills.svg' },
