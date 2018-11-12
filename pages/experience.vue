@@ -7,7 +7,7 @@
         </div>
         <v-divider></v-divider>
       </v-flex>
-      <v-flex xs12 fill-height class="mt-2">
+      <v-flex xs12 fill-height class="mt-2 small-full-page">
       <v-tabs
           centered
           color="primary"
@@ -18,7 +18,7 @@
         <v-tabs-slider color="yellow"></v-tabs-slider>
 
         <v-tab href="#teaching">
-          <span class="mt-2">Teaching and Research</span>
+          <span class="mt-2">Academic</span>
           <img height="30px" src="/education.svg" alt="Teaching"/>
         </v-tab>
 
@@ -83,6 +83,13 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
+@media only screen and (max-width : 600px){
+  .small-full-page {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 11rem;
+  }
+}
 </style>
