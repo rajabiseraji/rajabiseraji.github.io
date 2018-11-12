@@ -12,7 +12,11 @@
         </div>
         <v-card>
           <v-card-text class="grey lighten-5">
-              <div v-if="record.title !== 'LECT'" class="subheading">{{"Professor: " + record.prof}} </div>
+              <div v-if="record.title !== 'LECT'" class="subheading">
+                Professor:
+                <a v-if="record.profLink" :href="record.profLink" target="_blank">{{" " + record.prof}}</a>
+                <span v-else>{{" " + record.prof}}</span> 
+              </div>
               <div v-if="record.duration" class="subheading text--grey">{{"Duration: " + record.duration}} </div>
               <div v-if="record.coLecturer && record.coLecturer !== ''" class="subheading text--grey">{{"Co-lecturer: " + record.coLecturer}} </div>
               <div v-if="record.description" class="subheading font-weight-bold">{{record.title === 'RA' ? 'Job Description' : 'Course Description'}}</div>
