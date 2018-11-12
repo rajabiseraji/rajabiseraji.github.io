@@ -33,12 +33,7 @@
                 {
                     "id": 1,
                     "title": "Course Syllabus",
-                    "url": ""
-                },
-                {
-                    "id": 2,
-                    "title": "Course Repository",
-                    "url": "https://github.com/rajabiseraji/webDesign"
+                    "url": "https://educenter.aut.ac.ir/reactsummer2018"
                 }
             ],
             "end": "-"
@@ -56,13 +51,8 @@
             "links": [
                 {
                     "id": 1,
-                    "title": "Course Syllabus",
-                    "url": ""
-                },
-                {
-                    "id": 2,
-                    "title": "Course Repository",
-                    "url": "https://github.com/rajabiseraji/webDesign"
+                    "title": "Course Poster",
+                    "url": "https://www.dropbox.com/s/0oepy3as5lt1v5z/NuxtVue.jpg?dl=0"
                 },
                 {
                     "id": 3,
@@ -89,18 +79,14 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Internet Engineering",
             "prof": "Dr. Bahador Bakhshi - Assistant Professor",
+            "profLink": "http://ceit.aut.ac.ir/~bakhshis/",
             "description": "I had three main tasks during this Teaching Assistantship period. First, I was in charge of coming up with a proper mid-term project for the students. Grading a fourth of all projects and home works was also one of my responsibilities. I, also created the student's second homework assignment.",
             "end": "2018",
             "links": [
                 {
                     "id": 1,
-                    "title": "Homework and Projects",
-                    "url": "TO BE UPDATED"
-                },
-                {
-                    "id": 2,
-                    "title": "Course Repo",
-                    "url": "TO BE UPDATED"
+                    "title": "Homework and Projects in GitHub repo",
+                    "url": "https://github.com/AUT-CEIT/IES96-97"
                 }
             ]
         },
@@ -111,6 +97,7 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Internet Engineering",
             "prof": "Dr. Bahador Bakhshi - Assistant Professor",
+            "profLink": "http://ceit.aut.ac.ir/~bakhshis/",
             "description": "I was the head teaching assistant of the course. My responsibilities included teaching extra classes on practical subjects, making weekly challenges for the students, making the homework questions and also creating the mid-term and final projects. I was also responsible for managing the grading TAs, assigning homework to them and also collect and report their results to the professor.",
             "projectText": "The repository for the homework and projects are available in the links below.",
             "links": {
@@ -133,8 +120,8 @@
             "links": [
                 {
                     "id": 1,
-                    "title": "Course Syllabus",
-                    "url": ""
+                    "title": "Course Poster",
+                    "url": "https://www.dropbox.com/s/dmfhj0x1ua6ofbk/summer%20pro.jpg?dl=0"
                 },
                 {
                     "id": 2,
@@ -156,12 +143,13 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "VLSI Systems Design",
             "prof": "Dr. Mahmoud Momtazpour - Assistant Professor",
+            "profLink": "http://ceit.aut.ac.ir/~momtazpour/",
             "description": "",
             "end": "2017",
             "links": {
                 "id": 1,
-                "title": "Course's Homepage",
-                "url": "TO BE UPDATED"
+                "title": "Dr. Momtazpour Faculty Homepage",
+                "url": "http://ceit.aut.ac.ir/~momtazpour/"
             }
         },
         {
@@ -177,13 +165,13 @@
             "links": [
                 {
                     "id": 1,
-                    "title": "Course Syllabus",
-                    "url": ""
+                    "title": "Course Poster",
+                    "url": "https://www.dropbox.com/s/zx1dkyzvgoz1w0i/spring.jpg?dl=0"
                 },
                 {
                     "id": 2,
                     "title": "Course Repository",
-                    "url": "https://github.com/rajabiseraji/webDesign"
+                    "url": "https://github.com/AUTWebCourse"
                 }
             ],
             "end": "-"
@@ -201,13 +189,8 @@
             "links": [
                 {
                     "id": 1,
-                    "title": "Course Syllabus",
-                    "url": ""
-                },
-                {
-                    "id": 2,
-                    "title": "Course Repository",
-                    "url": "https://github.com/rajabiseraji/webDesign"
+                    "title": "Course Poster",
+                    "url": "https://www.dropbox.com/s/zx1dkyzvgoz1w0i/spring.jpg?dl=0"
                 }
             ],
             "end": "-"
@@ -225,8 +208,13 @@
             "links": [
                 {
                     "id": 1,
-                    "title": "Course Syllabus",
-                    "url": ""
+                    "title": "Course Poster",
+                    "url": "https://www.dropbox.com/s/43q90rl8jymzzvh/Spring%20old.jpg?dl=0"
+                },
+                {
+                    "id": 2, 
+                    "title": "Course Repo",
+                    "url": "https://github.com/rajabiseraji/PHPCourse"
                 }
             ],
             "end": "-"
@@ -238,6 +226,7 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Digital Design Automation Using FPGA",
             "prof": "Dr. Morteza Saheb Zamani - Professor",
+            "profLink": "http://www.aut.ac.ir/szamani/",
             "description": "",
             "end": "2017"
         },
@@ -296,6 +285,7 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Computer Architecture",
             "prof": "Dr. Hamid R. Zarandi - Associate Professor",
+            "profLink": "http://www.aut.ac.ir/h_zarandi/",
             "description": "",
             "end": "2016"
         },
@@ -306,6 +296,7 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Logic Design",
             "prof": "Dr. Mehdi Sedighi - Associate Professor",
+            "profLink": "http://www.aut.ac.ir/msedighi/",
             "description": "",
             "end": "2016"
         },
@@ -316,6 +307,7 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Discrete Mathematics",
             "prof": "Dr. Mehran S. Fallah - Associate Professor ",
+            "profLink": "http://www.aut.ac.ir/msfallah/",
             "description": "",
             "end": "2016"
         },
@@ -336,6 +328,7 @@
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "course": "Technical English",
             "prof": "Dr. Majid Noorhosseini - Assistant Professor",
+            "profLink": "http://ceit.aut.ac.ir/autcms/people/verticalPagesAjax/professorHomePage.htm?url=majidnh&depurl=computer-engineering&lang=en",
             "description": "",
             "end": "2016"
         },
