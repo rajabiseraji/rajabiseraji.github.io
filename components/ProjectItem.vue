@@ -12,7 +12,14 @@
           <div>
             <span class="headline">{{projectItem.title}}</span><br>
             <span class="subheading">{{projectItem.location}}</span>
-            <div class="subheading font-weight-bold" v-if="projectItem.supervisor">Supervisor: {{projectItem.supervisor}}</div>
+            <div class="subheading font-weight-bold" v-if="projectItem.supervisor">Supervisor: 
+              <a v-if="projectItem.supervisorLink" :href="projectItem.supervisorLink" target="_blank" rel="noopener noreferrer">
+                {{projectItem.supervisor}}
+              </a>
+              <span v-else>
+                {{projectItem.supervisor}}
+              </span>
+            </div>
             <div class="subheading font-weight-bold" v-if="projectItem.status">{{projectItem.status}}</div>
             <div class="subheading" v-if="projectItem.course">
               <strong>Course:</strong>
