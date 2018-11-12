@@ -89,7 +89,7 @@ export default {
     position: absolute;
     right: 0;
     left: 0;
-    top: 11rem;
+    top: 200px;
   }
 }
 </style>
