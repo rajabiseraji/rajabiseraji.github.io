@@ -25,7 +25,7 @@
                 <div class="subheading font-weight-bold">Links</div>
                 <v-divider></v-divider>
                 <div class="mt-2" v-for="link in record.links" :key="link.id">
-                  <a :href="link.url">{{link.title}}</a>
+                  <a :href="link.url" target="_blank">{{link.title}}</a>
                 </div>
               </div>
           </v-card-text>

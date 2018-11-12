@@ -55,6 +55,11 @@
                     "url": "https://www.dropbox.com/s/0oepy3as5lt1v5z/NuxtVue.jpg?dl=0"
                 },
                 {
+                    "id": 2, 
+                    "title": "Course Repo",
+                    "url": "https://github.com/AUT-CEIT/vue-course.git"
+                },
+                {
                     "id": 3,
                     "title": "Pouya's Github | @pi0",
                     "url": "https://github.com/pi0"
@@ -165,11 +170,16 @@
             "links": [
                 {
                     "id": 1,
+                    "title": "Course Syllabus",
+                    "url": "https://www.dropbox.com/s/aehzgdtvrzlujuu/Web%20design.pdf?dl=0"
+                },
+                {
+                    "id": 2,
                     "title": "Course Poster",
                     "url": "https://www.dropbox.com/s/zx1dkyzvgoz1w0i/spring.jpg?dl=0"
                 },
                 {
-                    "id": 2,
+                    "id": 3,
                     "title": "Course Repository",
                     "url": "https://github.com/AUTWebCourse"
                 }
@@ -189,6 +199,11 @@
             "links": [
                 {
                     "id": 1,
+                    "title": "Course Syllabus",
+                    "url": "https://www.dropbox.com/s/9fgn1vbd0rpn1vf/Vue.pdf?dl=0"
+                },
+                {
+                    "id": 2,
                     "title": "Course Poster",
                     "url": "https://www.dropbox.com/s/zx1dkyzvgoz1w0i/spring.jpg?dl=0"
                 }
@@ -208,11 +223,16 @@
             "links": [
                 {
                     "id": 1,
+                    "title": "Course Syllabus",
+                    "url": "https://www.dropbox.com/s/q3hiei33duhny7t/PHP.pdf?dl=0"
+                },
+                {
+                    "id": 2,
                     "title": "Course Poster",
                     "url": "https://www.dropbox.com/s/43q90rl8jymzzvh/Spring%20old.jpg?dl=0"
                 },
                 {
-                    "id": 2, 
+                    "id": 3, 
                     "title": "Course Repo",
                     "url": "https://github.com/rajabiseraji/PHPCourse"
                 }
@@ -244,12 +264,7 @@
                 {
                     "id": 1,
                     "title": "Course Syllabus",
-                    "url": ""
-                },
-                {
-                    "id": 2,
-                    "title": "Course Repository",
-                    "url": "https://github.com/rajabiseraji/webDesign"
+                    "url": "https://www.dropbox.com/s/aehzgdtvrzlujuu/Web%20design.pdf?dl=0"
                 }
             ],
             "end": "-"
@@ -268,12 +283,7 @@
                 {
                     "id": 1,
                     "title": "Course Syllabus",
-                    "url": ""
-                },
-                {
-                    "id": 2,
-                    "title": "Course Repository",
-                    "url": ""
+                    "url": "https://www.dropbox.com/s/m0y9sw6ie8cksrw/Web%20design%20%282%29.pdf?dl=0"
                 }
             ],
             "end": "-"
@@ -346,7 +356,7 @@
                 {
                     "id": 1,
                     "title": "Course Syllabus",
-                    "url": ""
+                    "url": "https://www.dropbox.com/s/sxjuae03qpa18yh/WEB.pdf?dl=0"
                 },
                 {
                     "id": 2,
