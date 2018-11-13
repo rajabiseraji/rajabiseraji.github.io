@@ -1117,6 +1117,14 @@
                     "expertise": "Familiar",
                     "logo": "/threejs.png",
                     "description": "Refer to my WebGL description."
+                },
+                {
+                    "id": 137,
+                    "title": "Unity 2D & 3D",
+                    "duration": "3 months",
+                    "expertise": "Novice (Learning)",
+                    "logo": "/unity.png",
+                    "description": "I'm trying to learn Unity 3D for some months now, I am taking online courses on Udemy and Coursera, my next step is learning basics of game design."
                 }
             ]
         },
