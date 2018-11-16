@@ -25,7 +25,7 @@
                   <strong>TOEFL iBT (Oct 14, 2017)</strong>: 111/120 (Reading: 29, Listening: 29, Speaking: 28, Writing: 25)
                 </li>
                 <li>
-                  <strong>GRE (Nov 5, 2018)</strong>: Verbal Reasoning: 149, Quantitive Reasoning: 159, Analytical Writing: (TBA)
+                  <strong>GRE (Nov 5, 2018)</strong>: Verbal Reasoning: 149 (42nd percentile), Quantitive Reasoning: 159 (72nd percentile), Analytical Writing: 4 (59th percentile)
                 </li>
               </ul> 
           </v-flex>
