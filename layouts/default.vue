@@ -41,7 +41,7 @@
           <img src="/github.svg" alt="g">
         </v-avatar>
       </v-btn>
-      <v-btn href="https://www.linkedin.com/in/mohammad-rajabi-b59aa5a3/" target="_blank" icon>
+      <v-btn href="https://www.linkedin.com/in/mohammad-rajabi-seraji-b59aa5a3/" target="_blank" icon>
         <v-avatar tile size="20">
           <img src="/linkedin-logo.svg" alt="L">
         </v-avatar>
