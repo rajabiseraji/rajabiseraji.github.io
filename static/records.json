@@ -671,6 +671,22 @@
         },
         {
             "title": "EXECUTIVE MEMBER",
+            "titleDescription": "Key Executive Member",
+            "timespan": "May 2015",
+            "location": "2<sup>nd</sup> National Digital Design Contest",
+            "secondJob": "Judge System IT Support",
+            "secondJobDesc": "I helped out with the development of the judge system, gathering of the team of professors and technicians that oversaw the contest's process and also made operation arrangements for the pre-contest.",
+            "firstJob": "Contest Staff",
+            "firstJobDesc": "I used to speak to the contestants and the judges in order to relay the questions between the two and also helped the contestants in a variety of items, too.",
+            "end": "2018",
+            "links": [{
+                "id": 1,
+                "linkText": "Event Website",
+                "linkURL": "http://ceit.aut.ac.ir/dsd/fpgasoc94/"
+            }]
+        }
+        {
+            "title": "EXECUTIVE MEMBER",
             "titleDescription": "Executive Member",
             "timespan": "Nov 2014",
             "location": "15<sup>th</sup> Amirkabir International Collegiate Programming Contest (ACM ICPC)",
@@ -687,24 +703,6 @@
                     "id": 2,
                     "linkText": "AUT ICPC Website - History",
                     "linkURL": "https://icpc.aut.ac.ir/history"
-                }
-            ]
-        },
-        {
-            "title": "EXECUTIVE MEMBER",
-            "titleDescription": "Key Executive Member",
-            "timespan": "Nov 2014",
-            "location": "2<sup>nd</sup> National Digital Design Contest",
-            "secondJob": "Judge System IT Support",
-            "secondJobDesc": "I helped out with the development of the judge system, gathering of the team of professors and technicians that oversaw the contest's process and also made operation arrangements for the pre-contest.",
-            "firstJob": "Contest Staff",
-            "firstJobDesc": "I used to speak to the contestants and the judges in order to relay the questions between the two and also helped the contestants in a variety of items, too.",
-            "end": "2018",
-            "links": [
-                {
-                    "id": 1,
-                    "linkText": "Event Website",
-                    "linkURL": "http://ceit.aut.ac.ir/dsd/fpgasoc94/"
                 }
             ]
         }
