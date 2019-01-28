@@ -1037,6 +1037,101 @@
             ]
         },
         {
+            "id": 3,
+            "title": "Web Development",
+            "image": "/ux.svg",
+            "description": "Some Multi shit",
+            "skills": [{
+                    "id": 12,
+                    "title": "JavaScript (ECMA6)",
+                    "duration": "5 Years",
+                    "expertise": "Expert",
+                    "logo": "/es6.png",
+                    "description": "Refer to my ECMA6 description in Programming Languages section."
+                },
+                {
+                    "id": 13,
+                    "title": "React",
+                    "duration": "1.5 Years",
+                    "expertise": "Expert",
+                    "logo": "/react.png",
+                    "description": "I learned it as a way to find the best framework for our Snappfood project. I've been working almost 24/7 with it for the past year and half and can confidently say I'm an expert in using it, extending it and also write frameworks and boilerplates with it. I know React's advanced topics and am pretty well acquainted with Redux, Thunk, Sagas, Helmet and many other react libraries."
+                },
+                {
+                    "id": 59,
+                    "title": "React Native",
+                    "duration": "1 Year",
+                    "expertise": "Good",
+                    "logo": "/react-native.png",
+                    "description": "I have worked on some free-lance projects using this. Right now I am using in in co-development of Jabama's mobile application. I can use it alongside Redux, MobX, Saga and Thunk in a variety of situations. I also used the AR kit for React native to develop a testing application for my final project."
+                },
+                {
+                    "id": 14,
+                    "title": "Vue 2",
+                    "duration": "2.5 Years",
+                    "expertise": "Expert",
+                    "logo": "/vue.png",
+                    "description": "This is a front-end framework I've been using for the past 2 years and a half and am quite an expert in it. I was a part of Nuxt development team for a while and am pretty good at developing node.js and Webpack servers to do Vue server side rendering. I've done almost 5 big scale projects in Vue and Nuxt (including this site). I feel pretty much at home when developing in Vue."
+                },
+                {
+                    "id": 15,
+                    "title": "Nuxt.js",
+                    "duration": "2 Years",
+                    "expertise": "Expert",
+                    "logo": "/nuxt.png",
+                    "description": "Refer to my Vue 2 descriptions."
+                },
+                {
+                    "id": 16,
+                    "title": "Node.js",
+                    "duration": "4 Years",
+                    "expertise": "Expert",
+                    "logo": "/nodejs.png",
+                    "description": "Refer to my Node.js descriptions in programming languages sections."
+                },
+                {
+                    "id": 17,
+                    "title": "Hapi.js",
+                    "duration": "2 Years",
+                    "expertise": "Good",
+                    "logo": "/hapi.png",
+                    "description": "This is a good Node.js framework that we used in Fandogh, it's fast and flexible with the help to Hapi plugins, so it makes it an ideal framework to develop large-scale data-driven apps. I've been working with it for almost 2 years and although not an expert in it, I can do a lot using it."
+                },
+                {
+                    "id": 18,
+                    "title": "Laravel 5.3",
+                    "duration": "1 Year",
+                    "expertise": "Good",
+                    "logo": "/laravel.png",
+                    "description": "Refer to my PHP section in programming languages. I've done about 2 large-scale projects in it."
+                },
+                {
+                    "id": 19,
+                    "title": "PHP",
+                    "duration": "4 Years",
+                    "expertise": "Quite Good",
+                    "logo": "/php.png",
+                    "description": "Refer to my PHP section in programming languages section."
+                },
+                {
+                    "id": 20,
+                    "title": "Advanced HTML 5 and CSS3",
+                    "duration": "4 Years",
+                    "expertise": "Expert",
+                    "logo": "/htmlcss.png",
+                    "description": "Well I don't think these two little guys need a lot of description :D I've been working with them in one way or another for the past 4-5 years and can say I know most of the things there is to know about them. (They’re so simple :D)"
+                },
+                {
+                    "id": 21,
+                    "title": "MongoDB",
+                    "duration": "2 Years",
+                    "expertise": "Good",
+                    "logo": "/mongodb.png",
+                    "description": "This was the first NOSQL database technology that I worked with. I used it mostly during AUT Diner project. I'm good at using it with mongoose driver in MongoDB and with the corresponding drivers in PHP."
+                }
+            ]
+        },
+        {
             "id": 2,
             "title": "Tools and Development Environments",
             "image": "/ide.svg",
@@ -1145,94 +1240,6 @@
                     "expertise": "Novice (Learning)",
                     "logo": "/unity.png",
                     "description": "I'm trying to learn Unity 3D for some months now, I am taking online courses on Udemy and Coursera, my next step is learning basics of game design."
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "title": "Web Development",
-            "image": "/ux.svg",
-            "description": "Some Multi shit",
-            "skills": [
-                {
-                    "id": 12,
-                    "title": "JavaScript (ECMA6)",
-                    "duration": "5 Years",
-                    "expertise": "Expert",
-                    "logo": "/es6.png",
-                    "description": "Refer to my ECMA6 description in Programming Languages section."
-                },
-                {
-                    "id": 13,
-                    "title": "React",
-                    "duration": "1.5 Years",
-                    "expertise": "Expert",
-                    "logo": "/react.png",
-                    "description": "I learned it as a way to find the best framework for our Snappfood project. I've been working almost 24/7 with it for the past year and half and can confidently say I'm an expert in using it, extending it and also write frameworks and boilerplates with it. I know React's advanced topics and am pretty well acquainted with Redux, Thunk, Sagas, Helmet and many other react libraries."
-                },
-                {
-                    "id": 14,
-                    "title": "Vue 2",
-                    "duration": "2.5 Years",
-                    "expertise": "Expert",
-                    "logo": "/vue.png",
-                    "description": "This is a front-end framework I've been using for the past 2 years and a half and am quite an expert in it. I was a part of Nuxt development team for a while and am pretty good at developing node.js and Webpack servers to do Vue server side rendering. I've done almost 5 big scale projects in Vue and Nuxt (including this site). I feel pretty much at home when developing in Vue."
-                },
-                {
-                    "id": 15,
-                    "title": "Nuxt.js",
-                    "duration": "2 Years",
-                    "expertise": "Expert",
-                    "logo": "/nuxt.png",
-                    "description": "Refer to my Vue 2 descriptions."
-                },
-                {
-                    "id": 16,
-                    "title": "Node.js",
-                    "duration": "4 Years",
-                    "expertise": "Expert",
-                    "logo": "/nodejs.png",
-                    "description": "Refer to my Node.js descriptions in programming languages sections."
-                },
-                {
-                    "id": 17,
-                    "title": "Hapi.js",
-                    "duration": "2 Years",
-                    "expertise": "Good",
-                    "logo": "/hapi.png",
-                    "description": "This is a good Node.js framework that we used in Fandogh, it's fast and flexible with the help to Hapi plugins, so it makes it an ideal framework to develop large-scale data-driven apps. I've been working with it for almost 2 years and although not an expert in it, I can do a lot using it."
-                },
-                {
-                    "id": 18,
-                    "title": "Laravel 5.3",
-                    "duration": "1 Year",
-                    "expertise": "Good",
-                    "logo": "/laravel.png",
-                    "description": "Refer to my PHP section in programming languages. I've done about 2 large-scale projects in it."
-                },
-                {
-                    "id": 19,
-                    "title": "PHP",
-                    "duration": "4 Years",
-                    "expertise": "Quite Good",
-                    "logo": "/php.png",
-                    "description": "Refer to my PHP section in programming languages section."
-                },
-                {
-                    "id": 20,
-                    "title": "Advanced HTML 5 and CSS3",
-                    "duration": "4 Years",
-                    "expertise": "Expert",
-                    "logo": "/htmlcss.png",
-                    "description": "Well I don't think these two little guys need a lot of description :D I've been working with them in one way or another for the past 4-5 years and can say I know most of the things there is to know about them. (They’re so simple :D)"
-                },
-                {
-                    "id": 21,
-                    "title": "MongoDB",
-                    "duration": "2 Years",
-                    "expertise": "Good",
-                    "logo": "/mongodb.png",
-                    "description": "This was the first NOSQL database technology that I worked with. I used it mostly during AUT Diner project. I'm good at using it with mongoose driver in MongoDB and with the corresponding drivers in PHP."
                 }
             ]
         },
