@@ -743,6 +743,18 @@
             "end": "2018"
         },
         {
+            "title": "B.Sc.",
+            "titleDescription": "Bachelor of Science",
+            "timespan": "2013 - 2018",
+            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
+            "major": "Major: Computer Engineering",
+            "minor": "Minor: Computer Architecture and Hardware Design",
+            "GPA": "GPA: 17.33/20 (A)",
+            "logo": "/aut.jpg",
+            "url": "http://aut.ac.ir/aut/",
+            "end": "2018"
+        },
+        {
             "title": "HSDG",
             "titleDescription": "High School Diploma Graduate",
             "timespan": "2009 - 2013",
