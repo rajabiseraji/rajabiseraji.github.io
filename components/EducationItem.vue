@@ -3,7 +3,7 @@
         <v-card-media
           contain
           v-if="educationRecord.logo === '/sfu.jpg'"
-          src="/alborz.jpg"
+          src="/sfu.jpg"
           height="120px"
         />
         <v-card-media
