@@ -2,7 +2,13 @@
     <v-card class="my-card pt-4">
         <v-card-media
           contain
-          v-if="educationRecord.logo === '/aut.jpg'"
+          v-if="educationRecord.logo === '/sfu.jpg'"
+          src="/alborz.jpg"
+          height="120px"
+        />
+        <v-card-media
+          contain
+          v-else-if="educationRecord.logo === '/aut.jpg'"
           src="/aut.jpg"
           height="120px"
         />
@@ -12,6 +18,7 @@
           src="/alborz.jpg"
           height="120px"
         />
+        
 
         <v-card-title primary-title>
           <div>
