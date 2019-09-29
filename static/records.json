@@ -731,16 +731,16 @@
     ],
     "Education": [
         {
-            "title": "BSc.",
-            "titleDescription": "Bachelor of Science",
-            "timespan": "2013 - 2018",
-            "location": "Amirkabir University of Technology (Tehran Polytechnic)",
-            "major": "Major: Computer Engineering",
-            "minor": "Minor: Computer Architecture and Hardware Design",
-            "GPA": "GPA: 17.33/20 (A)",
-            "logo": "/aut.jpg",
-            "url": "http://aut.ac.ir/aut/",
-            "end": "2018"
+            "title": "M.Sc.",
+            "titleDescription": "Master of Science",
+            "timespan": "2019 - TBD",
+            "location": "Simon Fraser University",
+            "major": "Interactive Arts and Technology",
+            "minor": " ",
+            "GPA": "GPA: TBD",
+            "logo": "/sfu.jpg",
+            "url": "https://www.sfu.ca/",
+            "end": "TBD"
         },
         {
             "title": "B.Sc.",
