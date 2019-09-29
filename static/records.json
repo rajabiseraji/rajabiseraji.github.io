@@ -3,10 +3,27 @@
     "Overview": "I am a passionate Computer Science student who's in love with seamless and perfect UI/UX design and has about 4 years of experience in developing such experiences. I'm a nerd, with a knack for good mathematic problems and a gamer, in core who has just found his affection for Game Analytics and Games User research. I'm especially interested about AI-based games user analysis and I think it might determine the future of gaming (as an industry or research area).",
     "Teaching": [
         {
+            "title": "GRA",
+            "titleDescription": "Graduate Research Assistant",
+            "course": "The Virtual and Augmented Reality, Visual Analytics, Interaction, Systems & Experiments Lab (VVISE) Research Group",
+            "timespan": "Sep 2019 - Now",
+            "location": "Simon Fraser University",
+            "prof": "Prof. Wolfgang Stuerzlinger, Professor",
+            "profLink": "https://www.sfu.ca/siat/people/research-faculty/wolfgang-stuerzlinger.html",
+            "description": "The research in the VVISE group spans the fields of Human-Computer Interaction, Virtual and Augmented Reality, Visual and Immersive Analytics, large displays, 3D User Interfaces, and both software and hardware systems.",
+            "end": "-",
+            "links": [{
+                    "id": 1,
+                    "title": "Prof. Stuerzlinger's homepage",
+                    "url": "http://ws.iat.sfu.ca"
+                }
+            ]
+        },
+        {
             "title": "RA",
             "titleDescription": "Research Assistant",
             "course": "Indoor Mapping and Localization",
-            "timespan": "Jul 2018 - Now",
+            "timespan": "Jul 2018 - Jun 2019",
             "location": "Amirkabir University of Technology (Tehran Polytechnic)",
             "prof": "Dr. Mehdi Sedighi, Associate Professor",
             "profLink": "http://www.aut.ac.ir/msedighi/",
