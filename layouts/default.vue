@@ -33,7 +33,7 @@
       <v-toolbar-title v-text="title" class="font-weight-light"></v-toolbar-title>
       <v-spacer></v-spacer>
       
-      <v-btn color="transparent" href="https://www.dropbox.com/sh/gi48cp7ix8i9p0c/AACM2PLBKXDaeZPRTriCsyFaa?dl=0" target="_blank">
+      <v-btn color="transparent" href="https://www.dropbox.com/sh/rzpl1a9jn5ikfqi/AACAwk3DnnoCmLY_PH-Z-Me6a?dl=0" target="_blank">
         <strong>CV</strong>
       </v-btn>
       <v-btn href="https://github.com/rajabiseraji" target="_blank" icon>

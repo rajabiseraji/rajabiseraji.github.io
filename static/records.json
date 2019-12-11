@@ -388,7 +388,7 @@
         {
             "title": "Alibaba Travels Co.",
             "titleDescription": "Senior Front-end Developer",
-            "timespan": "Nov 2018 - Now",
+            "timespan": "Nov 2018 - Sep 2019",
             "location": "Alibaba Travels Co.",
             "firstJob": "Senior Front-end Developer",
             "firstJobDesc": "I am working in the big family of Alibaba as a Senior front-end developer in Jabama team. We're working on a platform to enable online booking of Hotels (both inside and outside Iran), Tours and other means of accommodation. We're are also making a new platform, called the 'Experience', which allows people to buy travel experiences. We're working with Vue.js and Nuxt.",
@@ -786,6 +786,18 @@
         "Research": [
             {
                 "id": 1,
+                "title": "Effects of Jitter in Mid-way Pointing Tasks in VR",
+                "status": "To be submitted to ICVR 2020",
+                "supervisor": "Prof. Wolfgang Stuerzlinger",
+                "supervisorLink": "http://ws.iat.sfu.ca/",
+                "location": "Simon Fraser University - SFU",
+                "duration": "Sep 2019 - Currently",
+                "description": "In this study we are trying to find out the effects of rotational and positional jitter on doing simple 2D Fitts' law tasks.",
+                "logo": "/headset.png",
+                "link": ""
+            },
+            {
+                "id": 22,
                 "title": "A Survey on Indoor Localization Methods",
                 "status": "In-Progress, To be submitted to WINSYS 2019 and the next UbiComp",
                 "supervisor": "Dr. Mehdi Sedighi",
@@ -858,6 +870,46 @@
             }
         ],
         "Projects": [
+            {
+                "id": 222,
+                "title": "Alibaba Web Application",
+                "location": "Alibaba Travels Co.",
+                "duration": "Nov 2018 - Sep 2019",
+                "description": "Contributing to the implemetation of Alibaba's main website using vue.js, Nuxt.js.",
+                "logo": "/alibaba.png",
+                "links": [
+                    {
+                        "id": 1,
+                        "title": "Project Website",
+                        "url": "https://alibaba.ir"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Alibaba in LinkedIn",
+                        "url": "https://www.linkedin.com/company/alibaba-ir/"
+                    },
+                ]
+            },
+            {
+                "id": 223,
+                "title": "Jabama Web Application",
+                "location": "Alibaba Travels Co.",
+                "duration": "Nov 2018 - Sep 2019",
+                "description": "I was a senior front-end developer and in charge of implementation of the new front-end design of the Jabama website. This website is one of the first ones in the country that makes it possible to reserve accomodation and experiences, online. We made it using Vue.js, Nuxt and also contributed to the making of the iOS appliaction using React.",
+                "logo": "/jabama.jpg",
+                "links": [
+                    {
+                        "id": 1,
+                        "title": "Project Website",
+                        "url": "https://jabama.com"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Alibaba in LinkedIn",
+                        "url": "https://www.linkedin.com/company/alibaba-ir/"
+                    },
+                ]
+            },
             {
                 "id": 2,
                 "title": "Snappfood Web Application",
@@ -1266,9 +1318,9 @@
                     "id": 137,
                     "title": "Unity 2D & 3D",
                     "duration": "3 months",
-                    "expertise": "Novice (Learning)",
+                    "expertise": "Intermediate",
                     "logo": "/unity.png",
-                    "description": "I'm trying to learn Unity 3D for some months now, I am taking online courses on Udemy and Coursera, my next step is learning basics of game design."
+                    "description": "I worked as an intern in a gaming company called Black Cube Games and worked with Unity3D and Unity2D in making of Electron and Tales of Bistun games. I also am working with Unity as a paert of my research assitantship."
                 }
             ]
         },
@@ -1416,22 +1468,22 @@
             "title": "Email",
             "type": "mail",
             "icon": "/email.svg",
-            "value": "rajabiseraji@aut.ac.ir",
-            "url": "mailto:rajabiseraji%40aut.ac.ir"
+            "value": "mrajabis@sfu.ca",
+            "url": "mailto:mrajabis%40sfu.ca"
         },
         {
             "title": "Email",
             "type": "mail",
             "icon": "/email.svg",
-            "value": "rajabiseraji@outlook.com",
-            "url": "mailto:rajabiseraji%40outlook.com"
+            "value": "m.rajabiseraji@gmail.com",
+            "url": "mailto:m.rajabiseraji%40gmail.com"
         },
         {
             "title": "Cellphone Number",
             "type": "phone",
             "icon": "/phone-receiver.svg",
             "hidden": false,
-            "value": "+98 930 495 99 68"
+            "value": "+1-(778)-318-9439"
         },
         {
             "title": "Home Number",
